@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-26T18:56:12Z",
+ "exporte": "2026-10-26T19:56:59Z",
  "briefing": {
   "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T18:43:32Z",
-  "genereLe": "2026-10-26T13:52:00Z",
+  "derniereCollecte": "2026-10-26T19:43:53Z",
+  "genereLe": "2026-10-26T19:43:53Z",
   "points": [
    {
     "ids": [
@@ -13,7 +13,13 @@
      "ebola-ci-vigilance",
      "ouganda-quarantaine-21-jours"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre, et désormais quarantaine de 21 jours en Ouganda pour les retours de RDC. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre, quarantaine de 21 jours en Ouganda pour les retours de RDC. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
+   },
+   {
+    "ids": [
+     "ebola-nigeria-evacuation-patiente"
+    ],
+    "texte": "La patiente index du Nigeria a été évacuée par avion sanitaire depuis Abuja le 26 octobre. Nos plans d'urgence doivent prévoir ce cas de figure : réception ou départ d'un patient contagieux en aviation d'affaires."
    },
    {
     "ids": [
@@ -26,23 +32,18 @@
     "ids": [
      "af-hf-codeshare"
     ],
-    "texte": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis hier. Bon signal pour le hub, l'effet sur le réseau intérieur reste à mesurer."
+    "texte": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis le 25 octobre. Bon signal pour le hub, l'effet sur le réseau intérieur reste à mesurer."
    },
    {
     "ids": [
-     "bad-maroc-pemia"
-    ],
-    "texte": "La BAD signe 270 millions d'euros avec le Maroc pour ses aéroports. Le montage mérite d'être regardé pour Yamoussoukro."
-   },
-   {
-    "ids": [
+     "bad-maroc-pemia",
      "aibd-scanners-tsa",
      "safa-plan-urgence"
     ],
-    "texte": "Scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : deux points de comparaison pour le PARSA et pour nos propres exercices."
+    "texte": "Financement BAD de 270 millions d'euros pour les aéroports marocains, scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : trois points de comparaison pour Yamoussoukro et le PARSA."
    }
   ],
-  "prochaineCollecte": "2026-10-26T19:42:00Z"
+  "prochaineCollecte": "2026-10-26T20:42:00Z"
  },
  "items": [
   {
@@ -174,6 +175,25 @@
    "url": "https://allafrica.com/stories/202610260116.html",
    "zone": "afrique",
    "id": "ebola-nigeria-declaration"
+  },
+  {
+   "ajoute": "2026-10-26T19:43:40Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "évacuation sanitaire",
+    "Abuja",
+    "aviation d'affaires"
+   ],
+   "priorite": "haute",
+   "resume": "Le premier cas d'Ebola confirmé au Nigeria, une femme de 42 ans, a quitté le pays tôt le 26 octobre 2026 à bord d'un avion sanitaire, depuis l'aile des jets privés de l'aéroport Nnamdi Azikiwe d'Abuja. L'aile privée a été fermée pendant l'opération et la destination n'était pas confirmée officiellement au moment de la publication. Cet article complète la fiche sur la déclaration sanitaire nigériane : le cas index n'est plus sur le territoire, mais la surveillance aux points d'entrée continue, à Lagos notamment.",
+   "secteur": "medecine",
+   "sodexam": "Une évacuation sanitaire d'un patient contagieux par aviation d'affaires est un scénario que nos aéroports pourraient avoir à gérer. Il faut vérifier que le plan d'urgence de FHB et ceux de l'intérieur prévoient une procédure dédiée (zone isolée, circuit des véhicules, protection du personnel) avec l'INHP.",
+   "source": "ThisDay",
+   "titre": "Ebola : la patiente index du Nigeria évacuée par avion sanitaire depuis Abuja",
+   "url": "https://www.thisdaylive.com/2026/10/26/nigerias-index-ebola-patient-evacuated-abroad-by-air-ambulance/",
+   "zone": "afrique",
+   "id": "ebola-nigeria-evacuation-patiente"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
