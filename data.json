@@ -1,18 +1,19 @@
 {
- "exporte": "2026-10-26T13:00:25Z",
+ "exporte": "2026-10-26T15:43:09Z",
  "briefing": {
   "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T12:58:00Z",
-  "genereLe": "2026-10-26T11:28:00Z",
+  "derniereCollecte": "2026-10-26T14:50:00Z",
+  "genereLe": "2026-10-26T13:52:00Z",
   "points": [
    {
     "ids": [
      "ebola-nigeria-declaration",
      "ebola-entebbe-enquete",
      "ebola-usa-declaration",
-     "ebola-ci-vigilance"
+     "ebola-ci-vigilance",
+     "ouganda-quarantaine-21-jours"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre, et désormais quarantaine de 21 jours en Ouganda pour les retours de RDC. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
    },
    {
     "ids": [
@@ -41,7 +42,7 @@
     "texte": "Scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : deux points de comparaison pour le PARSA et pour nos propres exercices."
    }
   ],
-  "prochaineCollecte": "2026-10-26T13:58:00Z"
+  "prochaineCollecte": "2026-10-26T15:50:00Z"
  },
  "items": [
   {
@@ -283,6 +284,26 @@
    "url": "https://weather.com/2026/10/22/news/weather/wrecking-ball-el-nino-wmo-winter-forecast",
    "zone": "monde",
    "id": "omm-el-nino-record"
+  },
+  {
+   "ajoute": "2026-10-26T13:52:00Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Ouganda",
+    "quarantaine",
+    "Entebbe",
+    "fiche de localisation"
+   ],
+   "priorite": "veille",
+   "resume": "Le ministre ougandais de la Santé a annoncé une quarantaine obligatoire de 21 jours, à leurs frais, pour les Ougandais revenant de RDC. Le pays se dit toujours indemne. Le contrôle sanitaire est renforcé à Entebbe et aux frontières terrestres, et tout voyageur entrant doit remplir une fiche de localisation. L'examen des vidéos de l'aéroport n'a montré aucun contact entre les deux malades passés par Entebbe le 3 octobre.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Les pays de transit durcissent leurs règles un par un ; à suivre pour savoir si une fiche de localisation passager devient la norme dans la région et ce qu'elle demanderait à FHB.",
+   "source": "Voice of Nigeria",
+   "titre": "Ebola : l'Ouganda impose 21 jours de quarantaine aux retours de RDC",
+   "url": "https://von.gov.ng/uganda-tightens-ebola-control-introduces-21-day-quarantine",
+   "zone": "afrique",
+   "id": "ouganda-quarantaine-21-jours"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
