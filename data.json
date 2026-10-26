@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-26T20:56:46Z",
+ "exporte": "2026-10-26T21:56:28Z",
  "briefing": {
   "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T20:43:55Z",
-  "genereLe": "2026-10-26T20:43:55Z",
+  "derniereCollecte": "2026-10-26T21:44:23Z",
+  "genereLe": "2026-10-26T21:44:23Z",
   "points": [
    {
     "ids": [
@@ -17,9 +17,10 @@
    },
    {
     "ids": [
-     "ebola-nigeria-evacuation-patiente"
+     "ebola-nigeria-evacuation-patiente",
+     "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "La patiente index du Nigeria a été évacuée par avion sanitaire depuis Abuja le 26 octobre. Nos plans d'urgence doivent prévoir ce cas de figure : réception ou départ d'un patient contagieux en aviation d'affaires."
+    "texte": "La patiente du Nigeria a été évacuée vers la Suisse le 26 octobre et 53 contacts restent suivis. Le Nigeria ne contrôle pas les passagers des vols intérieurs : c'est un point à vérifier sur nos aéroports de l'intérieur, avec le cas de l'évacuation sanitaire en aviation d'affaires dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -44,7 +45,7 @@
     "texte": "Financement BAD de 270 millions d'euros pour les aéroports marocains, scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : trois points de comparaison pour Yamoussoukro et le PARSA."
    }
   ],
-  "prochaineCollecte": "2026-10-26T21:42:00Z"
+  "prochaineCollecte": "2026-10-26T22:42:00Z"
  },
  "items": [
   {
@@ -214,6 +215,26 @@
    "url": "https://www.thisdaylive.com/2026/10/26/nigerias-index-ebola-patient-evacuated-abroad-by-air-ambulance/",
    "zone": "afrique",
    "id": "ebola-nigeria-evacuation-patiente"
+  },
+  {
+   "ajoute": "2026-10-26T21:44:10Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "évacuation sanitaire",
+    "contacts",
+    "vols intérieurs"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministre nigérian de la Santé a confirmé le 26 octobre 2026 que la patiente, une Suissesse de 42 ans, a été évacuée vers la Suisse. Cela précise la fiche sur l'évacuation depuis Abuja, où la destination n'était pas encore officielle. Le Nigeria suit 53 contacts primaires, dont 44 soignants ; l'OMS avance un chiffre un peu différent. Le filtrage est renforcé dans les aéroports internationaux, mais les vols intérieurs ne font pas l'objet de contrôle des passagers.",
+   "secteur": "medecine",
+   "sodexam": "Le pays n'a plus de cas actif connu, mais la chaîne de contacts reste ouverte pendant 21 jours. Le point faible signalé au Nigeria, l'absence de contrôle sur les vols intérieurs, mérite d'être vérifié chez nous pour Bouaké, Korhogo, San Pedro et Yamoussoukro.",
+   "source": "Globe TV (ministère nigérian de la Santé)",
+   "titre": "Ebola : la patiente du Nigeria évacuée vers la Suisse, 53 contacts suivis",
+   "url": "https://globetv.app/news/nigeria-flies-its-only-ebola-patient-to-switzerland-as-53-contacts-are-traced-6adfb682b85a6",
+   "zone": "afrique",
+   "id": "ebola-nigeria-patiente-suisse-53-contacts"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
