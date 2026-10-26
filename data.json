@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-26T21:56:28Z",
+ "exporte": "2026-10-26T22:56:05Z",
  "briefing": {
   "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T21:44:23Z",
-  "genereLe": "2026-10-26T21:44:23Z",
+  "derniereCollecte": "2026-10-26T22:44:11Z",
+  "genereLe": "2026-10-26T22:44:11Z",
   "points": [
    {
     "ids": [
@@ -17,10 +17,11 @@
    },
    {
     "ids": [
+     "ebola-lagos-surveillance-aeroport",
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "La patiente du Nigeria a été évacuée vers la Suisse le 26 octobre et 53 contacts restent suivis. Le Nigeria ne contrôle pas les passagers des vols intérieurs : c'est un point à vérifier sur nos aéroports de l'intérieur, avec le cas de l'évacuation sanitaire en aviation d'affaires dans nos plans d'urgence."
+    "texte": "Au Nigeria, 53 contacts sont suivis et la patiente a été évacuée vers la Suisse le 26 octobre. Lagos a durci le 26 octobre le filtrage à l'aéroport Murtala Muhammed avec les Port Health Services, mais les vols intérieurs nigérians ne sont pas contrôlés. Deux points à vérifier chez nous : les aéroports de l'intérieur et l'évacuation sanitaire en aviation d'affaires dans les plans d'urgence."
    },
    {
     "ids": [
@@ -45,7 +46,7 @@
     "texte": "Financement BAD de 270 millions d'euros pour les aéroports marocains, scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : trois points de comparaison pour Yamoussoukro et le PARSA."
    }
   ],
-  "prochaineCollecte": "2026-10-26T22:42:00Z"
+  "prochaineCollecte": "2026-10-26T23:42:00Z"
  },
  "items": [
   {
@@ -177,6 +178,25 @@
    "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
    "zone": "afrique",
    "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-26T22:44:00Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Lagos",
+    "contrôle sanitaire",
+    "Port Health"
+   ],
+   "priorite": "haute",
+   "resume": "Le gouvernement de l'État de Lagos a renforcé le filtrage sanitaire des passagers à l'aéroport international Murtala Muhammed, avec la direction de l'aéroport et les Port Health Services. Les voyageurs venant de zones touchées doivent déclarer leur parcours et leur état de santé. Aucun cas suspect n'est signalé à Lagos. Au niveau national, les contacts suivis sont passés de 44 à 53, sans nouvelle infection.",
+   "secteur": "medecine",
+   "sodexam": "Lagos est une escale fréquente vers Abidjan. Le dispositif associe aéroport, santé aux frontières et partage d'informations : c'est le modèle à comparer avec la coordination INHP-AERIA à FHB.",
+   "source": "The Sun Nigeria",
+   "titre": "Ebola : Lagos renforce le contrôle sanitaire à l'aéroport Murtala Muhammed",
+   "url": "https://thesun.ng/ebola-contacts-rise-to-53-lagos-tightens-airport-surveillance/",
+   "zone": "afrique",
+   "id": "ebola-lagos-surveillance-aeroport"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
