@@ -1,378 +1,360 @@
 {
- "exporte": "2026-10-26T11:28:00Z",
+ "exporte": "2026-10-26T13:00:25Z",
  "briefing": {
   "date": "2026-10-26",
+  "derniereCollecte": "2026-10-26T12:58:00Z",
   "genereLe": "2026-10-26T11:28:00Z",
-  "derniereCollecte": "2026-10-26T11:28:00Z",
-  "prochaineCollecte": "2026-10-26T12:42:00Z",
   "points": [
    {
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine.",
     "ids": [
      "ebola-nigeria-declaration",
      "ebola-entebbe-enquete",
      "ebola-usa-declaration",
      "ebola-ci-vigilance"
-    ]
+    ],
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
    },
    {
-    "texte": "El Niño pourrait être le plus fort jamais mesuré selon l'OMM. La prévision saisonnière de la SODEXAM, qui annonce une petite saison des pluies déficitaire, est reprise par la presse. Il faudra pouvoir en rendre compte en janvier.",
     "ids": [
      "sodexam-saison-deficitaire",
      "omm-el-nino-record"
-    ]
+    ],
+    "texte": "El Niño pourrait être le plus fort jamais mesuré selon l'OMM. La prévision saisonnière de la SODEXAM, qui annonce une petite saison des pluies déficitaire, est reprise par la presse. Il faudra pouvoir en rendre compte en janvier."
    },
    {
-    "texte": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis hier. Bon signal pour le hub, l'effet sur le réseau intérieur reste à mesurer.",
     "ids": [
      "af-hf-codeshare"
-    ]
+    ],
+    "texte": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis hier. Bon signal pour le hub, l'effet sur le réseau intérieur reste à mesurer."
    },
    {
-    "texte": "La BAD signe 270 millions d'euros avec le Maroc pour ses aéroports. Le montage mérite d'être regardé pour Yamoussoukro.",
     "ids": [
      "bad-maroc-pemia"
-    ]
+    ],
+    "texte": "La BAD signe 270 millions d'euros avec le Maroc pour ses aéroports. Le montage mérite d'être regardé pour Yamoussoukro."
    },
    {
-    "texte": "Scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : deux points de comparaison pour le PARSA et pour nos propres exercices.",
     "ids": [
      "aibd-scanners-tsa",
      "safa-plan-urgence"
-    ]
+    ],
+    "texte": "Scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : deux points de comparaison pour le PARSA et pour nos propres exercices."
    }
-  ]
+  ],
+  "prochaineCollecte": "2026-10-26T13:58:00Z"
  },
  "items": [
   {
-   "titre": "Ebola : le Nigeria étend la déclaration sanitaire à tous les voyageurs internationaux",
-   "date": "2026-10-25",
-   "secteur": "medecine",
-   "zone": "afrique",
-   "priorite": "critique",
-   "source": "Premium Times / allAfrica",
-   "url": "https://allafrica.com/stories/202610260116.html",
-   "resume": "Après la confirmation d'un cas importé à Abuja le 20 octobre, le NCDC revient sur sa décision de limiter la déclaration aux passagers venant de RDC et d'Ouganda. Tous les voyageurs internationaux sont de nouveau concernés. Les consignes ont été transmises à la FAAN et à la NCAA ; les modalités avec les compagnies restent à préciser.",
-   "sodexam": "Lagos n'est qu'à un peu plus d'une heure de vol d'Abidjan. Il faut s'assurer avec l'INHP et AERIA que le dispositif de FHB, en alerte depuis le 20 mai, suit le même niveau, et vérifier où en sont les plans sanitaires des aéroports de l'intérieur.",
-   "motscles": [
-    "Ebola",
-    "Nigeria",
-    "RSI",
-    "contrôle sanitaire"
-   ],
    "ajoute": "2026-10-26T11:28:00Z",
-   "id": "ebola-nigeria-declaration"
-  },
-  {
-   "titre": "Africa CDC remonte la piste d'Entebbe : deux malades d'Ebola passés par le même aéroport",
-   "date": "2026-10-26",
-   "secteur": "medecine",
-   "zone": "afrique",
-   "priorite": "critique",
-   "source": "Reuters / TimesLIVE",
-   "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
-   "resume": "La patiente nigériane a transité par Entebbe le 3 octobre, à peu près au moment où un Kenyan venu de RDC s'y trouvait. Les deux virus sont génétiquement proches, sans que la transmission soit établie. L'épidémie de souche Bundibugyo approche 10 000 cas en RDC et touche trois autres pays. Il n'existe ni vaccin ni traitement homologué pour cette souche.",
-   "sodexam": "Un aéroport de transit peut devenir un point de passage de la maladie sans que personne ne le voie. Argument pour tester, d'ici la fin de l'année, la chaîne d'alerte sanitaire sur une plateforme de l'intérieur.",
+   "date": "2026-09-18",
    "motscles": [
-    "Ebola",
-    "Ouganda",
-    "Entebbe",
-    "transit"
+    "ACI Africa",
+    "rentabilité",
+    "BAD"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "ebola-entebbe-enquete"
-  },
-  {
-   "titre": "États-Unis : déclaration Ebola obligatoire pour tout passager international à partir du 3 novembre",
-   "date": "2026-10-23",
-   "secteur": "medecine",
-   "zone": "monde",
-   "priorite": "haute",
-   "source": "PYOK",
-   "url": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/",
-   "resume": "Chaque passager à destination des États-Unis devra attester ne pas avoir séjourné en RDC dans les 21 jours précédents, et les compagnies contrôleront avant l'embarquement. Les voyageurs passés par l'Ouganda ou le Soudan du Sud sont dirigés vers trois aéroports désignés : Dulles, Atlanta et JFK. Au 21 octobre, on comptait 9 735 cas et 4 690 décès confirmés.",
-   "sodexam": "Touche directement les passagers au départ d'Abidjan vers les États-Unis, avec ou sans escale. À faire relayer par AERIA et les compagnies pour éviter des refus d'embarquement à FHB.",
-   "motscles": [
-    "Ebola",
-    "États-Unis",
-    "CDC"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "ebola-usa-declaration"
-  },
-  {
-   "titre": "Côte d'Ivoire : aucun cas d'Ebola, vigilance relevée aux frontières",
-   "date": "2026-10-22",
-   "secteur": "medecine",
-   "zone": "ci",
-   "priorite": "haute",
-   "source": "Yeclo",
-   "url": "https://www.yeclo.com/ebola-aucun-cas-en-cote-divoire-vigilance-renforcee/",
-   "resume": "Le ministère de la Santé confirme qu'aucun cas n'a été détecté sur le territoire. Le Centre des opérations d'urgence de santé publique est en alerte depuis le 20 mai 2026 et les contrôles ont été renforcés à toutes les frontières. L'article ne détaille pas les mesures prises à l'aéroport d'Abidjan.",
-   "sodexam": "Rien n'est dit sur les aéroports de l'intérieur. Un point avec les services de santé aux frontières permettrait de savoir ce qui est réellement en place à Bouaké, Korhogo, San Pedro et Yamoussoukro.",
-   "motscles": [
-    "Ebola",
-    "INHP",
-    "COUSP"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "ebola-ci-vigilance"
-  },
-  {
-   "titre": "La SODEXAM annonce une petite saison des pluies déficitaire d'octobre à décembre",
-   "date": "2026-10-21",
-   "secteur": "meteorologie",
-   "zone": "ci",
-   "priorite": "critique",
-   "source": "Fraternité Matin",
-   "url": "https://www.fratmat.info/article/2645376/societe/cote-divoire-el-nino-fait-craindre-un-deficit-pluviometrique-au-sud-du-pays",
-   "resume": "Sous l'effet d'El Niño, les pluies resteraient sous les normales dans le sud jusqu'au début de 2027, avec des températures élevées. Cacao, café, hévéa et palmier à huile sont exposés, comme l'eau potable et l'hydroélectricité (Bandama, Sassandra, Comoé, Cavally). La chaleur, la poussière et le risque de méningite sont aussi évoqués.",
-   "sodexam": "La prévision de la SODEXAM est désormais dans le débat public. Prévoir dès maintenant un bilan de saison pour janvier, et garder la cohérence avec les infographies DMN et DIRCOM sur El Niño.",
-   "motscles": [
-    "El Niño",
-    "SODEXAM",
-    "saison des pluies",
-    "hydroélectricité"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "sodexam-saison-deficitaire"
-  },
-  {
-   "titre": "OMM : El Niño pourrait être le plus fort jamais mesuré",
-   "date": "2026-10-22",
-   "secteur": "meteorologie",
-   "zone": "monde",
-   "priorite": "critique",
-   "source": "The Weather Channel",
-   "url": "https://weather.com/2026/10/22/news/weather/wrecking-ball-el-nino-wmo-winter-forecast",
-   "resume": "L'OMM projette une anomalie de température du Pacifique tropical pouvant atteindre +3,8 °C entre novembre 2026 et janvier 2027, au-delà des épisodes les plus forts connus. Le pic est attendu en fin d'année, avec des effets qui dureront au-delà. La BAD évalue entre 10 et 20 milliards de dollars les pertes possibles pour l'Afrique.",
-   "sodexam": "Ce contexte donne du poids aux dossiers de financement climat (FVC, SOFF) et à la phase 2 de VIGICLIMM. C'est le bon moment pour une note de position de la DMN, chiffres à l'appui.",
-   "motscles": [
-    "El Niño",
-    "OMM",
-    "BAD",
-    "financement climat"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "omm-el-nino-record"
-  },
-  {
-   "titre": "FHB : AERIA demande aux passagers d'anticiper leur départ",
-   "date": "2026-10-22",
-   "secteur": "aeroportuaire",
-   "zone": "ci",
-   "priorite": "haute",
-   "source": "KOACI",
-   "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-aeroport-dabidjan-les-usagers-et-passagers-invites-a-anticiper-les-departs_201872.html",
-   "resume": "Plusieurs événements se tiennent en même temps à Abidjan en octobre et risquent de saturer les accès routiers à l'aéroport. AERIA invite les voyageurs à partir plus tôt pour ne pas manquer l'enregistrement.",
-   "sodexam": "L'accès terrestre reste le point faible de FHB. Le sujet relève de l'exploitant, mais il pèse sur l'image de la plateforme et rejoint le projet de terminaux lagunaires.",
-   "motscles": [
-    "AERIA",
-    "FHB",
-    "accès"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "fhb-anticiper-departs"
-  },
-  {
-   "titre": "FHB : une nouvelle guérite des douanes pour contrôler les flux de marchandises",
-   "date": "2026-10-23",
-   "secteur": "aeroportuaire",
-   "zone": "ci",
    "priorite": "veille",
-   "source": "KOACI",
-   "url": "https://www.koaci.com/article/2026/10/23/cote-divoire/societe/cote-divoire-aeroport-dabidjan-une-nouvelle-guerite-pour-la-douane-a-usage-de-poste-de-controle-des-flux-de-marchandises_201929.html",
-   "resume": "AERIA a remis à la Douane un poste de contrôle à la sortie de la zone Garage et Aviation générale. La remise s'est faite en présence du directeur général d'AERIA, Aka Manouan, et de la Colonelle Fatoumata Diaby-Koné, directrice des services douaniers de l'aéroport.",
-   "sodexam": "Petit équipement, mais il touche au contrôle des accès côté piste. À verser au suivi sûreté de la plateforme, au titre du rôle d'autorité concédante.",
-   "motscles": [
-    "AERIA",
-    "Douane",
-    "sûreté",
-    "FHB"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "fhb-guerite-douane"
+   "resume": "Le chiffre a été avancé par Ali Tounsi avant l'assemblée d'ACI Africa à Abuja, du 19 au 25 septembre, sans étude publiée à l'appui. L'article cite aussi le projet de Bishoftu en Éthiopie, à 10 milliards de dollars, dont près de 8 mobilisés avec la BAD.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Le réseau intérieur entre dans cette catégorie. Chiffre à manier avec prudence, mais utile pour défendre devant la tutelle un modèle de recettes mixte : redevances, foncier, services.",
+   "source": "The Rio Times",
+   "titre": "ACI Africa : quatre aéroports africains sur cinq ne seraient pas rentables",
+   "url": "https://www.riotimesonline.com/african-airport-finances-aci-africa-abuja-2026/",
+   "zone": "afrique",
+   "id": "aci-africa-rentabilite"
   },
   {
-   "titre": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis le 25 octobre",
+   "ajoute": "2026-10-26T11:28:00Z",
    "date": "2026-10-16",
-   "secteur": "aeronautique",
-   "zone": "ci",
-   "priorite": "haute",
-   "source": "Air France",
-   "url": "https://corporate.airfrance.com/en/news/air-france-and-air-cote-divoire-strengthen-their-strategic-partnership-codeshare-agreement",
-   "resume": "Chaque compagnie vend désormais les vols de l'autre entre Roissy-Charles-de-Gaulle et Abidjan. Les programmes Flying Blue et sMiles doivent être rapprochés d'ici la fin de 2026. Aucune hausse de fréquences n'est annoncée.",
-   "sodexam": "Abidjan se renforce comme porte d'entrée régionale. L'intérêt pour le réseau intérieur dépendra des correspondances ; à suivre dans les chiffres de trafic de FHB et des plateformes de l'intérieur.",
    "motscles": [
     "Air Côte d'Ivoire",
     "Air France",
     "hub"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
+   "priorite": "haute",
+   "resume": "Chaque compagnie vend désormais les vols de l'autre entre Roissy-Charles-de-Gaulle et Abidjan. Les programmes Flying Blue et sMiles doivent être rapprochés d'ici la fin de 2026. Aucune hausse de fréquences n'est annoncée.",
+   "secteur": "aeronautique",
+   "sodexam": "Abidjan se renforce comme porte d'entrée régionale. L'intérêt pour le réseau intérieur dépendra des correspondances ; à suivre dans les chiffres de trafic de FHB et des plateformes de l'intérieur.",
+   "source": "Air France",
+   "titre": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis le 25 octobre",
+   "url": "https://corporate.airfrance.com/en/news/air-france-and-air-cote-divoire-strengthen-their-strategic-partnership-codeshare-agreement",
+   "zone": "ci",
    "id": "af-hf-codeshare"
   },
   {
-   "titre": "Nigeria : un ATR 42 de l'armée de l'air s'écrase, 32 morts",
-   "date": "2026-10-06",
-   "secteur": "aeronautique",
-   "zone": "afrique",
-   "priorite": "haute",
-   "source": "APAnews",
-   "url": "https://fr.apanews.net/society/nigeria-32-morts-dans-le-crash-dun-avion-militaire/",
-   "resume": "L'appareil, qui reliait Benin City à Lagos, a disparu des radars le 5 octobre près d'Igbokoda, dans l'État d'Ondo. Les 25 passagers et 7 membres d'équipage ont péri. Une enquête est ouverte, aucune cause n'a été communiquée.",
-   "sodexam": "Rappel pour les plans d'urgence d'aéroport : l'Annexe 14 demande un exercice général au moins tous les deux ans. Vérifier les dates des derniers exercices sur chaque plateforme.",
-   "motscles": [
-    "accident",
-    "Nigeria",
-    "plan d'urgence"
-   ],
    "ajoute": "2026-10-26T11:28:00Z",
-   "id": "naf-atr-crash"
-  },
-  {
-   "titre": "Ouagadougou : la SAFA révise son plan d'urgence et prépare un exercice sur table",
-   "date": "2026-10-22",
-   "secteur": "aeroportuaire",
-   "zone": "afrique",
-   "priorite": "veille",
-   "source": "Faso7",
-   "url": "https://faso7.com/2026/10/22/aeroport-international-de-ouagadougou-la-safa-renforce-la-preparation-aux-situations-durgence/",
-   "resume": "La Société des aéroports du Faso a formé les intervenants de la plateforme à son plan d'urgence révisé. Un exercice sur table suivra pour éprouver la chaîne d'alerte, la coordination et la continuité d'activité.",
-   "sodexam": "Bon point de comparaison. Même question chez nous : à quand remonte le dernier exercice, et quels écarts ont été corrigés depuis ?",
-   "motscles": [
-    "plan d'urgence",
-    "Burkina Faso",
-    "exercice"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "safa-plan-urgence"
-  },
-  {
-   "titre": "Dakar : Washington équipe l'AIBD de scanners à rayons X avant les JOJ",
    "date": "2026-10-19",
-   "secteur": "aeroportuaire",
-   "zone": "afrique",
-   "priorite": "haute",
-   "source": "Dakarposte",
-   "url": "https://www.dakarposte.com/JOJ-Dakar-2026-Washington-dote-l-AIBD-de-scanners-de-derniere-generation-pour-renforcer-la-securite-aeroportuaire_a87941.html",
-   "resume": "Les États-Unis, avec la TSA, livrent à l'aéroport Blaise-Diagne des systèmes d'inspection à rayons X de dernière génération, en vue des Jeux olympiques de la jeunesse. Le nombre d'appareils n'est pas précisé.",
-   "sodexam": "Exemple d'équipement de sûreté apporté par un partenaire bilatéral. Piste à creuser pour une partie de la tranche 1 du PARSA, en parallèle des échanges déjà ouverts avec le Royaume-Uni.",
    "motscles": [
     "sûreté",
     "TSA",
     "Sénégal",
     "PARSA"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
+   "priorite": "haute",
+   "resume": "Les États-Unis, avec la TSA, livrent à l'aéroport Blaise-Diagne des systèmes d'inspection à rayons X de dernière génération, en vue des Jeux olympiques de la jeunesse. Le nombre d'appareils n'est pas précisé.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Exemple d'équipement de sûreté apporté par un partenaire bilatéral. Piste à creuser pour une partie de la tranche 1 du PARSA, en parallèle des échanges déjà ouverts avec le Royaume-Uni.",
+   "source": "Dakarposte",
+   "titre": "Dakar : Washington équipe l'AIBD de scanners à rayons X avant les JOJ",
+   "url": "https://www.dakarposte.com/JOJ-Dakar-2026-Washington-dote-l-AIBD-de-scanners-de-derniere-generation-pour-renforcer-la-securite-aeroportuaire_a87941.html",
+   "zone": "afrique",
    "id": "aibd-scanners-tsa"
   },
   {
-   "titre": "La BAD accorde 270 millions d'euros au Maroc pour ses aéroports",
+   "ajoute": "2026-10-26T11:28:00Z",
    "date": "2026-10-05",
-   "secteur": "aeroportuaire",
-   "zone": "afrique",
-   "priorite": "haute",
-   "source": "fundsforNGOs",
-   "url": "https://news.fundsforngos.org/2026/10/05/afdb-270-million-financing-morocco-airport-expansion-modernisation-pemia/",
-   "resume": "L'accord signé le 30 septembre finance le programme PEMIA de l'ONDA, avec une garantie de Tamwilcom. Objectifs à 2030 : 14 millions de passagers à Marrakech, 5 à Agadir, 3,6 à Tanger et 3 à Fès. Le programme couvre infrastructures, sûreté, services numériques et emploi des jeunes et des femmes.",
-   "sodexam": "Montage à regarder de près pour Yamoussoukro : prêt de la BAD, garantie nationale, objectifs de trafic chiffrés. La banque montre un vrai intérêt pour l'aéroportuaire.",
    "motscles": [
     "BAD",
     "Maroc",
     "financement",
     "Yamoussoukro"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
+   "priorite": "haute",
+   "resume": "L'accord signé le 30 septembre finance le programme PEMIA de l'ONDA, avec une garantie de Tamwilcom. Objectifs à 2030 : 14 millions de passagers à Marrakech, 5 à Agadir, 3,6 à Tanger et 3 à Fès. Le programme couvre infrastructures, sûreté, services numériques et emploi des jeunes et des femmes.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Montage à regarder de près pour Yamoussoukro : prêt de la BAD, garantie nationale, objectifs de trafic chiffrés. La banque montre un vrai intérêt pour l'aéroportuaire.",
+   "source": "fundsforNGOs",
+   "titre": "La BAD accorde 270 millions d'euros au Maroc pour ses aéroports",
+   "url": "https://news.fundsforngos.org/2026/10/05/afdb-270-million-financing-morocco-airport-expansion-modernisation-pemia/",
+   "zone": "afrique",
    "id": "bad-maroc-pemia"
   },
   {
-   "titre": "ACI Africa : quatre aéroports africains sur cinq ne seraient pas rentables",
-   "date": "2026-09-18",
-   "secteur": "aeroportuaire",
-   "zone": "afrique",
-   "priorite": "veille",
-   "source": "The Rio Times",
-   "url": "https://www.riotimesonline.com/african-airport-finances-aci-africa-abuja-2026/",
-   "resume": "Le chiffre a été avancé par Ali Tounsi avant l'assemblée d'ACI Africa à Abuja, du 19 au 25 septembre, sans étude publiée à l'appui. L'article cite aussi le projet de Bishoftu en Éthiopie, à 10 milliards de dollars, dont près de 8 mobilisés avec la BAD.",
-   "sodexam": "Le réseau intérieur entre dans cette catégorie. Chiffre à manier avec prudence, mais utile pour défendre devant la tutelle un modèle de recettes mixte : redevances, foncier, services.",
-   "motscles": [
-    "ACI Africa",
-    "rentabilité",
-    "BAD"
-   ],
    "ajoute": "2026-10-26T11:28:00Z",
-   "id": "aci-africa-rentabilite"
-  },
-  {
-   "titre": "Korhogo : une aérogare de 150 000 passagers encore loin d'être remplie",
-   "date": "2026-08-21",
-   "secteur": "aeroportuaire",
-   "zone": "ci",
-   "priorite": "haute",
-   "source": "Connectionivoirienne",
-   "url": "https://connectionivoirienne.net/2026/08/21/aeroport-de-korhogo-concu-pour-150-000-passagers-mais-encore-loin-de-sa-pleine-capacite/",
-   "resume": "Rénové pour environ 23 milliards FCFA et inauguré en mai 2024, le terminal est dimensionné pour 150 000 passagers par an. L'article rappelle qu'en 2024 les plateformes de Bouaké, Korhogo, San Pedro et Yamoussoukro ont totalisé 14 838 passagers et 687 vols. La suite dépend de nouvelles compagnies et de liaisons régionales.",
-   "sodexam": "Sujet sensible pour l'image de la société. Une réponse chiffrée et un plan d'attraction des compagnies seraient plus convaincants qu'un silence.",
-   "motscles": [
-    "Korhogo",
-    "trafic",
-    "réseau intérieur"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "korhogo-capacite"
-  },
-  {
-   "titre": "Carburant durable : Bruxelles maintient le mandat ReFuelEU malgré les compagnies",
-   "date": "2026-10-16",
-   "secteur": "aeronautique",
-   "zone": "monde",
-   "priorite": "veille",
-   "source": "FlightGlobal",
-   "url": "https://www.flightglobal.com/airlines/2026/10/refueleu-sustainable-aviation-fuel-mandate-here-to-stay-european-commission/",
-   "resume": "Lors de deux événements de l'IATA à Bruxelles, la Commission européenne a confirmé qu'elle ne reviendrait pas sur les obligations d'incorporation de carburant durable. Les compagnies demandaient un assouplissement.",
-   "sodexam": "Les surcoûts se retrouveront dans les billets Europe–Abidjan. Pour le PSED, le signal est clair : la décarbonation du secteur ne ralentira pas côté européen.",
-   "motscles": [
-    "SAF",
-    "ReFuelEU",
-    "décarbonation"
-   ],
-   "ajoute": "2026-10-26T11:28:00Z",
-   "id": "refueleu-maintenu"
-  },
-  {
-   "titre": "FAA : la certification médicale des pilotes va être simplifiée",
    "date": "2026-10-22",
+   "motscles": [
+    "Ebola",
+    "INHP",
+    "COUSP"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministère de la Santé confirme qu'aucun cas n'a été détecté sur le territoire. Le Centre des opérations d'urgence de santé publique est en alerte depuis le 20 mai 2026 et les contrôles ont été renforcés à toutes les frontières. L'article ne détaille pas les mesures prises à l'aéroport d'Abidjan.",
    "secteur": "medecine",
+   "sodexam": "Rien n'est dit sur les aéroports de l'intérieur. Un point avec les services de santé aux frontières permettrait de savoir ce qui est réellement en place à Bouaké, Korhogo, San Pedro et Yamoussoukro.",
+   "source": "Yeclo",
+   "titre": "Côte d'Ivoire : aucun cas d'Ebola, vigilance relevée aux frontières",
+   "url": "https://www.yeclo.com/ebola-aucun-cas-en-cote-divoire-vigilance-renforcee/",
+   "zone": "ci",
+   "id": "ebola-ci-vigilance"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Ouganda",
+    "Entebbe",
+    "transit"
+   ],
+   "priorite": "critique",
+   "resume": "La patiente nigériane a transité par Entebbe le 3 octobre, à peu près au moment où un Kenyan venu de RDC s'y trouvait. Les deux virus sont génétiquement proches, sans que la transmission soit établie. L'épidémie de souche Bundibugyo approche 10 000 cas en RDC et touche trois autres pays. Il n'existe ni vaccin ni traitement homologué pour cette souche.",
+   "secteur": "medecine",
+   "sodexam": "Un aéroport de transit peut devenir un point de passage de la maladie sans que personne ne le voie. Argument pour tester, d'ici la fin de l'année, la chaîne d'alerte sanitaire sur une plateforme de l'intérieur.",
+   "source": "Reuters / TimesLIVE",
+   "titre": "Africa CDC remonte la piste d'Entebbe : deux malades d'Ebola passés par le même aéroport",
+   "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
+   "zone": "afrique",
+   "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-25",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "RSI",
+    "contrôle sanitaire"
+   ],
+   "priorite": "critique",
+   "resume": "Après la confirmation d'un cas importé à Abuja le 20 octobre, le NCDC revient sur sa décision de limiter la déclaration aux passagers venant de RDC et d'Ouganda. Tous les voyageurs internationaux sont de nouveau concernés. Les consignes ont été transmises à la FAAN et à la NCAA ; les modalités avec les compagnies restent à préciser.",
+   "secteur": "medecine",
+   "sodexam": "Lagos n'est qu'à un peu plus d'une heure de vol d'Abidjan. Il faut s'assurer avec l'INHP et AERIA que le dispositif de FHB, en alerte depuis le 20 mai, suit le même niveau, et vérifier où en sont les plans sanitaires des aéroports de l'intérieur.",
+   "source": "Premium Times / allAfrica",
+   "titre": "Ebola : le Nigeria étend la déclaration sanitaire à tous les voyageurs internationaux",
+   "url": "https://allafrica.com/stories/202610260116.html",
+   "zone": "afrique",
+   "id": "ebola-nigeria-declaration"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-23",
+   "motscles": [
+    "Ebola",
+    "États-Unis",
+    "CDC"
+   ],
+   "priorite": "haute",
+   "resume": "Chaque passager à destination des États-Unis devra attester ne pas avoir séjourné en RDC dans les 21 jours précédents, et les compagnies contrôleront avant l'embarquement. Les voyageurs passés par l'Ouganda ou le Soudan du Sud sont dirigés vers trois aéroports désignés : Dulles, Atlanta et JFK. Au 21 octobre, on comptait 9 735 cas et 4 690 décès confirmés.",
+   "secteur": "medecine",
+   "sodexam": "Touche directement les passagers au départ d'Abidjan vers les États-Unis, avec ou sans escale. À faire relayer par AERIA et les compagnies pour éviter des refus d'embarquement à FHB.",
+   "source": "PYOK",
+   "titre": "États-Unis : déclaration Ebola obligatoire pour tout passager international à partir du 3 novembre",
+   "url": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/",
    "zone": "monde",
-   "priorite": "veille",
-   "source": "AVweb",
-   "url": "https://avweb.com/air-shows-events/nbaa/faa-streamline-pilot-medical-certification/",
-   "resume": "Un projet de règle permettrait aux pilotes diabétiques non traités par insuline d'obtenir leur certificat directement auprès d'un médecin examinateur, soit environ 3 000 dossiers par an. La FAA est passée de 52 à 78 médecins pour résorber ses retards.",
-   "sodexam": "Pas d'effet direct : l'ANAC suit l'Annexe 1 de l'OACI. Utile en revanche si la question des délais d'aptitude médicale des personnels aéronautiques revient en Côte d'Ivoire.",
+   "id": "ebola-usa-declaration"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-22",
    "motscles": [
     "FAA",
     "aptitude médicale",
     "pilotes"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
+   "priorite": "veille",
+   "resume": "Un projet de règle permettrait aux pilotes diabétiques non traités par insuline d'obtenir leur certificat directement auprès d'un médecin examinateur, soit environ 3 000 dossiers par an. La FAA est passée de 52 à 78 médecins pour résorber ses retards.",
+   "secteur": "medecine",
+   "sodexam": "Pas d'effet direct : l'ANAC suit l'Annexe 1 de l'OACI. Utile en revanche si la question des délais d'aptitude médicale des personnels aéronautiques revient en Côte d'Ivoire.",
+   "source": "AVweb",
+   "titre": "FAA : la certification médicale des pilotes va être simplifiée",
+   "url": "https://avweb.com/air-shows-events/nbaa/faa-streamline-pilot-medical-certification/",
+   "zone": "monde",
    "id": "faa-certification-medicale"
   },
   {
-   "titre": "Sydney ouvre son second aéroport, exploité 24 heures sur 24",
-   "date": "2026-10-25",
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "AERIA",
+    "FHB",
+    "accès"
+   ],
+   "priorite": "haute",
+   "resume": "Plusieurs événements se tiennent en même temps à Abidjan en octobre et risquent de saturer les accès routiers à l'aéroport. AERIA invite les voyageurs à partir plus tôt pour ne pas manquer l'enregistrement.",
    "secteur": "aeroportuaire",
-   "zone": "monde",
+   "sodexam": "L'accès terrestre reste le point faible de FHB. Le sujet relève de l'exploitant, mais il pèse sur l'image de la plateforme et rejoint le projet de terminaux lagunaires.",
+   "source": "KOACI",
+   "titre": "FHB : AERIA demande aux passagers d'anticiper leur départ",
+   "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-aeroport-dabidjan-les-usagers-et-passagers-invites-a-anticiper-les-departs_201872.html",
+   "zone": "ci",
+   "id": "fhb-anticiper-departs"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-23",
+   "motscles": [
+    "AERIA",
+    "Douane",
+    "sûreté",
+    "FHB"
+   ],
    "priorite": "veille",
-   "source": "Gouvernement australien",
-   "url": "https://www.pm.gov.au/media/its-official-western-sydney-open-passengers-25-october-and-freight-26-july-2026",
-   "resume": "Western Sydney International accueille des passagers depuis le 25 octobre, après une ouverture au fret programmée en juillet. La plateforme fonctionne sans couvre-feu, à la différence de l'aéroport historique de Sydney.",
-   "sodexam": "Cas d'école d'un aéroport neuf construit pour soulager une plateforme saturée, ouvert d'abord au fret. À garder pour le dossier Yamoussoukro.",
+   "resume": "AERIA a remis à la Douane un poste de contrôle à la sortie de la zone Garage et Aviation générale. La remise s'est faite en présence du directeur général d'AERIA, Aka Manouan, et de la Colonelle Fatoumata Diaby-Koné, directrice des services douaniers de l'aéroport.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Petit équipement, mais il touche au contrôle des accès côté piste. À verser au suivi sûreté de la plateforme, au titre du rôle d'autorité concédante.",
+   "source": "KOACI",
+   "titre": "FHB : une nouvelle guérite des douanes pour contrôler les flux de marchandises",
+   "url": "https://www.koaci.com/article/2026/10/23/cote-divoire/societe/cote-divoire-aeroport-dabidjan-une-nouvelle-guerite-pour-la-douane-a-usage-de-poste-de-controle-des-flux-de-marchandises_201929.html",
+   "zone": "ci",
+   "id": "fhb-guerite-douane"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-06",
+   "motscles": [
+    "accident",
+    "Nigeria",
+    "plan d'urgence"
+   ],
+   "priorite": "haute",
+   "resume": "L'appareil, qui reliait Benin City à Lagos, a disparu des radars le 5 octobre près d'Igbokoda, dans l'État d'Ondo. Les 25 passagers et 7 membres d'équipage ont péri. Une enquête est ouverte, aucune cause n'a été communiquée.",
+   "secteur": "aeronautique",
+   "sodexam": "Rappel pour les plans d'urgence d'aéroport : l'Annexe 14 demande un exercice général au moins tous les deux ans. Vérifier les dates des derniers exercices sur chaque plateforme.",
+   "source": "APAnews",
+   "titre": "Nigeria : un ATR 42 de l'armée de l'air s'écrase, 32 morts",
+   "url": "https://fr.apanews.net/society/nigeria-32-morts-dans-le-crash-dun-avion-militaire/",
+   "zone": "afrique",
+   "id": "naf-atr-crash"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "El Niño",
+    "OMM",
+    "BAD",
+    "financement climat"
+   ],
+   "priorite": "critique",
+   "resume": "L'OMM projette une anomalie de température du Pacifique tropical pouvant atteindre +3,8 °C entre novembre 2026 et janvier 2027, au-delà des épisodes les plus forts connus. Le pic est attendu en fin d'année, avec des effets qui dureront au-delà. La BAD évalue entre 10 et 20 milliards de dollars les pertes possibles pour l'Afrique.",
+   "secteur": "meteorologie",
+   "sodexam": "Ce contexte donne du poids aux dossiers de financement climat (FVC, SOFF) et à la phase 2 de VIGICLIMM. C'est le bon moment pour une note de position de la DMN, chiffres à l'appui.",
+   "source": "The Weather Channel",
+   "titre": "OMM : El Niño pourrait être le plus fort jamais mesuré",
+   "url": "https://weather.com/2026/10/22/news/weather/wrecking-ball-el-nino-wmo-winter-forecast",
+   "zone": "monde",
+   "id": "omm-el-nino-record"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-16",
+   "motscles": [
+    "SAF",
+    "ReFuelEU",
+    "décarbonation"
+   ],
+   "priorite": "veille",
+   "resume": "Lors de deux événements de l'IATA à Bruxelles, la Commission européenne a confirmé qu'elle ne reviendrait pas sur les obligations d'incorporation de carburant durable. Les compagnies demandaient un assouplissement.",
+   "secteur": "aeronautique",
+   "sodexam": "Les surcoûts se retrouveront dans les billets Europe–Abidjan. Pour le PSED, le signal est clair : la décarbonation du secteur ne ralentira pas côté européen.",
+   "source": "FlightGlobal",
+   "titre": "Carburant durable : Bruxelles maintient le mandat ReFuelEU malgré les compagnies",
+   "url": "https://www.flightglobal.com/airlines/2026/10/refueleu-sustainable-aviation-fuel-mandate-here-to-stay-european-commission/",
+   "zone": "monde",
+   "id": "refueleu-maintenu"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "plan d'urgence",
+    "Burkina Faso",
+    "exercice"
+   ],
+   "priorite": "veille",
+   "resume": "La Société des aéroports du Faso a formé les intervenants de la plateforme à son plan d'urgence révisé. Un exercice sur table suivra pour éprouver la chaîne d'alerte, la coordination et la continuité d'activité.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Bon point de comparaison. Même question chez nous : à quand remonte le dernier exercice, et quels écarts ont été corrigés depuis ?",
+   "source": "Faso7",
+   "titre": "Ouagadougou : la SAFA révise son plan d'urgence et prépare un exercice sur table",
+   "url": "https://faso7.com/2026/10/22/aeroport-international-de-ouagadougou-la-safa-renforce-la-preparation-aux-situations-durgence/",
+   "zone": "afrique",
+   "id": "safa-plan-urgence"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-21",
+   "motscles": [
+    "El Niño",
+    "SODEXAM",
+    "saison des pluies",
+    "hydroélectricité"
+   ],
+   "priorite": "critique",
+   "resume": "Sous l'effet d'El Niño, les pluies resteraient sous les normales dans le sud jusqu'au début de 2027, avec des températures élevées. Cacao, café, hévéa et palmier à huile sont exposés, comme l'eau potable et l'hydroélectricité (Bandama, Sassandra, Comoé, Cavally). La chaleur, la poussière et le risque de méningite sont aussi évoqués.",
+   "secteur": "meteorologie",
+   "sodexam": "La prévision de la SODEXAM est désormais dans le débat public. Prévoir dès maintenant un bilan de saison pour janvier, et garder la cohérence avec les infographies DMN et DIRCOM sur El Niño.",
+   "source": "Fraternité Matin",
+   "titre": "La SODEXAM annonce une petite saison des pluies déficitaire d'octobre à décembre",
+   "url": "https://www.fratmat.info/article/2645376/societe/cote-divoire-el-nino-fait-craindre-un-deficit-pluviometrique-au-sud-du-pays",
+   "zone": "ci",
+   "id": "sodexam-saison-deficitaire"
+  },
+  {
+   "ajoute": "2026-10-26T11:28:00Z",
+   "date": "2026-10-25",
    "motscles": [
     "Australie",
     "nouvel aéroport",
     "fret"
    ],
-   "ajoute": "2026-10-26T11:28:00Z",
+   "priorite": "veille",
+   "resume": "Western Sydney International accueille des passagers depuis le 25 octobre, après une ouverture au fret programmée en juillet. La plateforme fonctionne sans couvre-feu, à la différence de l'aéroport historique de Sydney.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Cas d'école d'un aéroport neuf construit pour soulager une plateforme saturée, ouvert d'abord au fret. À garder pour le dossier Yamoussoukro.",
+   "source": "Gouvernement australien",
+   "titre": "Sydney ouvre son second aéroport, exploité 24 heures sur 24",
+   "url": "https://www.pm.gov.au/media/its-official-western-sydney-open-passengers-25-october-and-freight-26-july-2026",
+   "zone": "monde",
    "id": "western-sydney-ouverture"
   }
  ]
