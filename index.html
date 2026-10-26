@@ -473,13 +473,15 @@ function renderBell(){ const b = $("#bell-n"); b.textContent = S.bell; b.dataset
 
 function renderStatus(){
   const st = $("#status"), t = $("#status-t");
+  const late = !!(S.cachedAt && Date.now() - S.cachedAt > 90 * 60 * 1000);
   st.classList.remove("off","local");
   if(!navigator.onLine){ st.classList.add("off"); t.textContent = "Hors ligne" + (S.cachedAt ? " · copie du " + fmtDT.format(new Date(S.cachedAt)) : ""); }
-  else if(S.live){ t.textContent = "À jour" + (S.cachedAt ? " · données du " + fmtDT.format(new Date(S.cachedAt)) : ""); }
+  else if(S.live){ if(late) st.classList.add("local"); t.textContent = (late ? "En retard · données du " : "À jour · données du ") + (S.cachedAt ? fmtDT.format(new Date(S.cachedAt)) : "–"); }
   else if(S.cachedAt){ st.classList.add("local"); t.textContent = "Copie locale · " + fmtDT.format(new Date(S.cachedAt)); }
   else { t.textContent = "Connexion…"; }
   const ban = $("#offline-banner");
   if(!navigator.onLine){ ban.hidden = false; ban.textContent = S.cachedAt ? "Pas de réseau. Vous consultez la dernière copie enregistrée sur cet appareil (" + fmtDT.format(new Date(S.cachedAt)) + "). Les nouveaux articles arriveront au retour de la connexion." : "Pas de réseau et aucune copie enregistrée sur cet appareil pour l'instant."; }
+  else if(late){ ban.hidden = false; ban.textContent = "Les données affichées datent du " + fmtDT.format(new Date(S.cachedAt)) + ". La mise à jour automatique a pris du retard : le contenu reste exact à cette heure-là, mais il peut manquer des nouvelles plus récentes."; }
   else ban.hidden = true;
 }
 

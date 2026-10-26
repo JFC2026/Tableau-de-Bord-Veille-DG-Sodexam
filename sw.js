@@ -1,5 +1,5 @@
 // Mise en cache pour la lecture hors ligne. Changer VERSION à chaque mise à jour de index.html.
-const VERSION = "veille-sodexam-2026-10-26";
+const VERSION = "veille-sodexam-2026-10-26b";
 const CORE = ["./", "index.html", "data.json", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", e => {
