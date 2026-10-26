@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-26T19:56:59Z",
+ "exporte": "2026-10-26T20:56:46Z",
  "briefing": {
   "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T19:43:53Z",
-  "genereLe": "2026-10-26T19:43:53Z",
+  "derniereCollecte": "2026-10-26T20:43:55Z",
+  "genereLe": "2026-10-26T20:43:55Z",
   "points": [
    {
     "ids": [
@@ -30,9 +30,10 @@
    },
    {
     "ids": [
+     "air-cote-divoire-avions-immobilises",
      "af-hf-codeshare"
     ],
-    "texte": "Air France et Air Côte d'Ivoire partagent leurs codes sur Paris–Abidjan depuis le 25 octobre. Bon signal pour le hub, l'effet sur le réseau intérieur reste à mesurer."
+    "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, et ajuste ses vols régionaux. Cela tombe au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB, et à relier au péril animalier sur nos plateformes."
    },
    {
     "ids": [
@@ -43,7 +44,7 @@
     "texte": "Financement BAD de 270 millions d'euros pour les aéroports marocains, scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : trois points de comparaison pour Yamoussoukro et le PARSA."
    }
   ],
-  "prochaineCollecte": "2026-10-26T20:42:00Z"
+  "prochaineCollecte": "2026-10-26T21:42:00Z"
  },
  "items": [
   {
@@ -100,6 +101,25 @@
    "url": "https://www.dakarposte.com/JOJ-Dakar-2026-Washington-dote-l-AIBD-de-scanners-de-derniere-generation-pour-renforcer-la-securite-aeroportuaire_a87941.html",
    "zone": "afrique",
    "id": "aibd-scanners-tsa"
+  },
+  {
+   "ajoute": "2026-10-26T20:43:43Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Air Côte d'Ivoire",
+    "maintenance",
+    "péril aviaire",
+    "vols régionaux"
+   ],
+   "priorite": "haute",
+   "resume": "Air Côte d'Ivoire annonce le 26 octobre 2026 que plusieurs de ses appareils sont immobilisés pour maintenance. L'un d'eux est au sol après une collision avec des oiseaux à Bamako. Le programme régional est modifié de façon temporaire. La compagnie ne donne ni le nombre d'avions ni les lignes touchées.",
+   "secteur": "aeronautique",
+   "sodexam": "Moins de rotations régionales, c'est moins de mouvements et de redevances à FHB et peut-être sur l'intérieur. Bon moment pour faire le point avec la Direction des aéroports sur le péril animalier dans nos propres plateformes.",
+   "source": "Linfodrome",
+   "titre": "Air Côte d'Ivoire immobilise plusieurs avions et ajuste ses vols régionaux",
+   "url": "https://www.linfodrome.com/economie/126887-air-cote-d-ivoire-plusieurs-avions-immobilises-les-vols-regionaux-ajustes",
+   "zone": "ci",
+   "id": "air-cote-divoire-avions-immobilises"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
