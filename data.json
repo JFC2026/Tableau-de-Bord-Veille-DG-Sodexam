@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T19:56:10Z",
+ "exporte": "2026-10-27T20:55:52Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T19:43:14Z",
-  "genereLe": "2026-10-27T14:44:22Z",
+  "derniereCollecte": "2026-10-27T20:43:40Z",
+  "genereLe": "2026-10-27T20:43:40Z",
   "points": [
    {
     "ids": [
@@ -31,11 +31,12 @@
    {
     "ids": [
      "ebola-africa-cdc-reunion-ministres",
+     "ebola-ecdc-equipe-nigeria",
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts",
      "ebola-rdc-essai-vaccinal-bunia"
     ],
-    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le 29. L'ECDC a envoyé une équipe au Nigeria le 27 octobre et juge le risque faible pour les voyageurs ; son travail de juin sur le contrôle au départ des aéroports de RDC et d'Ouganda peut servir de référence pour FHB. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -53,7 +54,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc. La SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Côté trafic, Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision avec des oiseaux à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T20:42:00Z"
+  "prochaineCollecte": "2026-10-27T21:42:00Z"
  },
  "items": [
   {
@@ -225,6 +226,25 @@
    "url": "https://www.yeclo.com/ebola-aucun-cas-en-cote-divoire-vigilance-renforcee/",
    "zone": "ci",
    "id": "ebola-ci-vigilance"
+  },
+  {
+   "ajoute": "2026-10-27T20:43:30Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "ECDC",
+    "Nigeria",
+    "contrôle sanitaire"
+   ],
+   "priorite": "veille",
+   "resume": "Le Centre européen de prévention et de contrôle des maladies a annoncé le 27 octobre 2026 l'envoi au Nigeria d'une équipe dirigée par son expert principal en veille épidémiologique. Elle conseille la délégation de l'UE à Abuja et propose son appui aux autorités nigérianes pour la surveillance, le suivi des contacts et la prévention des infections. L'ECDC juge le risque faible pour les voyageurs européens se rendant dans les zones touchées du Kenya et du Nigeria, et très faible pour l'Europe. En juin, il avait mené une mission sur le contrôle sanitaire au départ des aéroports de RDC et d'Ouganda.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Les conclusions de la mission de juin sur le contrôle au départ des aéroports de RDC et d'Ouganda pourraient servir de référence pour évaluer le dispositif de FHB ; à demander via l'INHP.",
+   "source": "ECDC",
+   "titre": "Ebola : l'ECDC envoie une équipe d'experts au Nigeria",
+   "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria",
+   "zone": "monde",
+   "id": "ebola-ecdc-equipe-nigeria"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
