@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T03:56:25Z",
+ "exporte": "2026-10-27T04:56:07Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T03:43:21Z",
-  "genereLe": "2026-10-27T01:43:43Z",
+  "derniereCollecte": "2026-10-27T04:43:51Z",
+  "genereLe": "2026-10-27T04:43:51Z",
   "points": [
    {
     "ids": [
@@ -11,9 +11,10 @@
      "ebola-entebbe-enquete",
      "ebola-kenya-deuxieme-deces",
      "ebola-usa-declaration",
-     "ebola-ci-vigilance"
+     "ebola-ci-vigilance",
+     "ebola-rdc-bilan-4803-deces"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et un deuxième décès au Kenya le 23 octobre, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. La RDC compte 9 876 cas et 4 803 décès au 25 octobre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
    },
    {
     "ids": [
@@ -45,7 +46,7 @@
     "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T04:42:00Z"
+  "prochaineCollecte": "2026-10-27T05:42:00Z"
  },
  "items": [
   {
@@ -294,6 +295,25 @@
    "url": "https://globetv.app/news/nigeria-flies-its-only-ebola-patient-to-switzerland-as-53-contacts-are-traced-6adfb682b85a6",
    "zone": "afrique",
    "id": "ebola-nigeria-patiente-suisse-53-contacts"
+  },
+  {
+   "ajoute": "2026-10-27T04:43:40Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "bilan",
+    "épidémie"
+   ],
+   "priorite": "veille",
+   "resume": "Selon l'Institut national de santé publique de la RDC, repris par Reuters et l'AFP le 26 octobre, l'épidémie déclarée le 15 mai compte 9 876 cas et 4 803 décès au 25 octobre. L'IRC estime le bilan à environ deux fois celui de l'épidémie de 2018-2020. Le Kenya reste à 9 cas et 2 décès, le Nigeria à un cas avec 53 contacts suivis sans nouveau cas signalé.",
+   "secteur": "medecine",
+   "sodexam": "Pas de fait nouveau pour nos plateformes, mais ce bilan actualise les chiffres à citer dans les points avec l'INHP et AERIA. L'ampleur de l'épidémie plaide pour un dispositif tenu dans la durée plutôt qu'un renfort ponctuel.",
+   "source": "Seoul Economic Daily",
+   "titre": "Ebola : 9 876 cas et 4 803 décès en RDC au 25 octobre",
+   "url": "https://en.sedaily.com/international/2026/10/27/ebola-spreads-beyond-congo-as-death-toll-tops-4800",
+   "zone": "afrique",
+   "id": "ebola-rdc-bilan-4803-deces"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
