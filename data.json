@@ -1,26 +1,27 @@
 {
- "exporte": "2026-10-27T00:56:19Z",
+ "exporte": "2026-10-27T01:56:15Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T00:44:01Z",
-  "genereLe": "2026-10-27T00:44:01Z",
+  "derniereCollecte": "2026-10-27T01:43:43Z",
+  "genereLe": "2026-10-27T01:43:43Z",
   "points": [
    {
     "ids": [
      "ebola-nigeria-declaration",
      "ebola-entebbe-enquete",
+     "ebola-kenya-deuxieme-deces",
      "ebola-usa-declaration",
-     "ebola-ci-vigilance",
-     "ouganda-quarantaine-21-jours"
+     "ebola-ci-vigilance"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, enquête d'Africa CDC sur un transit à Entebbe, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre, quarantaine de 21 jours en Ouganda pour les retours de RDC. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et un deuxième décès au Kenya le 23 octobre, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
    },
    {
     "ids": [
      "ebola-benin-cameroun-alerte-aeroports",
-     "ebola-lagos-surveillance-aeroport"
+     "ebola-lagos-surveillance-aeroport",
+     "ouganda-quarantaine-21-jours"
     ],
-    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre. Ces mesures donnent une base de comparaison pour notre propre dispositif."
+    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre et l'Ouganda impose 21 jours de quarantaine aux retours de RDC. Ces mesures donnent une base de comparaison pour notre propre dispositif."
    },
    {
     "ids": [
@@ -44,7 +45,7 @@
     "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T01:42:00Z"
+  "prochaineCollecte": "2026-10-27T02:42:00Z"
  },
  "items": [
   {
@@ -196,6 +197,26 @@
    "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
    "zone": "afrique",
    "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-27T01:43:30Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "Entebbe",
+    "quarantaine",
+    "contacts"
+   ],
+   "priorite": "haute",
+   "resume": "Une femme de 65 ans, proche du premier malade kenyan, est morte le 23 octobre alors qu'elle était déjà en quarantaine. Le Kenya compte neuf cas confirmés, dont quatre soignants, et 118 contacts ont été mis en quarantaine. Le premier malade avait transité par Entebbe le 3 octobre avant d'atterrir à Nairobi, comme la patiente du Nigeria. Africa CDC répète qu'aucun lien n'est établi à ce stade.",
+   "secteur": "medecine",
+   "sodexam": "Deux pays reliés à Abidjan par des vols directs ou en correspondance ont maintenant des cas. Le questionnaire de provenance à FHB devrait couvrir les transits par l'Ouganda et le Kenya sur les 21 derniers jours.",
+   "source": "Medical Daily",
+   "titre": "Ebola : le Kenya enregistre un deuxième décès et neuf cas confirmés",
+   "url": "https://www.medicaldaily.com/kenya-second-ebola-death-entebbe-airport-nigeria-link-480441",
+   "zone": "afrique",
+   "id": "ebola-kenya-deuxieme-deces"
   },
   {
    "ajoute": "2026-10-26T22:44:00Z",
