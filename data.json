@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-26T23:56:21Z",
+ "exporte": "2026-10-27T00:56:19Z",
  "briefing": {
-  "date": "2026-10-26",
-  "derniereCollecte": "2026-10-26T23:43:51Z",
-  "genereLe": "2026-10-26T22:44:11Z",
+  "date": "2026-10-27",
+  "derniereCollecte": "2026-10-27T00:44:01Z",
+  "genereLe": "2026-10-27T00:44:01Z",
   "points": [
    {
     "ids": [
@@ -17,11 +17,17 @@
    },
    {
     "ids": [
-     "ebola-lagos-surveillance-aeroport",
+     "ebola-benin-cameroun-alerte-aeroports",
+     "ebola-lagos-surveillance-aeroport"
+    ],
+    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre. Ces mesures donnent une base de comparaison pour notre propre dispositif."
+   },
+   {
+    "ids": [
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "Au Nigeria, 53 contacts sont suivis et la patiente a été évacuée vers la Suisse le 26 octobre. Lagos a durci le 26 octobre le filtrage à l'aéroport Murtala Muhammed avec les Port Health Services, mais les vols intérieurs nigérians ne sont pas contrôlés. Deux points à vérifier chez nous : les aéroports de l'intérieur et l'évacuation sanitaire en aviation d'affaires dans les plans d'urgence."
+    "texte": "53 contacts sont suivis au Nigeria et la patiente a été évacuée vers la Suisse le 26 octobre. L'évacuation sanitaire en aviation d'affaires mérite d'être vérifiée dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -35,18 +41,10 @@
      "air-cote-divoire-avions-immobilises",
      "af-hf-codeshare"
     ],
-    "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, et ajuste ses vols régionaux. Cela tombe au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB, et à relier au péril animalier sur nos plateformes."
-   },
-   {
-    "ids": [
-     "bad-maroc-pemia",
-     "aibd-scanners-tsa",
-     "safa-plan-urgence"
-    ],
-    "texte": "Financement BAD de 270 millions d'euros pour les aéroports marocains, scanners américains à Dakar, exercice de plan d'urgence à Ouagadougou : trois points de comparaison pour Yamoussoukro et le PARSA."
+    "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T00:42:00Z"
+  "prochaineCollecte": "2026-10-27T01:42:00Z"
  },
  "items": [
   {
@@ -141,6 +139,26 @@
    "url": "https://news.fundsforngos.org/2026/10/05/afdb-270-million-financing-morocco-airport-expansion-modernisation-pemia/",
    "zone": "afrique",
    "id": "bad-maroc-pemia"
+  },
+  {
+   "ajoute": "2026-10-27T00:43:48Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "Bénin",
+    "Cameroun",
+    "contrôle sanitaire",
+    "caméras thermiques"
+   ],
+   "priorite": "haute",
+   "resume": "Après le cas confirmé à Abuja le 20 octobre, les pays voisins du Nigeria réagissent. Le Bénin est passé en pré-alerte le 21 octobre et contrôle les arrivées à l'aéroport de Cotonou par caméras thermiques. Le Cameroun, sans cas déclaré mais à « risque très élevé » selon son ministre de la Santé, a retenu sept priorités dont le renforcement des frontières. Au 20 octobre, l'OMS comptait 9 704 cas confirmés et 4 687 décès, presque tous en RDC.",
+   "secteur": "medecine",
+   "sodexam": "Le Bénin, à une frontière du Nigeria, a déjà équipé son aéroport principal. C'est un repère pour vérifier, avec l'INHP et AERIA, le niveau du dispositif à FHB et ce qui est prévu sur les aéroports de l'intérieur.",
+   "source": "Rio Times",
+   "titre": "Ebola : le Bénin et le Cameroun renforcent les contrôles aux frontières et aéroports",
+   "url": "https://riotimesonline.com/ebola-nigeria-cameroon-madagascar-response-2026",
+   "zone": "afrique",
+   "id": "ebola-benin-cameroun-alerte-aeroports"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
