@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T05:56:10Z",
+ "exporte": "2026-10-27T06:57:09Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T05:43:27Z",
-  "genereLe": "2026-10-27T04:43:51Z",
+  "derniereCollecte": "2026-10-27T06:44:41Z",
+  "genereLe": "2026-10-27T06:44:41Z",
   "points": [
    {
     "ids": [
@@ -20,9 +20,10 @@
     "ids": [
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-lagos-surveillance-aeroport",
-     "ouganda-quarantaine-21-jours"
+     "ouganda-quarantaine-21-jours",
+     "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre et l'Ouganda impose 21 jours de quarantaine aux retours de RDC. Ces mesures donnent une base de comparaison pour notre propre dispositif."
+    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre et l'Ouganda impose 21 jours de quarantaine aux retours de RDC. L'OOAS a lancé le 26 octobre un appel régional à la vigilance, sans mesure aéroportuaire pour l'instant. Ces mesures donnent une base de comparaison pour notre propre dispositif."
    },
    {
     "ids": [
@@ -46,7 +47,7 @@
     "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T06:42:00Z"
+  "prochaineCollecte": "2026-10-27T07:42:00Z"
  },
  "items": [
   {
@@ -295,6 +296,25 @@
    "url": "https://globetv.app/news/nigeria-flies-its-only-ebola-patient-to-switzerland-as-53-contacts-are-traced-6adfb682b85a6",
    "zone": "afrique",
    "id": "ebola-nigeria-patiente-suisse-53-contacts"
+  },
+  {
+   "ajoute": "2026-10-27T06:44:30Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "OOAS",
+    "CEDEAO",
+    "surveillance"
+   ],
+   "priorite": "veille",
+   "resume": "L'Organisation ouest-africaine de la santé a demandé le 26 octobre aux populations de la région de renforcer leur vigilance après le cas importé confirmé le 20 octobre à Abuja. Elle dit travailler avec le Nigeria et les États de la CEDEAO sur la surveillance épidémiologique pour éviter une propagation transfrontalière. L'appel porte sur l'hygiène, l'évitement des contacts avec les malades et la consultation rapide en cas de symptômes. Aucune mesure aux frontières ou dans les aéroports n'est annoncée.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le cadre CEDEAO peut servir de canal pour harmoniser le filtrage sanitaire aux aéroports ; à voir avec l'INHP si la Côte d'Ivoire y relaie ses propres mesures.",
+   "source": "Icilome",
+   "titre": "Ebola : l'OOAS appelle l'Afrique de l'Ouest à la vigilance",
+   "url": "https://icilome.com/2026/10/ebola-looas-appelle-les-populations-ouest-africaines-a-la-vigilance/",
+   "zone": "afrique",
+   "id": "ebola-ooas-appel-vigilance"
   },
   {
    "ajoute": "2026-10-27T04:43:40Z",
