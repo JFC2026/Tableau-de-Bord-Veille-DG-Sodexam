@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T09:56:47Z",
+ "exporte": "2026-10-27T10:56:47Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T09:43:40Z",
-  "genereLe": "2026-10-27T09:43:40Z",
+  "derniereCollecte": "2026-10-27T10:44:52Z",
+  "genereLe": "2026-10-27T10:44:52Z",
   "points": [
    {
     "ids": [
@@ -12,9 +12,9 @@
      "ebola-kenya-deuxieme-deces",
      "ebola-usa-declaration",
      "ebola-ci-vigilance",
-     "ebola-rdc-bilan-4803-deces"
+     "ebola-rdc-10000-cas"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre. À partir du 3 novembre, les États-Unis refusent l'embarquement à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, et plus de 10 000 cas confirmés en RDC selon AP le 27 octobre. À partir du 3 novembre, les États-Unis refusent l'embarquement à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
    },
    {
     "ids": [
@@ -33,7 +33,7 @@
      "ebola-nigeria-patiente-suisse-53-contacts",
      "ebola-rdc-essai-vaccinal-bunia"
     ],
-    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. L'essai vaccinal lancé à Bunia ne change rien à court terme : le contrôle aux frontières aériennes reste la barrière principale. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -44,13 +44,14 @@
    },
    {
     "ids": [
+     "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises",
      "af-hf-codeshare"
     ],
-    "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
+    "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc. La SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Côté trafic, Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision avec des oiseaux à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T10:42:00Z"
+  "prochaineCollecte": "2026-10-27T11:42:00Z"
  },
  "items": [
   {
@@ -145,6 +146,26 @@
    "url": "https://news.fundsforngos.org/2026/10/05/afdb-270-million-financing-morocco-airport-expansion-modernisation-pemia/",
    "zone": "afrique",
    "id": "bad-maroc-pemia"
+  },
+  {
+   "ajoute": "2026-10-27T10:44:37Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "SAF",
+    "ANAC",
+    "manioc",
+    "décarbonation",
+    "OACI ACT-SAF"
+   ],
+   "priorite": "haute",
+   "resume": "L'ANAC a présenté le 3 septembre 2026 une étude de faisabilité commerciale sur les carburants d'aviation durables, financée par la France via le programme ACT-SAF de l'OACI. L'éthanol de manioc est la piste privilégiée, la noix de cajou est aussi étudiée, avec un co-traitement possible à la SIR. La première production est visée pour 2028-2029, sans budget ni volume publiés. L'étude pose des conditions : pas de concurrence avec les usages alimentaires, certification, cadre réglementaire et gouvernance nationale.",
+   "secteur": "aeronautique",
+   "sodexam": "Le sujet rejoint directement le PSED 2026-2035 et le volet décarbonation des aéroports. La SODEXAM gagnerait à se positionner dans la future gouvernance nationale SAF, au titre de la plateforme FHB et des besoins d'avitaillement à l'intérieur.",
+   "source": "Pulse.ci",
+   "titre": "Carburant d'aviation durable : la Côte d'Ivoire vise une production nationale vers 2028-2029",
+   "url": "https://www.pulse.ci/article/des-avions-qui-volent-au-manioc-la-cote-divoire-veut-y-croire-des-2029-2026102313424566236",
+   "zone": "ci",
+   "id": "ci-saf-manioc-2029"
   },
   {
    "ajoute": "2026-10-27T07:43:56Z",
@@ -357,6 +378,25 @@
    "url": "https://icilome.com/2026/10/ebola-looas-appelle-les-populations-ouest-africaines-a-la-vigilance/",
    "zone": "afrique",
    "id": "ebola-ooas-appel-vigilance"
+  },
+  {
+   "ajoute": "2026-10-27T10:44:37Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "épidémie",
+    "bilan"
+   ],
+   "priorite": "veille",
+   "resume": "Selon une dépêche AP du 27 octobre 2026, l'épidémie d'Ebola en RD Congo a franchi le seuil de 10 000 cas confirmés. Les autorités cherchent à freiner sa diffusion sur le continent. La dépêche ne donne pas de nouveau bilan des décès. Elle actualise le chiffre de 9 876 cas au 25 octobre déjà suivi dans la veille.",
+   "secteur": "medecine",
+   "sodexam": "Pas d'effet direct nouveau, mais la dynamique ne ralentit pas. Le dispositif sanitaire de FHB et des aéroports de l'intérieur doit être tenu dans la durée, pas seulement pour quelques semaines.",
+   "source": "AP / ABC News",
+   "titre": "Ebola : l'épidémie en RDC dépasse 10 000 cas confirmés",
+   "url": "https://abcnews.com/US/wireStory/congos-fast-moving-ebola-outbreak-tops-10000-confirmed-137595727",
+   "zone": "afrique",
+   "id": "ebola-rdc-10000-cas"
   },
   {
    "ajoute": "2026-10-27T04:43:40Z",
