@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T13:57:21Z",
+ "exporte": "2026-10-27T14:56:23Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T13:45:23Z",
-  "genereLe": "2026-10-27T13:45:23Z",
+  "derniereCollecte": "2026-10-27T14:44:22Z",
+  "genereLe": "2026-10-27T14:44:22Z",
   "points": [
    {
     "ids": [
@@ -20,12 +20,13 @@
     "ids": [
      "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
+     "ebola-ghana-expert-limites-controle-temperature",
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-lagos-surveillance-aeroport",
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les pays de la région durcissent leurs contrôles. Le Nigeria a mis 46 contacts sur une liste d'interdiction de vol de 21 jours transmise aux compagnies, le Ghana filtre aux aéroports et suit 21 jours les arrivants à risque, le Bénin a installé des caméras thermiques à Cotonou. Il faut savoir qui, chez nous, recevrait et appliquerait une liste de ce type, et tester le dispositif de FHB par un exercice."
+    "texte": "Les pays de la région durcissent leurs contrôles. Le Nigeria a mis 46 contacts sur une liste d'interdiction de vol de 21 jours, le Ghana filtre aux aéroports, le Bénin a installé des caméras thermiques à Cotonou. Un expert ghanéen rappelait le 27 octobre que la caméra thermique laisse passer les voyageurs encore sans symptômes : ce qui compte, ce sont des coordonnées passagers fiables pour le suivi. À vérifier à FHB, avec un exercice."
    },
    {
     "ids": [
@@ -52,7 +53,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc. La SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Côté trafic, Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision avec des oiseaux à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T14:42:00Z"
+  "prochaineCollecte": "2026-10-27T15:42:00Z"
  },
  "items": [
   {
@@ -243,6 +244,26 @@
    "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
    "zone": "afrique",
    "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-27T14:44:11Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "contrôle sanitaire",
+    "Ghana",
+    "fiches passagers",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "Le professeur John Amuasi, du KCCR de Kumasi, estime que la prise de température et le lavage des mains aux aéroports protègent peu, car les voyageurs infectés partent souvent avant les premiers symptômes. Il rappelle que la patiente d'Abuja, venue d'Ouganda, a eu ses symptômes quatre jours après son arrivée. Sa priorité : des fiches passagers fiables, avec des numéros de téléphone vérifiés, et un point de santé tous les deux ou trois jours pour les arrivants à risque. Il écarte le test PCR systématique, jugé irréaliste.",
+   "secteur": "medecine",
+   "sodexam": "Le dispositif de FHB repose lui aussi sur la caméra thermique. Il faudrait vérifier avec l'INHP et AERIA comment les coordonnées des passagers sont collectées et contrôlées, car c'est ce qui permet le suivi pendant 21 jours.",
+   "source": "Streamline Feed",
+   "titre": "Ebola : un expert ghanéen juge insuffisants les contrôles de température aux aéroports",
+   "url": "https://streamlinefeed.co.ke/news/health-expert-warns-ghana-against-relying-on-airport-temperature-checks-for-ebola-screening",
+   "zone": "afrique",
+   "id": "ebola-ghana-expert-limites-controle-temperature"
   },
   {
    "ajoute": "2026-10-27T07:43:56Z",
