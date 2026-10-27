@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T12:59:05Z",
+ "exporte": "2026-10-27T13:57:21Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T12:44:51Z",
-  "genereLe": "2026-10-27T10:44:52Z",
+  "derniereCollecte": "2026-10-27T13:45:23Z",
+  "genereLe": "2026-10-27T13:45:23Z",
   "points": [
    {
     "ids": [
@@ -18,13 +18,14 @@
    },
    {
     "ids": [
+     "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-lagos-surveillance-aeroport",
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les pays de la région durcissent leurs contrôles. Le Ghana filtre aux aéroports avec son exploitant et son aviation civile, a fait un exercice à Accra et suit 21 jours les arrivants à risque. Le Bénin a installé des caméras thermiques à Cotonou, Lagos a durci le filtrage le 26 octobre. Un exercice comparable à FHB serait le meilleur moyen de tester notre dispositif."
+    "texte": "Les pays de la région durcissent leurs contrôles. Le Nigeria a mis 46 contacts sur une liste d'interdiction de vol de 21 jours transmise aux compagnies, le Ghana filtre aux aéroports et suit 21 jours les arrivants à risque, le Bénin a installé des caméras thermiques à Cotonou. Il faut savoir qui, chez nous, recevrait et appliquerait une liste de ce type, et tester le dispositif de FHB par un exercice."
    },
    {
     "ids": [
@@ -33,7 +34,7 @@
      "ebola-nigeria-patiente-suisse-53-contacts",
      "ebola-rdc-essai-vaccinal-bunia"
     ],
-    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -51,7 +52,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc. La SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Côté trafic, Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision avec des oiseaux à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T13:42:00Z"
+  "prochaineCollecte": "2026-10-27T14:42:00Z"
  },
  "items": [
   {
@@ -339,6 +340,26 @@
    "url": "https://www.thisdaylive.com/2026/10/26/nigerias-index-ebola-patient-evacuated-abroad-by-air-ambulance/",
    "zone": "afrique",
    "id": "ebola-nigeria-evacuation-patiente"
+  },
+  {
+   "ajoute": "2026-10-27T13:45:08Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "interdiction de vol",
+    "NCAA",
+    "FAAN"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministre nigérian de l'Aviation, Festus Keyamo, a fait inscrire sur une liste d'interdiction de vol, pour au moins 21 jours, 46 personnes ayant été en contact avec la patiente atteinte d'Ebola. L'autorité de l'aviation civile (NCAA) doit en informer les compagnies locales et étrangères. La FAAN renforce le dépistage dans tous les aéroports internationaux : contrôle de température, historique de voyage, déclaration sanitaire numérique. Le nombre de contacts suivis a depuis été porté à 53 par le ministère de la Santé.",
+   "secteur": "aeronautique",
+   "sodexam": "C'est le premier cas régional où l'aviation civile bloque des passagers sur une liste sanitaire transmise aux compagnies. Il faut vérifier avec l'ANAC et l'INHP si une telle liste pourrait être reçue et appliquée à FHB et sur nos aéroports de l'intérieur, et par qui.",
+   "source": "Arise News",
+   "titre": "Ebola : le Nigeria interdit de vol 46 contacts pendant 21 jours",
+   "url": "https://www.arise.tv/ebola-keyamo-orders-21-day-no-fly-restriction-for-46-contacts-tightens-airport-surveillance/",
+   "zone": "afrique",
+   "id": "ebola-nigeria-interdiction-vol-46-contacts"
   },
   {
    "ajoute": "2026-10-26T21:44:10Z",
