@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T08:56:50Z",
+ "exporte": "2026-10-27T09:56:47Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T08:44:04Z",
-  "genereLe": "2026-10-27T07:44:12Z",
+  "derniereCollecte": "2026-10-27T09:43:40Z",
+  "genereLe": "2026-10-27T09:43:40Z",
   "points": [
    {
     "ids": [
@@ -14,7 +14,7 @@
      "ebola-ci-vigilance",
      "ebola-rdc-bilan-4803-deces"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, déclaration obligatoire pour tout passager vers les États-Unis à partir du 3 novembre. La RDC compte 9 876 cas et 4 803 décès au 25 octobre. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre. À partir du 3 novembre, les États-Unis refusent l'embarquement à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
    },
    {
     "ids": [
@@ -30,9 +30,10 @@
     "ids": [
      "ebola-africa-cdc-reunion-ministres",
      "ebola-nigeria-evacuation-patiente",
-     "ebola-nigeria-patiente-suisse-53-contacts"
+     "ebola-nigeria-patiente-suisse-53-contacts",
+     "ebola-rdc-essai-vaccinal-bunia"
     ],
-    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre. Des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. Au Nigeria, 53 contacts sont suivis et la patiente a été évacuée vers la Suisse le 26 octobre, ce qui pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. L'essai vaccinal lancé à Bunia ne change rien à court terme : le contrôle aux frontières aériennes reste la barrière principale. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -49,7 +50,7 @@
     "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T09:42:00Z"
+  "prochaineCollecte": "2026-10-27T10:42:00Z"
  },
  "items": [
   {
@@ -375,6 +376,26 @@
    "url": "https://en.sedaily.com/international/2026/10/27/ebola-spreads-beyond-congo-as-death-toll-tops-4800",
    "zone": "afrique",
    "id": "ebola-rdc-bilan-4803-deces"
+  },
+  {
+   "ajoute": "2026-10-27T09:43:28Z",
+   "date": "2026-10-26",
+   "motscles": [
+    "Ebola",
+    "vaccin",
+    "RDC",
+    "Bundibugyo",
+    "OMS"
+   ],
+   "priorite": "veille",
+   "resume": "L'OMS a annoncé le 23 octobre un essai de vaccination en anneau autour des contacts de malades à Bunia, en Ituri. Les participants reçoivent d'abord l'Ervebo, conçu pour la souche Zaïre, pour tester une protection croisée ; des candidats d'Oxford et de Moderna, financés par la CEPI, doivent suivre. Le CDC compte 9 847 cas confirmés et 4 761 décès au 23 octobre. L'article précise la mesure américaine déjà signalée : à partir du 3 novembre, un voyageur passé en RDC dans les 21 jours ne pourra pas embarquer vers les États-Unis.",
+   "secteur": "medecine",
+   "sodexam": "Pas d'effet direct à court terme : aucun vaccin efficace n'est encore disponible contre cette souche. Le contrôle aux frontières aériennes reste donc la principale barrière pour FHB et les aéroports de l'intérieur.",
+   "source": "Nature World News",
+   "titre": "Ebola : premier essai vaccinal contre la souche Bundibugyo lancé à Bunia en RDC",
+   "url": "https://www.natureworldnews.com/articles/73649/20261026/bundibugyo-ebola-cases-near-10000-congo-starts-first-vaccine-trial-us-adds-travel-attestation.htm",
+   "zone": "afrique",
+   "id": "ebola-rdc-essai-vaccinal-bunia"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
