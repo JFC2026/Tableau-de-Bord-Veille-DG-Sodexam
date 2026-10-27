@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T06:57:09Z",
+ "exporte": "2026-10-27T07:56:55Z",
  "briefing": {
   "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T06:44:41Z",
-  "genereLe": "2026-10-27T06:44:41Z",
+  "derniereCollecte": "2026-10-27T07:44:12Z",
+  "genereLe": "2026-10-27T07:44:12Z",
   "points": [
    {
     "ids": [
@@ -18,19 +18,21 @@
    },
    {
     "ids": [
+     "ebola-ghana-filtrage-aeroports",
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-lagos-surveillance-aeroport",
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins du Nigeria bougent. Le Bénin est en pré-alerte depuis le 21 octobre avec des caméras thermiques à Cotonou, le Cameroun renforce ses frontières, Lagos a durci le filtrage le 26 octobre et l'Ouganda impose 21 jours de quarantaine aux retours de RDC. L'OOAS a lancé le 26 octobre un appel régional à la vigilance, sans mesure aéroportuaire pour l'instant. Ces mesures donnent une base de comparaison pour notre propre dispositif."
+    "texte": "Les pays de la région durcissent leurs contrôles. Le Ghana filtre aux aéroports avec son exploitant et son aviation civile, a fait un exercice à Accra et suit 21 jours les arrivants à risque. Le Bénin a installé des caméras thermiques à Cotonou, Lagos a durci le filtrage le 26 octobre. Un exercice comparable à FHB serait le meilleur moyen de tester notre dispositif."
    },
    {
     "ids": [
+     "ebola-africa-cdc-reunion-ministres",
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "53 contacts sont suivis au Nigeria et la patiente a été évacuée vers la Suisse le 26 octobre. L'évacuation sanitaire en aviation d'affaires mérite d'être vérifiée dans nos plans d'urgence."
+    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre. Des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le lendemain. Au Nigeria, 53 contacts sont suivis et la patiente a été évacuée vers la Suisse le 26 octobre, ce qui pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -47,7 +49,7 @@
     "texte": "Air Côte d'Ivoire a annoncé le 26 octobre l'immobilisation de plusieurs avions, dont un après une collision avec des oiseaux à Bamako, au lendemain du partage de codes avec Air France sur Paris–Abidjan. À suivre pour le trafic de FHB et à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-27T07:42:00Z"
+  "prochaineCollecte": "2026-10-27T08:42:00Z"
  },
  "items": [
   {
@@ -144,6 +146,25 @@
    "id": "bad-maroc-pemia"
   },
   {
+   "ajoute": "2026-10-27T07:43:56Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "Ebola",
+    "Africa CDC",
+    "Bundibugyo",
+    "coordination régionale"
+   ],
+   "priorite": "haute",
+   "resume": "Le directeur général d'Africa CDC, Jean Kaseya, a convoqué une réunion virtuelle extraordinaire des ministres africains de la Santé pour le 28 octobre, après le premier cas confirmé au Nigeria. L'épidémie, due à la souche Bundibugyo sans vaccin ni traitement homologué, dépassait alors 9 500 cas et 4 600 décès. L'OMS la décrit comme l'épidémie d'Ebola à la croissance la plus rapide jamais observée.",
+   "secteur": "medecine",
+   "sodexam": "Des recommandations continentales sur les voyages pourraient sortir de cette réunion. Il faudra en suivre les conclusions dès le 28 octobre pour ajuster le dispositif des aéroports.",
+   "source": "GBC Ghana",
+   "titre": "Ebola : Africa CDC réunit les ministres africains de la Santé le 28 octobre",
+   "url": "https://www.gbcghanaonline.com/news/ebola-spreads/2026/",
+   "zone": "afrique",
+   "id": "ebola-africa-cdc-reunion-ministres"
+  },
+  {
    "ajoute": "2026-10-27T00:43:48Z",
    "date": "2026-10-26",
    "motscles": [
@@ -199,6 +220,26 @@
    "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
    "zone": "afrique",
    "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-27T07:43:56Z",
+   "date": "2026-10-22",
+   "motscles": [
+    "Ebola",
+    "Ghana",
+    "Kotoka",
+    "contrôle sanitaire",
+    "exercice"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministère ghanéen de la Santé a renforcé le contrôle sanitaire aux points d'entrée, surtout aux aéroports internationaux, avec Ghana Airports Company et l'autorité de l'aviation civile. Des exercices de simulation ont eu lieu à l'aéroport d'Accra. Les voyageurs venant de zones à risque seront suivis pendant 21 jours. Le Ghana, qui n'a aucun cas, cite les vols directs avec le Kenya et les liaisons fréquentes avec le Nigeria comme principaux risques.",
+   "secteur": "medecine",
+   "sodexam": "Le Ghana associe d'emblée l'exploitant aéroportuaire et l'aviation civile et organise un exercice sur site. Un exercice du même type à FHB, avec l'INHP et AERIA, serait un bon test de notre dispositif.",
+   "source": "GBC Ghana",
+   "titre": "Ebola : le Ghana renforce le filtrage aux aéroports et suit les arrivants 21 jours",
+   "url": "https://www.gbcghanaonline.com/news/health/ghana-intensifies-ebola-surveillance-after-cases-confirmed-in-kenya-nigeria/2026/",
+   "zone": "afrique",
+   "id": "ebola-ghana-filtrage-aeroports"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
