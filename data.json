@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-28T22:56:09Z",
+ "exporte": "2026-10-28T23:55:45Z",
  "briefing": {
   "date": "2026-10-28",
-  "derniereCollecte": "2026-10-28T22:44:00Z",
-  "genereLe": "2026-10-28T14:44:32Z",
+  "derniereCollecte": "2026-10-28T23:43:43Z",
+  "genereLe": "2026-10-28T23:43:43Z",
   "points": [
    {
     "ids": [
@@ -15,12 +15,19 @@
      "ebola-rdc-10000-cas",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, plus de 10 000 cas confirmés en RDC. Uganda Airlines relie depuis le 27 octobre Entebbe à Lagos et Accra, quatre fois par semaine. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur reste à tenir cette semaine, provenances d'Entebbe et de Nairobi comprises."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, 10 141 cas confirmés en RDC au 28 octobre. Uganda Airlines relie depuis le 27 octobre Entebbe à Lagos et Accra, quatre fois par semaine. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur reste à tenir cette semaine, provenances d'Entebbe et de Nairobi comprises."
+   },
+   {
+    "ids": [
+     "ebola-reunion-ministres-points-entree",
+     "ebola-africa-cdc-reunion-ministres",
+     "ebola-oms-don622-pas-restriction-voyages"
+    ],
+    "texte": "La réunion des ministres africains de la Santé du 28 octobre n'a décidé aucune restriction de voyage, mais un renforcement de la surveillance aux points d'entrée et de la protection des personnels de première ligne. C'est la ligne à suivre à FHB et sur nos plateformes : contrôle sanitaire solide, dans le cadre du RSI, et agents correctement équipés."
    },
    {
     "ids": [
      "ebola-ghana-kotoka-declaration-electronique",
-     "ebola-oms-don622-pas-restriction-voyages",
      "ebola-zamfara-depistage-aeroport-gusau",
      "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
@@ -28,18 +35,11 @@
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-lagos-surveillance-aeroport",
      "ouganda-quarantaine-21-jours",
-     "ebola-ooas-appel-vigilance"
-    ],
-    "texte": "Les voisins durcissent leurs contrôles. Le 28 octobre, le Ghana a rendu obligatoire à Kotoka une déclaration sanitaire électronique révisée, après le Nigeria et avant les États-Unis le 3 novembre. L'OMS déconseille toute restriction de voyage : nos mesures doivent rester dans le cadre du RSI. Reste à savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur."
-   },
-   {
-    "ids": [
-     "ebola-africa-cdc-reunion-ministres",
-     "ebola-ecdc-equipe-nigeria",
+     "ebola-ooas-appel-vigilance",
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "Les ministres africains de la Santé se réunissent le 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les voisins durcissent leurs contrôles. Le 28 octobre, le Ghana a rendu obligatoire à Kotoka une déclaration sanitaire électronique révisée, après le Nigeria et avant les États-Unis le 3 novembre. Reste à savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose aussi la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -58,7 +58,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T23:42:00Z"
+  "prochaineCollecte": "2026-10-29T00:42:00Z"
  },
  "items": [
   {
@@ -542,6 +542,25 @@
    "url": "https://www.natureworldnews.com/articles/73649/20261026/bundibugyo-ebola-cases-near-10000-congo-starts-first-vaccine-trial-us-adds-travel-attestation.htm",
    "zone": "afrique",
    "id": "ebola-rdc-essai-vaccinal-bunia"
+  },
+  {
+   "ajoute": "2026-10-28T23:43:31Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Ebola",
+    "points d'entrée",
+    "Africa CDC",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "La réunion ministérielle virtuelle du 28 octobre a dégagé un consensus sur le renforcement de la surveillance aux points d'entrée et la protection des personnels de première ligne. La RDC compte 10 141 cas confirmés et 4 928 décès, ce qui actualise le bilan précédent. Le Kenya, avec neuf cas, garde ses frontières ouvertes aux voyages et au commerce. L'Ouganda propose un sommet extraordinaire de l'Union africaine sur Ebola.",
+   "secteur": "medecine",
+   "sodexam": "Pas de restriction de voyage décidée, mais une attente claire sur les points d'entrée. C'est le moment de faire valider avec l'INHP et AERIA le dispositif de FHB et des aéroports de l'intérieur, et de vérifier l'équipement de protection des agents.",
+   "source": "Infobae (EFE)",
+   "titre": "Ebola : les ministres africains s'accordent sur une surveillance renforcée aux points d'entrée",
+   "url": "https://infobae.com/america/agencias/2026/10/28/la-ua-y-la-oms-urgen-a-actuar-ante-un-brote-de-ebola-que-supera-los-10000-casos-en-la-rdc",
+   "zone": "afrique",
+   "id": "ebola-reunion-ministres-points-entree"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
