@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-28T12:00:03Z",
+ "exporte": "2026-10-28T12:56:24Z",
  "briefing": {
   "date": "2026-10-28",
-  "derniereCollecte": "2026-10-28T11:45:11Z",
-  "genereLe": "2026-10-28T11:45:11Z",
+  "derniereCollecte": "2026-10-28T12:55:21Z",
+  "genereLe": "2026-10-28T12:55:21Z",
   "points": [
    {
     "ids": [
@@ -12,9 +12,10 @@
      "ebola-kenya-deuxieme-deces",
      "ebola-usa-declaration",
      "ebola-ci-vigilance",
-     "ebola-rdc-10000-cas"
+     "ebola-rdc-10000-cas",
+     "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, plus de 10 000 cas confirmés en RDC selon AP le 27 octobre. Les États-Unis refuseront l'embarquement, dès le 3 novembre, à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur reste à tenir cette semaine, transits par l'Ouganda et le Kenya compris."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, plus de 10 000 cas confirmés en RDC. Uganda Airlines relie depuis le 27 octobre Entebbe à Lagos et Accra, quatre fois par semaine. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur reste à tenir cette semaine, provenances d'Entebbe et de Nairobi comprises."
    },
    {
     "ids": [
@@ -23,7 +24,7 @@
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "La réunion extraordinaire des ministres africains de la Santé convoquée par Africa CDC se tient le 28 octobre. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'ECDC, présente au Nigeria depuis le 27 octobre, juge le risque faible pour les voyageurs. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les ministres africains de la Santé se réunissent ce 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -36,14 +37,15 @@
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou. Au Nigeria, le dépistage descend maintenant aux aéroports secondaires comme Gusau. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste le point à tester par un exercice."
+    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou, dépistage jusqu'aux aéroports secondaires nigérians. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste à tester par un exercice."
    },
    {
     "ids": [
      "sodexam-saison-deficitaire",
-     "omm-el-nino-record"
+     "omm-el-nino-record",
+     "omm-bulletin-ges-record-2025"
     ],
-    "texte": "L'OMM évoque un El Niño qui pourrait être le plus fort jamais mesuré. La prévision de la SODEXAM d'une petite saison des pluies déficitaire, reprise par la presse, devra être évaluée en janvier."
+    "texte": "L'OMM évoque un El Niño qui pourrait être le plus fort jamais mesuré, et son bulletin du 27 octobre fixe le CO2 à 426,8 ppm en 2025, un record. La prévision SODEXAM d'une petite saison des pluies déficitaire devra être évaluée en janvier ; ces données peuvent nourrir nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -54,7 +56,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T12:42:00Z"
+  "prochaineCollecte": "2026-10-28T13:42:00Z"
  },
  "items": [
   {
@@ -610,6 +612,25 @@
    "id": "naf-atr-crash"
   },
   {
+   "ajoute": "2026-10-28T12:55:07Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "OMM",
+    "gaz à effet de serre",
+    "CO2",
+    "COP31"
+   ],
+   "priorite": "veille",
+   "resume": "Le Bulletin de l'OMM sur les gaz à effet de serre, publié le 27 octobre 2026, établit la concentration moyenne de CO2 à 426,8 ppm en 2025, soit 153 % du niveau de 1750. La hausse 2024-2025 est de 2,8 ppm, après 3,5 ppm l'année précédente. Méthane et protoxyde d'azote atteignent aussi des records. L'OMM s'attend à une nouvelle hausse en 2026, El Niño compris, et destine ce bulletin aux négociateurs de la COP31 à Antalya du 9 au 20 novembre.",
+   "secteur": "meteorologie",
+   "sodexam": "Impact indirect. Ces chiffres peuvent alimenter les messages de la SODEXAM sur le climat et les dossiers de financement climat en préparation à l'approche de la COP31.",
+   "source": "ONU Info",
+   "titre": "OMM : le CO2 atmosphérique atteint un record de 426,8 ppm en 2025",
+   "url": "https://news.un.org/en/story/2026/10/1168677",
+   "zone": "monde",
+   "id": "omm-bulletin-ges-record-2025"
+  },
+  {
    "ajoute": "2026-10-26T11:28:00Z",
    "date": "2026-10-22",
    "motscles": [
@@ -702,6 +723,26 @@
    "url": "https://www.fratmat.info/article/2645376/societe/cote-divoire-el-nino-fait-craindre-un-deficit-pluviometrique-au-sud-du-pays",
    "zone": "ci",
    "id": "sodexam-saison-deficitaire"
+  },
+  {
+   "ajoute": "2026-10-28T12:55:07Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Uganda Airlines",
+    "Entebbe",
+    "Accra",
+    "Ebola",
+    "connectivité"
+   ],
+   "priorite": "haute",
+   "resume": "Uganda Airlines a inauguré le 27 octobre 2026 à Accra sa liaison avec Entebbe, à raison de quatre vols par semaine, avec escale à Lagos selon New Vision. Le ministre ougandais des Transports annonce un trajet ramené à environ cinq heures, contre sept à dix heures avec correspondance. Aucune mesure sanitaire liée à Ebola n'est mentionnée lors du lancement.",
+   "secteur": "aeronautique",
+   "sodexam": "Cette ligne relie directement Entebbe, au cœur de l'enquête d'Africa CDC sur Ebola, à Lagos et Accra, deux plateformes en correspondance fréquente avec Abidjan. À intégrer dans le suivi des provenances à risque à FHB avec l'INHP et AERIA.",
+   "source": "GhanaWeb",
+   "titre": "Uganda Airlines ouvre une ligne Entebbe–Lagos–Accra quatre fois par semaine",
+   "url": "https://www.ghanaweb.com/blogs/attractivenews/Uganda-Airlines-CEO-Ato-Girma-Wake-Calls-for-African-Unity-at-Accra-Route-Launch-20863",
+   "zone": "afrique",
+   "id": "uganda-airlines-entebbe-lagos-accra"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
