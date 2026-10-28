@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-28T13:59:08Z",
+ "exporte": "2026-10-28T14:57:09Z",
  "briefing": {
   "date": "2026-10-28",
-  "derniereCollecte": "2026-10-28T13:49:15Z",
-  "genereLe": "2026-10-28T13:49:15Z",
+  "derniereCollecte": "2026-10-28T14:44:32Z",
+  "genereLe": "2026-10-28T14:44:32Z",
   "points": [
    {
     "ids": [
@@ -19,15 +19,7 @@
    },
    {
     "ids": [
-     "ebola-africa-cdc-reunion-ministres",
-     "ebola-ecdc-equipe-nigeria",
-     "ebola-nigeria-evacuation-patiente",
-     "ebola-nigeria-patiente-suisse-53-contacts"
-    ],
-    "texte": "Les ministres africains de la Santé se réunissent le 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
-   },
-   {
-    "ids": [
+     "ebola-ghana-kotoka-declaration-electronique",
      "ebola-oms-don622-pas-restriction-voyages",
      "ebola-zamfara-depistage-aeroport-gusau",
      "ebola-nigeria-interdiction-vol-46-contacts",
@@ -38,7 +30,16 @@
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou, dépistage jusqu'aux aéroports secondaires nigérians. L'OMS, dans son bulletin du 23 octobre, déconseille toute restriction de voyage et révise son évaluation du risque : nos mesures doivent rester dans le cadre du RSI. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste à tester par un exercice."
+    "texte": "Les voisins durcissent leurs contrôles. Le 28 octobre, le Ghana a rendu obligatoire à Kotoka une déclaration sanitaire électronique révisée, après le Nigeria et avant les États-Unis le 3 novembre. L'OMS déconseille toute restriction de voyage : nos mesures doivent rester dans le cadre du RSI. Reste à savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur."
+   },
+   {
+    "ids": [
+     "ebola-africa-cdc-reunion-ministres",
+     "ebola-ecdc-equipe-nigeria",
+     "ebola-nigeria-evacuation-patiente",
+     "ebola-nigeria-patiente-suisse-53-contacts"
+    ],
+    "texte": "Les ministres africains de la Santé se réunissent le 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -57,7 +58,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T14:42:00Z"
+  "prochaineCollecte": "2026-10-28T15:42:00Z"
  },
  "items": [
   {
@@ -307,6 +308,26 @@
    "url": "https://www.gbcghanaonline.com/news/health/ghana-intensifies-ebola-surveillance-after-cases-confirmed-in-kenya-nigeria/2026/",
    "zone": "afrique",
    "id": "ebola-ghana-filtrage-aeroports"
+  },
+  {
+   "ajoute": "2026-10-28T14:44:20Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Ebola",
+    "Ghana",
+    "Kotoka",
+    "déclaration sanitaire",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministre ghanéen de la Santé, Kwabena Mintah Akandoh, s'est exprimé le 28 octobre 2026 à l'aéroport international de Kotoka. Des scanners thermiques y sont installés et les formulaires électroniques de déclaration sanitaire ont été révisés : tout passager à l'arrivée devra les remplir, pour le filtrage et le suivi des contacts. Le pays dit disposer d'un centre d'isolement et renforce ses capacités de laboratoire. Aucun cas suspect n'est signalé au Ghana.",
+   "secteur": "medecine",
+   "sodexam": "Le Ghana suit le Nigeria et les États-Unis sur la déclaration obligatoire à l'arrivée. À FHB, il faut savoir si l'INHP prévoit un formulaire équivalent et comment il serait collecté avec AERIA, y compris pour les vols intérieurs vers nos aéroports.",
+   "source": "Ghanamma",
+   "titre": "Ebola : le Ghana impose une déclaration sanitaire électronique révisée à Kotoka",
+   "url": "https://www.ghanamma.com/2026/10/28/ghana-ready-to-respond-to-possible-ebola-outbreak-akandoh/",
+   "zone": "afrique",
+   "id": "ebola-ghana-kotoka-declaration-electronique"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
