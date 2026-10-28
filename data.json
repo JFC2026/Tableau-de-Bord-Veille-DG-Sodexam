@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-28T12:56:24Z",
+ "exporte": "2026-10-28T13:59:08Z",
  "briefing": {
   "date": "2026-10-28",
-  "derniereCollecte": "2026-10-28T12:55:21Z",
-  "genereLe": "2026-10-28T12:55:21Z",
+  "derniereCollecte": "2026-10-28T13:49:15Z",
+  "genereLe": "2026-10-28T13:49:15Z",
   "points": [
    {
     "ids": [
@@ -24,10 +24,11 @@
      "ebola-nigeria-evacuation-patiente",
      "ebola-nigeria-patiente-suisse-53-contacts"
     ],
-    "texte": "Les ministres africains de la Santé se réunissent ce 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les ministres africains de la Santé se réunissent le 28 octobre à l'appel d'Africa CDC. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
+     "ebola-oms-don622-pas-restriction-voyages",
      "ebola-zamfara-depistage-aeroport-gusau",
      "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
@@ -37,7 +38,7 @@
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou, dépistage jusqu'aux aéroports secondaires nigérians. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste à tester par un exercice."
+    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou, dépistage jusqu'aux aéroports secondaires nigérians. L'OMS, dans son bulletin du 23 octobre, déconseille toute restriction de voyage et révise son évaluation du risque : nos mesures doivent rester dans le cadre du RSI. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste à tester par un exercice."
    },
    {
     "ids": [
@@ -56,7 +57,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T13:42:00Z"
+  "prochaineCollecte": "2026-10-28T14:42:00Z"
  },
  "items": [
   {
@@ -423,6 +424,26 @@
    "url": "https://globetv.app/news/nigeria-flies-its-only-ebola-patient-to-switzerland-as-53-contacts-are-traced-6adfb682b85a6",
    "zone": "afrique",
    "id": "ebola-nigeria-patiente-suisse-53-contacts"
+  },
+  {
+   "ajoute": "2026-10-28T13:49:04Z",
+   "date": "2026-10-23",
+   "motscles": [
+    "Ebola",
+    "OMS",
+    "RSI",
+    "points d'entrée",
+    "restrictions de voyage"
+   ],
+   "priorite": "haute",
+   "resume": "Dans son bulletin du 23 octobre, l'OMS recense au 20 octobre 9 704 cas confirmés et 4 687 décès en RDC, 9 cas et 1 décès au Kenya, et un cas importé au Nigeria avec 44 contacts. Elle déconseille toute restriction des voyages et des échanges avec les pays touchés et demande une surveillance aux points d'entrée. L'évaluation du risque, jugé faible le 14 août pour le reste de la région africaine, est en cours de révision. Les chiffres kényans et nigérians ont depuis été dépassés (voir les articles du 26 octobre).",
+   "secteur": "medecine",
+   "sodexam": "Les mesures à FHB et sur nos aéroports doivent rester dans le cadre du RSI : contrôle sanitaire renforcé oui, fermeture ou refus de vols non. La révision du niveau de risque par l'OMS est à suivre, elle peut changer le dispositif attendu.",
+   "source": "OMS",
+   "titre": "Ebola : l'OMS déconseille toute restriction de voyage et appelle à surveiller les points d'entrée",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+   "zone": "monde",
+   "id": "ebola-oms-don622-pas-restriction-voyages"
   },
   {
    "ajoute": "2026-10-27T06:44:30Z",
