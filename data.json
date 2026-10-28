@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-28T10:56:16Z",
+ "exporte": "2026-10-28T12:00:03Z",
  "briefing": {
   "date": "2026-10-28",
-  "derniereCollecte": "2026-10-28T10:44:55Z",
-  "genereLe": "2026-10-28T00:43:39Z",
+  "derniereCollecte": "2026-10-28T11:45:11Z",
+  "genereLe": "2026-10-28T11:45:11Z",
   "points": [
    {
     "ids": [
@@ -27,6 +27,7 @@
    },
    {
     "ids": [
+     "ebola-zamfara-depistage-aeroport-gusau",
      "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
      "ebola-ghana-expert-limites-controle-temperature",
@@ -35,7 +36,7 @@
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : liste d'interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou. Un expert ghanéen rappelait le 27 octobre que la caméra thermique ne voit pas les voyageurs encore sans symptômes. Le vrai sujet pour FHB est la fiabilité des coordonnées passagers pour le suivi, à tester par un exercice."
+    "texte": "Les voisins durcissent leurs contrôles : interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou. Au Nigeria, le dépistage descend maintenant aux aéroports secondaires comme Gusau. Nos aéroports de l'intérieur doivent figurer dans le dispositif, et la fiabilité des coordonnées passagers reste le point à tester par un exercice."
    },
    {
     "ids": [
@@ -53,7 +54,7 @@
     "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T11:42:00Z"
+  "prochaineCollecte": "2026-10-28T12:42:00Z"
  },
  "items": [
   {
@@ -515,6 +516,25 @@
    "url": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/",
    "zone": "monde",
    "id": "ebola-usa-declaration"
+  },
+  {
+   "ajoute": "2026-10-28T11:45:02Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "aéroports secondaires",
+    "contrôle sanitaire"
+   ],
+   "priorite": "veille",
+   "resume": "Au Nigeria, l'État de Zamfara a déployé une équipe de riposte Ebola à l'aéroport international de Gusau, avec dépistage des passagers aériens et contrôles dans les gares routières. Le déclencheur a été l'arrivée d'un passager fiévreux venu d'Arabie saoudite via EgyptAir. L'article ne dit pas si ce passager a été testé positif. D'autres États nigérians, comme l'Adamawa et le Taraba, annoncent des mesures comparables.",
+   "secteur": "medecine",
+   "sodexam": "Le contrôle sanitaire s'étend aux aéroports secondaires chez le voisin nigérian. À vérifier : ce qui est prévu à Bouaké, Korhogo, San Pedro et Yamoussoukro, pas seulement à FHB.",
+   "source": "Premium Times / allAfrica",
+   "titre": "Ebola : l'État de Zamfara organise le dépistage des voyageurs à l'aéroport de Gusau",
+   "url": "https://allafrica.com/stories/202610280127.html",
+   "zone": "afrique",
+   "id": "ebola-zamfara-depistage-aeroport-gusau"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
