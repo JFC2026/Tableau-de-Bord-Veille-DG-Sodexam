@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-27T23:56:36Z",
+ "exporte": "2026-10-28T00:56:15Z",
  "briefing": {
-  "date": "2026-10-27",
-  "derniereCollecte": "2026-10-27T23:43:52Z",
-  "genereLe": "2026-10-27T20:43:40Z",
+  "date": "2026-10-28",
+  "derniereCollecte": "2026-10-28T00:43:39Z",
+  "genereLe": "2026-10-28T00:43:39Z",
   "points": [
    {
     "ids": [
@@ -14,7 +14,16 @@
      "ebola-ci-vigilance",
      "ebola-rdc-10000-cas"
     ],
-    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, et plus de 10 000 cas confirmés en RDC selon AP le 27 octobre. À partir du 3 novembre, les États-Unis refusent l'embarquement à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur paraît nécessaire cette semaine, en intégrant les transits par l'Ouganda et le Kenya."
+    "texte": "Ebola se rapproche. Cas importé au Nigeria, neuf cas et deux décès au Kenya, enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, plus de 10 000 cas confirmés en RDC selon AP le 27 octobre. Les États-Unis refuseront l'embarquement, dès le 3 novembre, à tout voyageur passé en RDC dans les 21 jours. Un point avec l'INHP et AERIA sur le dispositif de FHB et des aéroports de l'intérieur reste à tenir cette semaine, transits par l'Ouganda et le Kenya compris."
+   },
+   {
+    "ids": [
+     "ebola-africa-cdc-reunion-ministres",
+     "ebola-ecdc-equipe-nigeria",
+     "ebola-nigeria-evacuation-patiente",
+     "ebola-nigeria-patiente-suisse-53-contacts"
+    ],
+    "texte": "La réunion extraordinaire des ministres africains de la Santé convoquée par Africa CDC se tient le 28 octobre. Si des recommandations sur les voyages en sortent, elles seront à décliner à FHB dès le 29. L'ECDC, présente au Nigeria depuis le 27 octobre, juge le risque faible pour les voyageurs. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -26,24 +35,14 @@
      "ouganda-quarantaine-21-jours",
      "ebola-ooas-appel-vigilance"
     ],
-    "texte": "Les pays de la région durcissent leurs contrôles. Le Nigeria a mis 46 contacts sur une liste d'interdiction de vol de 21 jours, le Ghana filtre aux aéroports, le Bénin a installé des caméras thermiques à Cotonou. Un expert ghanéen rappelait le 27 octobre que la caméra thermique laisse passer les voyageurs encore sans symptômes : ce qui compte, ce sont des coordonnées passagers fiables pour le suivi. À vérifier à FHB, avec un exercice."
-   },
-   {
-    "ids": [
-     "ebola-africa-cdc-reunion-ministres",
-     "ebola-ecdc-equipe-nigeria",
-     "ebola-nigeria-evacuation-patiente",
-     "ebola-nigeria-patiente-suisse-53-contacts",
-     "ebola-rdc-essai-vaccinal-bunia"
-    ],
-    "texte": "Africa CDC réunit les ministres africains de la Santé le 28 octobre ; des recommandations sur les voyages peuvent en sortir et il faudra les suivre dès le 29. L'ECDC a envoyé une équipe au Nigeria le 27 octobre et juge le risque faible pour les voyageurs ; son travail de juin sur le contrôle au départ des aéroports de RDC et d'Ouganda peut servir de référence pour FHB. L'évacuation de la patiente du Nigeria vers la Suisse le 26 octobre pose la question de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les voisins durcissent leurs contrôles : liste d'interdiction de vol de 21 jours pour 46 contacts au Nigeria, filtrage au Ghana, caméras thermiques à Cotonou. Un expert ghanéen rappelait le 27 octobre que la caméra thermique ne voit pas les voyageurs encore sans symptômes. Le vrai sujet pour FHB est la fiabilité des coordonnées passagers pour le suivi, à tester par un exercice."
    },
    {
     "ids": [
      "sodexam-saison-deficitaire",
      "omm-el-nino-record"
     ],
-    "texte": "El Niño pourrait être le plus fort jamais mesuré selon l'OMM. La prévision saisonnière de la SODEXAM, qui annonce une petite saison des pluies déficitaire, est reprise par la presse. Il faudra pouvoir en rendre compte en janvier."
+    "texte": "L'OMM évoque un El Niño qui pourrait être le plus fort jamais mesuré. La prévision de la SODEXAM d'une petite saison des pluies déficitaire, reprise par la presse, devra être évaluée en janvier."
    },
    {
     "ids": [
@@ -51,10 +50,10 @@
      "air-cote-divoire-avions-immobilises",
      "af-hf-codeshare"
     ],
-    "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc. La SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Côté trafic, Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision avec des oiseaux à Bamako : à relier au péril animalier sur nos plateformes."
+    "texte": "L'ANAC vise une première production nationale de carburant d'aviation durable vers 2028-2029, à partir du manioc ; la SODEXAM gagnerait à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako : à relier au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-28T00:42:00Z"
+  "prochaineCollecte": "2026-10-28T01:42:00Z"
  },
  "items": [
   {
