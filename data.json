@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-29T07:56:37Z",
+ "exporte": "2026-10-29T08:56:04Z",
  "briefing": {
   "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T07:44:11Z",
-  "genereLe": "2026-10-29T05:43:53Z",
+  "derniereCollecte": "2026-10-29T08:44:10Z",
+  "genereLe": "2026-10-29T08:44:10Z",
   "points": [
    {
     "ids": [
@@ -27,6 +27,7 @@
    },
    {
     "ids": [
+     "nigeria-45-milliards-biosurveillance-aeroports",
      "ebola-ghana-kotoka-declaration-electronique",
      "ebola-nigeria-interdiction-vol-46-contacts",
      "ebola-ghana-filtrage-aeroports",
@@ -36,7 +37,7 @@
      "ebola-iata-a4a-contestent-attestation-cdc",
      "ebola-nigeria-evacuation-patiente"
     ],
-    "texte": "Les pays voisins durcissent leurs contrôles : déclaration sanitaire électronique à Kotoka depuis le 28 octobre, déclaration étendue au Nigeria. L'attestation américaine entre en vigueur le 3 novembre malgré l'opposition de l'IATA et d'Airlines for America, ce qui touchera nos passagers en correspondance. Il faut savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les pays voisins durcissent leurs contrôles. Le Nigeria a approuvé le 28 octobre 45,08 milliards de nairas pour la biosurveillance de cinq aéroports, en concession de 20 ans. Kotoka exige une déclaration électronique depuis le 28 octobre et l'attestation américaine entre en vigueur le 3 novembre. Il faut savoir ce que l'INHP prévoit à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -55,7 +56,7 @@
     "texte": "L'ANAC vise une production nationale de carburant d'aviation durable à base de manioc vers 2028-2029 ; la SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako, ce qui renvoie au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-29T08:42:00Z"
+  "prochaineCollecte": "2026-10-29T09:42:00Z"
  },
  "items": [
   {
@@ -707,6 +708,26 @@
    "url": "https://fr.apanews.net/society/nigeria-32-morts-dans-le-crash-dun-avion-militaire/",
    "zone": "afrique",
    "id": "naf-atr-crash"
+  },
+  {
+   "ajoute": "2026-10-29T08:43:58Z",
+   "date": "2026-10-29",
+   "motscles": [
+    "Ebola",
+    "biosurveillance",
+    "PPP",
+    "points d'entrée",
+    "Nigeria"
+   ],
+   "priorite": "haute",
+   "resume": "Le Conseil exécutif fédéral du Nigeria a approuvé un projet de 45,08 milliards de nairas pour équiper ses points d'entrée de systèmes de biosécurité et de surveillance des maladies. Le dispositif prévoit l'analyse des eaux usées des avions, des prélèvements d'air et de surfaces, le contrôle du fret et des bagages, des laboratoires de diagnostic rapide et un centre national de surveillance. Il concerne Lagos, Abuja, Kano, Port Harcourt et Enugu. Le projet prend la forme d'une concession de 20 ans attribuée au consortium BioHealth.",
+   "secteur": "medecine",
+   "sodexam": "C'est un modèle de financement en partenariat public-privé pour la santé aux frontières aériennes, à regarder dans nos discussions avec AERIA et l'INHP sur FHB. Pour les aéroports de l'intérieur, il faut au minimum savoir quel dispositif sanitaire existe aujourd'hui.",
+   "source": "The Will",
+   "titre": "Nigeria : 45 milliards de nairas pour la biosurveillance de cinq aéroports",
+   "url": "https://thewillnews.com/fg-approves-%E2%82%A645bn-to-strengthen-airport-defences-against-ebola-other-pathogens/",
+   "zone": "afrique",
+   "id": "nigeria-45-milliards-biosurveillance-aeroports"
   },
   {
    "ajoute": "2026-10-28T12:55:07Z",
