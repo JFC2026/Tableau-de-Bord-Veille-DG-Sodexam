@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-29T04:55:59Z",
+ "exporte": "2026-10-29T05:56:16Z",
  "briefing": {
   "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T04:43:41Z",
-  "genereLe": "2026-10-29T01:43:42Z",
+  "derniereCollecte": "2026-10-29T05:43:53Z",
+  "genereLe": "2026-10-29T05:43:53Z",
   "points": [
    {
     "ids": [
@@ -33,9 +33,10 @@
      "ebola-ghana-expert-limites-controle-temperature",
      "ebola-benin-cameroun-alerte-aeroports",
      "ebola-usa-declaration",
+     "ebola-iata-a4a-contestent-attestation-cdc",
      "ebola-nigeria-evacuation-patiente"
     ],
-    "texte": "Les pays voisins durcissent leurs contrôles : déclaration sanitaire électronique à Kotoka depuis le 28 octobre, déclaration étendue au Nigeria, États-Unis à partir du 3 novembre. Il faut savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les pays voisins durcissent leurs contrôles : déclaration sanitaire électronique à Kotoka depuis le 28 octobre, déclaration étendue au Nigeria. L'attestation américaine entre en vigueur le 3 novembre malgré l'opposition de l'IATA et d'Airlines for America, ce qui touchera nos passagers en correspondance. Il faut savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -54,7 +55,7 @@
     "texte": "L'ANAC vise une production nationale de carburant d'aviation durable à base de manioc vers 2028-2029 ; la SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako, ce qui renvoie au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-29T05:42:00Z"
+  "prochaineCollecte": "2026-10-29T06:42:00Z"
  },
  "items": [
   {
@@ -324,6 +325,26 @@
    "url": "https://www.ghanamma.com/2026/10/28/ghana-ready-to-respond-to-possible-ebola-outbreak-akandoh/",
    "zone": "afrique",
    "id": "ebola-ghana-kotoka-declaration-electronique"
+  },
+  {
+   "ajoute": "2026-10-29T05:43:41Z",
+   "date": "2026-10-29",
+   "motscles": [
+    "Ebola",
+    "CDC",
+    "IATA",
+    "attestation",
+    "États-Unis"
+   ],
+   "priorite": "veille",
+   "resume": "L'IATA et Airlines for America demandent au CDC de revoir l'attestation qui sera exigée à partir du 3 novembre 2026 de tous les passagers et équipages à destination des États-Unis, déclarant ne pas avoir séjourné en RDC dans les 21 jours précédents. A4A juge la mesure trop lourde et demande des exemptions pour les équipages, les militaires et les passagers en strapontin. Selon les compagnies, moins de 25 000 des quelque 130 millions de passagers aériens contrôlés en 2025 avaient un lien avec la RDC. Cet article complète l'annonce du CDC déjà suivie.",
+   "secteur": "aeronautique",
+   "sodexam": "Impact indirect : les passagers au départ d'Abidjan en correspondance vers les États-Unis seront concernés dès le 3 novembre. Il faut voir avec AERIA et les compagnies si une information passagers est prévue à FHB.",
+   "source": "Reuters / Yahoo",
+   "titre": "Ebola : l'IATA et Airlines for America contestent l'attestation exigée par le CDC",
+   "url": "https://www.yahoo.com/news/us/articles/airline-groups-urge-us-cdc-015328258.html",
+   "zone": "monde",
+   "id": "ebola-iata-a4a-contestent-attestation-cdc"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
