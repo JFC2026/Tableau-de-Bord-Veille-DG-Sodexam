@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-29T09:55:49Z",
+ "exporte": "2026-10-29T10:56:33Z",
  "briefing": {
   "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T09:43:41Z",
-  "genereLe": "2026-10-29T08:44:10Z",
+  "derniereCollecte": "2026-10-29T10:44:11Z",
+  "genereLe": "2026-10-29T10:44:11Z",
   "points": [
    {
     "ids": [
@@ -11,11 +11,12 @@
      "ebola-entebbe-enquete",
      "ebola-ouganda-entebbe-formulaire-localisation",
      "ebola-kenya-deuxieme-deces",
+     "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-ci-vigilance",
      "ebola-rdc-10000-cas",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Un cas importé au Nigeria, neuf cas et deux décès au Kenya, plus de 10 000 cas confirmés en RDC. Africa CDC enquête sur un transit commun à Entebbe, où l'Ouganda impose depuis le 28 octobre un formulaire de localisation à tous les arrivants. Uganda Airlines dessert Lagos et Accra depuis le 27 octobre. Le point avec l'INHP et AERIA doit couvrir les provenances d'Entebbe et de Nairobi."
+    "texte": "Ebola reste le premier sujet. Un cas importé au Nigeria, neuf cas et deux décès au Kenya, plus de 10 000 cas confirmés en RDC. Africa CDC enquête sur un transit commun à Entebbe, où l'Ouganda impose depuis le 28 octobre un formulaire de localisation. Au Kenya, équipages et agents d'aéroport ont été tracés comme contacts. Le point avec l'INHP et AERIA doit couvrir les provenances d'Entebbe et de Nairobi et la liste des personnels exposés à FHB."
    },
    {
     "ids": [
@@ -56,7 +57,7 @@
     "texte": "L'ANAC vise une production nationale de carburant d'aviation durable à base de manioc vers 2028-2029 ; la SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako, ce qui renvoie au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-29T10:42:00Z"
+  "prochaineCollecte": "2026-10-29T11:42:00Z"
  },
  "items": [
   {
@@ -346,6 +347,25 @@
    "url": "https://www.yahoo.com/news/us/articles/airline-groups-urge-us-cdc-015328258.html",
    "zone": "monde",
    "id": "ebola-iata-a4a-contestent-attestation-cdc"
+  },
+  {
+   "ajoute": "2026-10-29T10:44:00Z",
+   "date": "2026-10-27",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "traçage",
+    "personnel aéroportuaire"
+   ],
+   "priorite": "veille",
+   "resume": "Le Kenya a libéré le 26 octobre 20 contacts de son premier cas, après 21 jours de suivi ; 98 restent en quarantaine. Le patient était rentré de RDC par l'Ouganda le 3 octobre. Le traçage a couvert les passagers, les équipages et les agents d'aéroport, tous retrouvés au 22 octobre. Le pays compte neuf cas confirmés et deux décès, sans transmission communautaire établie.",
+   "secteur": "medecine",
+   "sodexam": "Le cas kényan montre que les agents d'aéroport entrent dans le périmètre des contacts. À vérifier avec l'INHP et AERIA : la liste nominative des personnels exposés en zone arrivée à FHB et la procédure pour les retrouver vite.",
+   "source": "ONU Info",
+   "titre": "Ebola : le Kenya lève la quarantaine de 20 contacts, équipages et agents aéroportuaires tracés",
+   "url": "https://news.un.org/en/story/2026/10/1168676",
+   "zone": "afrique",
+   "id": "ebola-kenya-20-contacts-leves-equipages-traces"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
