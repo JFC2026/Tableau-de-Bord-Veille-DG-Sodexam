@@ -1,21 +1,21 @@
 {
- "exporte": "2026-10-29T00:56:36Z",
+ "exporte": "2026-10-29T01:56:24Z",
  "briefing": {
   "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T00:43:49Z",
-  "genereLe": "2026-10-29T00:43:49Z",
+  "derniereCollecte": "2026-10-29T01:43:42Z",
+  "genereLe": "2026-10-29T01:43:42Z",
   "points": [
    {
     "ids": [
      "ebola-nigeria-declaration",
      "ebola-entebbe-enquete",
+     "ebola-ouganda-entebbe-formulaire-localisation",
      "ebola-kenya-deuxieme-deces",
-     "ebola-usa-declaration",
      "ebola-ci-vigilance",
      "ebola-rdc-10000-cas",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Un cas importé au Nigeria, neuf cas et deux décès au Kenya, une enquête d'Africa CDC sur un transit commun à Entebbe le 3 octobre, plus de 10 000 cas confirmés en RDC. Uganda Airlines dessert Lagos et Accra depuis le 27 octobre. Le point avec l'INHP et AERIA sur FHB et les aéroports de l'intérieur doit couvrir les provenances d'Entebbe et de Nairobi."
+    "texte": "Ebola reste le premier sujet. Un cas importé au Nigeria, neuf cas et deux décès au Kenya, plus de 10 000 cas confirmés en RDC. Africa CDC enquête sur un transit commun à Entebbe, où l'Ouganda impose depuis le 28 octobre un formulaire de localisation à tous les arrivants. Uganda Airlines dessert Lagos et Accra depuis le 27 octobre. Le point avec l'INHP et AERIA doit couvrir les provenances d'Entebbe et de Nairobi."
    },
    {
     "ids": [
@@ -32,11 +32,10 @@
      "ebola-ghana-filtrage-aeroports",
      "ebola-ghana-expert-limites-controle-temperature",
      "ebola-benin-cameroun-alerte-aeroports",
-     "ebola-lagos-surveillance-aeroport",
-     "ebola-nigeria-evacuation-patiente",
-     "ebola-zamfara-depistage-aeroport-gusau"
+     "ebola-usa-declaration",
+     "ebola-nigeria-evacuation-patiente"
     ],
-    "texte": "Les pays voisins durcissent leurs contrôles : déclaration sanitaire électronique obligatoire à Kotoka depuis le 28 octobre, déclaration étendue au Nigeria, États-Unis à partir du 3 novembre. Il faut savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Les pays voisins durcissent leurs contrôles : déclaration sanitaire électronique à Kotoka depuis le 28 octobre, déclaration étendue au Nigeria, États-Unis à partir du 3 novembre. Il faut savoir si l'INHP prévoit un formulaire équivalent à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -55,7 +54,7 @@
     "texte": "L'ANAC vise une production nationale de carburant d'aviation durable à base de manioc vers 2028-2029 ; la SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako, ce qui renvoie au péril animalier sur nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-10-29T01:42:00Z"
+  "prochaineCollecte": "2026-10-29T02:42:00Z"
  },
  "items": [
   {
@@ -481,6 +480,25 @@
    "url": "https://icilome.com/2026/10/ebola-looas-appelle-les-populations-ouest-africaines-a-la-vigilance/",
    "zone": "afrique",
    "id": "ebola-ooas-appel-vigilance"
+  },
+  {
+   "ajoute": "2026-10-29T01:43:28Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Ebola",
+    "Entebbe",
+    "formulaire de localisation",
+    "points d'entrée"
+   ],
+   "priorite": "haute",
+   "resume": "Selon l'alerte sanitaire de l'ambassade américaine du 28 octobre 2026, les autorités ougandaises ont renforcé le contrôle sanitaire à l'aéroport d'Entebbe et à tous les postes frontières terrestres. Chaque voyageur entrant doit remplir un formulaire de localisation et passer un contrôle sanitaire. La frontière avec la RDC reste fermée, sauf exceptions humanitaires et fret. L'alerte ne signale aucun cas confirmé en Ouganda ; les mesures font suite aux cas détectés chez des voyageurs passés par le pays.",
+   "secteur": "medecine",
+   "sodexam": "Entebbe est le point de transit commun relevé dans l'enquête d'Africa CDC. Le formulaire de localisation ougandais peut servir de modèle pour l'échange avec l'INHP sur la traçabilité des passagers à FHB et dans nos aéroports de l'intérieur.",
+   "source": "Ambassade des États-Unis à Kampala",
+   "titre": "Ebola : l'Ouganda impose un formulaire de localisation et un contrôle sanitaire à Entebbe",
+   "url": "https://ug.usembassy.gov/health-alert-u-s-embassy-kampala-uganda-october-28-2026/",
+   "zone": "afrique",
+   "id": "ebola-ouganda-entebbe-formulaire-localisation"
   },
   {
    "ajoute": "2026-10-27T10:44:37Z",
