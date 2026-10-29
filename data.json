@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-29T17:56:20Z",
+ "exporte": "2026-10-29T18:57:25Z",
  "briefing": {
   "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T17:44:05Z",
-  "genereLe": "2026-10-29T10:44:11Z",
+  "derniereCollecte": "2026-10-29T18:43:25Z",
+  "genereLe": "2026-10-29T18:43:25Z",
   "points": [
    {
     "ids": [
@@ -50,14 +50,14 @@
    },
    {
     "ids": [
+     "fhb-sanctions-mendicite-agents",
      "ci-saf-manioc-2029",
-     "air-cote-divoire-avions-immobilises",
-     "af-hf-codeshare"
+     "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "L'ANAC vise une production nationale de carburant d'aviation durable à base de manioc vers 2028-2029 ; la SODEXAM a intérêt à entrer tôt dans la gouvernance du projet, en lien avec le PSED. Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako, ce qui renvoie au péril animalier sur nos plateformes."
+    "texte": "À FHB, les autorités ont annoncé le 28 octobre des sanctions contre la mendicité de certains agents auprès des voyageurs. L'image de l'aéroport concédé est en jeu : à suivre avec AERIA dans les indicateurs de qualité de service. Côté filière, l'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029, et Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako."
    }
   ],
-  "prochaineCollecte": "2026-10-29T18:42:00Z"
+  "prochaineCollecte": "2026-10-29T19:42:00Z"
  },
  "items": [
   {
@@ -710,6 +710,26 @@
    "url": "https://www.koaci.com/article/2026/10/23/cote-divoire/societe/cote-divoire-aeroport-dabidjan-une-nouvelle-guerite-pour-la-douane-a-usage-de-poste-de-controle-des-flux-de-marchandises_201929.html",
    "zone": "ci",
    "id": "fhb-guerite-douane"
+  },
+  {
+   "ajoute": "2026-10-29T18:43:06Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "FHB",
+    "qualité de service",
+    "AERIA",
+    "image",
+    "personnels"
+   ],
+   "priorite": "veille",
+   "resume": "Les autorités ont annoncé des sanctions contre la mendicité à l'aéroport Félix-Houphouët-Boigny d'Abidjan. Des messages de mise en garde passent désormais au micro, entre les annonces d'embarquement. Selon KOACI, des voyageurs se plaignent de demandes d'argent, parfois venant d'agents chargés de les accueillir. L'article, au ton de commentaire, ne donne aucun chiffre et doute de l'effet de l'annonce sans sanctions appliquées.",
+   "secteur": "aeroportuaire",
+   "sodexam": "C'est l'image de l'aéroport concédé qui est en cause. À voir avec AERIA : qui sanctionne, sur quels personnels, et si le sujet est suivi dans les indicateurs de qualité de service de la concession.",
+   "source": "KOACI",
+   "titre": "FHB : les autorités annoncent des sanctions contre la mendicité des agents",
+   "url": "https://www.koaci.com/article/2026/10/28/cote-divoire/societe/cote-divoire-a-laeroport-dabidjan-le-micro-monte-au-creneau-contre-la-mendicite-des-agents_202064.html",
+   "zone": "ci",
+   "id": "fhb-sanctions-mendicite-agents"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
