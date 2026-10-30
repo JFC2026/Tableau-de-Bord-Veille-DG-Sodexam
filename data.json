@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-30T16:56:30Z",
+ "exporte": "2026-10-30T17:56:19Z",
  "briefing": {
   "date": "2026-10-30",
-  "derniereCollecte": "2026-10-30T16:43:58Z",
-  "genereLe": "2026-10-30T13:43:24Z",
+  "derniereCollecte": "2026-10-30T17:43:13Z",
+  "genereLe": "2026-10-30T17:43:13Z",
   "points": [
    {
     "ids": [
@@ -16,7 +16,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le sujet numéro un. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC, qui compte 10 141 cas et 4 928 décès, et les deux patients index sont passés par Entebbe le 3 octobre. Le risque vient donc des hubs de transit : avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
+    "texte": "Ebola reste le sujet numéro un. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC, qui comptait 10 193 cas et 4 960 décès au 27 octobre, et les deux patients index sont passés par Entebbe le 3 octobre. Le risque vient donc des hubs de transit : avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
    },
    {
     "ids": [
@@ -32,22 +32,21 @@
    },
    {
     "ids": [
+     "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-reunion-ministres-points-entree",
-     "ebola-africa-cdc-reunion-ministres",
-     "ebola-oms-don622-pas-restriction-voyages"
+     "ebola-oms-don622-pas-restriction-voyages",
+     "ebola-usa-declaration",
+     "ebola-iata-a4a-contestent-attestation-cdc"
     ],
-    "texte": "Réunis le 28 octobre, les ministres africains de la Santé n'ont retenu aucune restriction de voyage. Ils veulent une surveillance renforcée aux points d'entrée et une meilleure protection des agents en première ligne. C'est la ligne à suivre sur nos plateformes, dans le cadre du RSI."
+    "texte": "Les ministres africains de la Santé n'ont retenu le 28 octobre aucune restriction de voyage, en ligne avec l'OMS. Mais le Rwanda, l'Arabie saoudite, le Canada et plusieurs pays du Golfe ferment déjà l'entrée aux provenances récentes d'Afrique de l'Est, et l'attestation américaine s'applique dès le 3 novembre. L'information des passagers au départ de FHB doit suivre ces règles pour éviter des refus d'embarquement."
    },
    {
     "ids": [
-     "ebola-usa-declaration",
-     "ebola-iata-a4a-contestent-attestation-cdc",
-     "ebola-nigeria-evacuation-patiente",
      "sodexam-saison-deficitaire",
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "L'attestation exigée par les États-Unis s'applique du 3 novembre au 18 décembre malgré les réserves de l'IATA. Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025 ; notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier et ces éléments servent nos messages avant la COP31 du 9 novembre."
+    "texte": "Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier, et ces éléments servent nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -59,7 +58,7 @@
     "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, un point de comparaison pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-30T17:42:00Z"
+  "prochaineCollecte": "2026-10-30T18:42:00Z"
  },
  "items": [
   {
@@ -641,6 +640,26 @@
    "url": "https://www.natureworldnews.com/articles/73649/20261026/bundibugyo-ebola-cases-near-10000-congo-starts-first-vaccine-trial-us-adds-travel-attestation.htm",
    "zone": "afrique",
    "id": "ebola-rdc-essai-vaccinal-bunia"
+  },
+  {
+   "ajoute": "2026-10-30T17:42:59Z",
+   "date": "2026-10-30",
+   "motscles": [
+    "Ebola",
+    "restrictions de voyage",
+    "Arabie saoudite",
+    "Rwanda",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "Selon l'ECDC, la RDC comptait 10 193 cas confirmés et 4 960 décès au 27 octobre, le Kenya 9 cas et 2 décès. Le Rwanda refuse désormais l'entrée aux voyageurs passés par la RDC dans les 30 derniers jours, et l'Arabie saoudite suspend visas et entrées pour les provenances de RDC, d'Ouganda et du Soudan du Sud, y compris via un pays tiers. Le Canada, plusieurs pays du Golfe, l'Inde, la Thaïlande et les Philippines ont aussi pris des mesures, alors que l'OMS déconseille toujours les restrictions générales.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect : les passagers au départ d'Abidjan avec un passage récent en Afrique de l'Est risquent des refus d'embarquement ou d'entrée en correspondance. Il faut que l'information passagers à FHB, avec AERIA et les compagnies, reflète ces règles, surtout vers le Golfe.",
+   "source": "TravelMole",
+   "titre": "Ebola : Rwanda, Arabie saoudite et d'autres pays durcissent l'entrée des voyageurs",
+   "url": "https://travelmole.com/news/ebola-outbreak-triggers-further-travel-restrictions-across-africa-and-worldwide",
+   "zone": "monde",
+   "id": "ebola-restrictions-entree-rwanda-arabie-saoudite"
   },
   {
    "ajoute": "2026-10-28T23:43:31Z",
