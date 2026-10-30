@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-29T23:55:44Z",
+ "exporte": "2026-10-30T00:55:57Z",
  "briefing": {
-  "date": "2026-10-29",
-  "derniereCollecte": "2026-10-29T23:43:29Z",
-  "genereLe": "2026-10-29T18:43:25Z",
+  "date": "2026-10-30",
+  "derniereCollecte": "2026-10-30T00:44:09Z",
+  "genereLe": "2026-10-30T00:44:09Z",
   "points": [
    {
     "ids": [
@@ -16,7 +16,7 @@
      "ebola-rdc-10000-cas",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Un cas importé au Nigeria, neuf cas et deux décès au Kenya, plus de 10 000 cas confirmés en RDC. Africa CDC enquête sur un transit commun à Entebbe, où l'Ouganda impose depuis le 28 octobre un formulaire de localisation. Au Kenya, équipages et agents d'aéroport ont été tracés comme contacts. Le point avec l'INHP et AERIA doit couvrir les provenances d'Entebbe et de Nairobi et la liste des personnels exposés à FHB."
+    "texte": "Ebola reste le sujet numéro un. Le Nigeria a un cas importé, le Kenya neuf cas et deux décès, la RDC a passé les 10 000 cas confirmés. Africa CDC regarde de près le transit par Entebbe, où l'Ouganda exige un formulaire de localisation depuis le 28 octobre, et au Kenya des équipages et agents d'aéroport ont été suivis comme contacts. Avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi et sur les personnels exposés à FHB."
    },
    {
     "ids": [
@@ -24,7 +24,7 @@
      "ebola-africa-cdc-reunion-ministres",
      "ebola-oms-don622-pas-restriction-voyages"
     ],
-    "texte": "Les ministres africains de la Santé, réunis le 28 octobre, n'ont décidé aucune restriction de voyage. Ils demandent une surveillance renforcée aux points d'entrée et une meilleure protection des agents de première ligne. C'est la ligne à tenir sur nos plateformes, dans le cadre du RSI."
+    "texte": "Réunis le 28 octobre, les ministres africains de la Santé n'ont retenu aucune restriction de voyage. Ils veulent une surveillance renforcée aux points d'entrée et une meilleure protection des agents en première ligne. C'est la ligne à suivre sur nos plateformes, dans le cadre du RSI."
    },
    {
     "ids": [
@@ -38,7 +38,7 @@
      "ebola-iata-a4a-contestent-attestation-cdc",
      "ebola-nigeria-evacuation-patiente"
     ],
-    "texte": "Les pays voisins durcissent leurs contrôles. Le Nigeria a approuvé le 28 octobre 45,08 milliards de nairas pour la biosurveillance de cinq aéroports, en concession de 20 ans. Kotoka exige une déclaration électronique depuis le 28 octobre et l'attestation américaine entre en vigueur le 3 novembre. Il faut savoir ce que l'INHP prévoit à FHB et dans nos aéroports de l'intérieur, et vérifier la place de l'évacuation sanitaire dans nos plans d'urgence."
+    "texte": "Autour de nous, les contrôles se durcissent. Le Nigeria a voté le 28 octobre 45,08 milliards de nairas pour la biosurveillance de cinq aéroports, Kotoka impose une déclaration électronique et l'attestation exigée par les États-Unis s'applique dès le 3 novembre malgré les réserves de l'IATA. Reste à savoir ce que l'INHP prévoit à FHB et dans nos aéroports de l'intérieur, et comment l'évacuation sanitaire figure dans nos plans d'urgence."
    },
    {
     "ids": [
@@ -46,7 +46,7 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "L'OMM annonce un El Niño qui pourrait être le plus fort jamais mesuré et un CO2 record de 426,8 ppm en 2025. La prévision SODEXAM d'une petite saison des pluies déficitaire sera à évaluer en janvier. Ces éléments peuvent nourrir nos messages avant la COP31 du 9 novembre."
+    "texte": "L'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025. Notre prévision d'une petite saison des pluies déficitaire devra être évaluée en janvier. Ces éléments servent nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -54,10 +54,10 @@
      "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "À FHB, les autorités ont annoncé le 28 octobre des sanctions contre la mendicité de certains agents auprès des voyageurs. L'image de l'aéroport concédé est en jeu : à suivre avec AERIA dans les indicateurs de qualité de service. Côté filière, l'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029, et Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre, dont un après une collision aviaire à Bamako."
+    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; l'image de l'aéroport concédé est en cause et le sujet doit entrer dans le suivi qualité avec AERIA. Côté filière, l'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029, et Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre."
    }
   ],
-  "prochaineCollecte": "2026-10-30T00:42:00Z"
+  "prochaineCollecte": "2026-10-30T01:42:00Z"
  },
  "items": [
   {
