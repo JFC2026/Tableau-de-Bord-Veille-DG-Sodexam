@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-30T08:56:39Z",
+ "exporte": "2026-10-30T09:55:59Z",
  "briefing": {
   "date": "2026-10-30",
-  "derniereCollecte": "2026-10-30T08:43:39Z",
-  "genereLe": "2026-10-30T00:44:09Z",
+  "derniereCollecte": "2026-10-30T09:43:57Z",
+  "genereLe": "2026-10-30T09:43:57Z",
   "points": [
    {
     "ids": [
@@ -51,13 +51,14 @@
    {
     "ids": [
      "fhb-sanctions-mendicite-agents",
+     "conakry-aeroport-croissance-nouveau-terminal",
      "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; l'image de l'aéroport concédé est en cause et le sujet doit entrer dans le suivi qualité avec AERIA. Côté filière, l'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029, et Air Côte d'Ivoire a immobilisé plusieurs avions le 26 octobre."
+    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Dans la région, Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers avec un partenaire turc, un point de comparaison pour Yamoussoukro. L'ANAC vise par ailleurs un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-30T09:42:00Z"
+  "prochaineCollecte": "2026-10-30T10:42:00Z"
  },
  "items": [
   {
@@ -172,6 +173,26 @@
    "url": "https://www.pulse.ci/article/des-avions-qui-volent-au-manioc-la-cote-divoire-veut-y-croire-des-2029-2026102313424566236",
    "zone": "ci",
    "id": "ci-saf-manioc-2029"
+  },
+  {
+   "ajoute": "2026-10-30T09:43:43Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Conakry",
+    "terminal",
+    "trafic",
+    "Albayrak",
+    "benchmark"
+   ],
+   "priorite": "veille",
+   "resume": "L'aéroport de Conakry a accueilli 545 330 passagers au premier semestre 2026, soit 22,2 % de plus qu'un an plus tôt, et devrait franchir le million sur l'année. Le terminal actuel est conçu pour environ 500 000 passagers par an ; un nouveau terminal de 32 000 m² porterait la capacité à 3 millions, avec une nouvelle tour de contrôle et des voies de circulation supplémentaires. La deuxième phase relève d'un protocole signé en décembre 2025 avec le turc Albayrak. Air Algérie prévoit trois vols par semaine depuis Alger et EgyptAir discute d'une ligne pour l'été 2027.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Impact indirect : Conakry renforce sa position régionale face à FHB. Le montage avec un partenaire privé turc est un point de comparaison utile pour le dossier de Yamoussoukro.",
+   "source": "ATTA / Aviation Week",
+   "titre": "Conakry dépasse les prévisions de trafic et prépare un terminal de 3 millions de passagers",
+   "url": "https://atta.travel/resource/conakry-airport-eyes-air-algerie-and-egyptair-routes-as-passenger-numbers-surge-22.html",
+   "zone": "afrique",
+   "id": "conakry-aeroport-croissance-nouveau-terminal"
   },
   {
    "ajoute": "2026-10-27T07:43:56Z",
