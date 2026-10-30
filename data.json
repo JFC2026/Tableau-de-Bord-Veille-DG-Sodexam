@@ -1,22 +1,22 @@
 {
- "exporte": "2026-10-30T12:56:36Z",
+ "exporte": "2026-10-30T13:56:14Z",
  "briefing": {
   "date": "2026-10-30",
-  "derniereCollecte": "2026-10-30T12:43:31Z",
-  "genereLe": "2026-10-30T10:43:56Z",
+  "derniereCollecte": "2026-10-30T13:43:24Z",
+  "genereLe": "2026-10-30T13:43:24Z",
   "points": [
    {
     "ids": [
-     "ebola-nigeria-declaration",
+     "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete",
+     "ebola-nigeria-declaration",
      "ebola-ouganda-entebbe-formulaire-localisation",
      "ebola-kenya-deuxieme-deces",
      "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-ci-vigilance",
-     "ebola-rdc-10000-cas",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le sujet numéro un. Le Nigeria a un cas importé, le Kenya neuf cas et deux décès, la RDC a passé les 10 000 cas confirmés. Africa CDC regarde de près le transit par Entebbe, où l'Ouganda exige un formulaire de localisation depuis le 28 octobre, et au Kenya des équipages et agents d'aéroport ont été suivis comme contacts. Avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi et sur les personnels exposés à FHB."
+    "texte": "Ebola reste le sujet numéro un. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC, qui compte 10 141 cas et 4 928 décès, et les deux patients index sont passés par Entebbe le 3 octobre. Le risque vient donc des hubs de transit : avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
    },
    {
     "ids": [
@@ -28,7 +28,7 @@
      "ebola-ghana-expert-limites-controle-temperature",
      "ebola-nigeria-interdiction-vol-46-contacts"
     ],
-    "texte": "Tout le golfe de Guinée relève ses contrôles. Le Togo a annoncé le 27 octobre un dépistage thermique systématique à l'aéroport et au port de Lomé, après le Ghana, le Bénin et le Nigeria, qui a voté le 28 octobre 45,08 milliards de nairas pour cinq aéroports. Lomé et Accra étant des correspondances fréquentes vers Abidjan, il faut vérifier avec l'INHP que le dispositif de FHB et des aéroports de l'intérieur est au même niveau, sans se limiter à la température."
+    "texte": "Tout le golfe de Guinée relève ses contrôles. Le Togo a annoncé le 27 octobre un dépistage thermique systématique à Lomé, après le Ghana, le Bénin et le Nigeria, qui a voté le 28 octobre 45,08 milliards de nairas pour cinq aéroports. Lomé et Accra étant des correspondances fréquentes vers Abidjan, il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur sont au même niveau, sans se limiter à la température."
    },
    {
     "ids": [
@@ -47,7 +47,7 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "L'attestation exigée par les États-Unis s'applique dès le 3 novembre malgré les réserves de l'IATA. Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025 ; notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier et ces éléments servent nos messages avant la COP31 du 9 novembre."
+    "texte": "L'attestation exigée par les États-Unis s'applique du 3 novembre au 18 décembre malgré les réserves de l'IATA. Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025 ; notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier et ces éléments servent nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -59,7 +59,7 @@
     "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, un point de comparaison pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-30T13:42:00Z"
+  "prochaineCollecte": "2026-10-30T14:42:00Z"
  },
  "items": [
   {
@@ -289,6 +289,26 @@
    "url": "https://www.timeslive.co.za/news/africa/2026-10-26-two-ebola-patients-one-airport-experts-asked-if-there-is-a-link/",
    "zone": "afrique",
    "id": "ebola-entebbe-enquete"
+  },
+  {
+   "ajoute": "2026-10-30T13:43:12Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Ebola",
+    "Entebbe",
+    "génomique",
+    "transit",
+    "RDC"
+   ],
+   "priorite": "haute",
+   "resume": "Les analyses génétiques placent les cas du Nigeria et du Kenya dans la même lignée que l'épidémie de RDC, qui compte 10 141 cas confirmés et 4 928 décès, avec 50 à 80 nouveaux cas par jour. Les deux patients index étaient à l'aéroport d'Entebbe le 3 octobre. Environ 80 % des cas en RDC échappent aux chaînes de transmission connues. Ces éléments confirment la piste d'Entebbe décrite le 26 octobre ; le Nigeria ne signale pas de nouveau cas.",
+   "secteur": "medecine",
+   "sodexam": "Le risque passe clairement par les hubs de transit et non par les seuls pays touchés. Il faut s'assurer avec l'INHP et AERIA que les passagers arrivant à FHB via Entebbe ou Nairobi sont bien identifiés, y compris en correspondance.",
+   "source": "CIDRAP",
+   "titre": "Ebola : la génomique rattache les cas du Nigeria et du Kenya à la souche de RDC",
+   "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-approaches-5000-deaths-us-issues-new-travel-rule",
+   "zone": "afrique",
+   "id": "ebola-genomique-lien-entebbe-confirme"
   },
   {
    "ajoute": "2026-10-27T14:44:11Z",
