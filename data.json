@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-30T09:55:59Z",
+ "exporte": "2026-10-30T10:55:58Z",
  "briefing": {
   "date": "2026-10-30",
-  "derniereCollecte": "2026-10-30T09:43:57Z",
-  "genereLe": "2026-10-30T09:43:57Z",
+  "derniereCollecte": "2026-10-30T10:43:56Z",
+  "genereLe": "2026-10-30T10:43:56Z",
   "points": [
    {
     "ids": [
@@ -20,6 +20,18 @@
    },
    {
     "ids": [
+     "ebola-togo-depistage-thermique-lome",
+     "ebola-ghana-kotoka-declaration-electronique",
+     "ebola-benin-cameroun-alerte-aeroports",
+     "nigeria-45-milliards-biosurveillance-aeroports",
+     "ebola-ghana-filtrage-aeroports",
+     "ebola-ghana-expert-limites-controle-temperature",
+     "ebola-nigeria-interdiction-vol-46-contacts"
+    ],
+    "texte": "Tout le golfe de Guinée relève ses contrôles. Le Togo a annoncé le 27 octobre un dépistage thermique systématique à l'aéroport et au port de Lomé, après le Ghana, le Bénin et le Nigeria, qui a voté le 28 octobre 45,08 milliards de nairas pour cinq aéroports. Lomé et Accra étant des correspondances fréquentes vers Abidjan, il faut vérifier avec l'INHP que le dispositif de FHB et des aéroports de l'intérieur est au même niveau, sans se limiter à la température."
+   },
+   {
+    "ids": [
      "ebola-reunion-ministres-points-entree",
      "ebola-africa-cdc-reunion-ministres",
      "ebola-oms-don622-pas-restriction-voyages"
@@ -28,25 +40,14 @@
    },
    {
     "ids": [
-     "nigeria-45-milliards-biosurveillance-aeroports",
-     "ebola-ghana-kotoka-declaration-electronique",
-     "ebola-nigeria-interdiction-vol-46-contacts",
-     "ebola-ghana-filtrage-aeroports",
-     "ebola-ghana-expert-limites-controle-temperature",
-     "ebola-benin-cameroun-alerte-aeroports",
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
-     "ebola-nigeria-evacuation-patiente"
-    ],
-    "texte": "Autour de nous, les contrôles se durcissent. Le Nigeria a voté le 28 octobre 45,08 milliards de nairas pour la biosurveillance de cinq aéroports, Kotoka impose une déclaration électronique et l'attestation exigée par les États-Unis s'applique dès le 3 novembre malgré les réserves de l'IATA. Reste à savoir ce que l'INHP prévoit à FHB et dans nos aéroports de l'intérieur, et comment l'évacuation sanitaire figure dans nos plans d'urgence."
-   },
-   {
-    "ids": [
+     "ebola-nigeria-evacuation-patiente",
      "sodexam-saison-deficitaire",
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "L'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025. Notre prévision d'une petite saison des pluies déficitaire devra être évaluée en janvier. Ces éléments servent nos messages avant la COP31 du 9 novembre."
+    "texte": "L'attestation exigée par les États-Unis s'applique dès le 3 novembre malgré les réserves de l'IATA. Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025 ; notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier et ces éléments servent nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -55,10 +56,10 @@
      "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Dans la région, Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers avec un partenaire turc, un point de comparaison pour Yamoussoukro. L'ANAC vise par ailleurs un carburant d'aviation durable à base de manioc vers 2028-2029."
+    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, un point de comparaison pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-30T10:42:00Z"
+  "prochaineCollecte": "2026-10-30T11:42:00Z"
  },
  "items": [
   {
@@ -639,6 +640,26 @@
    "url": "https://infobae.com/america/agencias/2026/10/28/la-ua-y-la-oms-urgen-a-actuar-ante-un-brote-de-ebola-que-supera-los-10000-casos-en-la-rdc",
    "zone": "afrique",
    "id": "ebola-reunion-ministres-points-entree"
+  },
+  {
+   "ajoute": "2026-10-30T10:43:43Z",
+   "date": "2026-10-30",
+   "motscles": [
+    "Ebola",
+    "Togo",
+    "Lomé",
+    "dépistage",
+    "points d'entrée"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministère togolais de la Santé a annoncé le 27 octobre 2026 un contrôle thermique systématique des voyageurs à l'aéroport Gnassingbé Eyadéma, au port de Lomé et aux postes frontaliers terrestres. Le ministre Jean-Marie Koffi Tessi affirme qu'aucun cas n'a été enregistré au Togo. Il n'y a ni fermeture de frontière, ni suspension de vols, ni quarantaine. Le nombre de voyageurs contrôlés n'est pas publié.",
+   "secteur": "medecine",
+   "sodexam": "Lomé est un point de correspondance fréquent pour les passagers à destination d'Abidjan. Après le Ghana, le Bénin et le Nigeria, le Togo complète un dispositif régional dont FHB et nos aéroports de l'intérieur doivent rester au niveau, en lien avec l'INHP.",
+   "source": "Rio Times",
+   "titre": "Ebola : le Togo instaure un dépistage thermique à l'aéroport et au port de Lomé",
+   "url": "https://www.riotimesonline.com/togo-tightens-borders-over-ebola/",
+   "zone": "afrique",
+   "id": "ebola-togo-depistage-thermique-lome"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
