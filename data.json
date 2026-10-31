@@ -1,12 +1,13 @@
 {
- "exporte": "2026-10-31T22:56:02Z",
+ "exporte": "2026-10-31T23:56:35Z",
  "briefing": {
   "date": "2026-10-31",
-  "derniereCollecte": "2026-10-31T22:43:42Z",
-  "genereLe": "2026-10-31T19:43:26Z",
+  "derniereCollecte": "2026-10-31T23:43:36Z",
+  "genereLe": "2026-10-31T23:43:36Z",
   "points": [
    {
     "ids": [
+     "ebola-nigeria-cas-suspects-adamawa-negatifs",
      "ebola-nigeria-deux-cas-suspects-nord-est",
      "ebola-rdc-plus-5000-deces",
      "ebola-ecdc-bilan-10274-cas-62-contacts",
@@ -19,7 +20,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Le 31 octobre, le NCDC a signalé deux cas suspects dans le nord-est du Nigeria, sans lien établi avec la patiente d'Abuja ; une confirmation voudrait dire une transmission hors d'Abuja. La RDC a passé les 5 000 décès le 30 octobre et la génomique rattache les cas du Nigeria et du Kenya à la souche de RDC via Entebbe : point à faire avec l'INHP et AERIA sur les provenances d'Entebbe, de Nairobi et du Nigeria, correspondances comprises."
+    "texte": "Ebola reste le premier sujet. Les deux cas suspects signalés le 30 octobre à Yola (Adamawa) sont négatifs, selon le NCDC le 31 octobre au soir : le Nigeria n'a toujours qu'un cas confirmé, à Abuja. La RDC a passé les 5 000 décès le 30 octobre et la génomique rattache les cas du Nigeria et du Kenya à la souche de RDC via Entebbe : le point avec l'INHP et AERIA sur les provenances d'Entebbe, de Nairobi et du Nigeria, correspondances comprises, reste à faire."
    },
    {
     "ids": [
@@ -62,7 +63,7 @@
     "texte": "Air Côte d'Ivoire : un A320 a heurté un animal au décollage à Bamako le 23 octobre et restait au sol le 28, alors que la compagnie ajuste déjà ses vols régionaux. Bon moment pour revoir le péril animalier sur nos aéroports de l'intérieur. À FHB, sanctions annoncées le 28 octobre contre la mendicité de certains agents ; Conakry prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-10-31T23:42:00Z"
+  "prochaineCollecte": "2026-11-01T00:42:00Z"
  },
  "items": [
   {
@@ -508,6 +509,26 @@
    "url": "https://thesun.ng/ebola-contacts-rise-to-53-lagos-tightens-airport-surveillance/",
    "zone": "afrique",
    "id": "ebola-lagos-surveillance-aeroport"
+  },
+  {
+   "ajoute": "2026-10-31T23:43:24Z",
+   "date": "2026-10-31",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "NCDC",
+    "Adamawa",
+    "cas négatifs"
+   ],
+   "priorite": "haute",
+   "resume": "Le soir du 31 octobre 2026, le NCDC a indiqué que les deux cas suspects signalés le 30 octobre à Yola, dans l'État d'Adamawa, sont négatifs après deux séries d'analyses. Cette annonce corrige l'alerte du même jour sur des cas suspects dans le Nord-Est. Le Nigeria compte toujours un seul cas confirmé, la patiente d'Abuja évacuée vers la Suisse, dont les 62 contacts restent suivis.",
+   "secteur": "medecine",
+   "sodexam": "Pas de transmission établie hors d'Abuja à ce stade : rien ne justifie de durcir le dispositif à FHB sur les provenances du Nigeria. On garde le niveau de vigilance actuel avec l'INHP.",
+   "source": "Premium Times",
+   "titre": "Ebola : les deux cas suspects d'Adamawa sont négatifs, un seul cas au Nigeria",
+   "url": "https://www.premiumtimesng.com/health/health-news/921844-ebola-no-new-cases-in-nigeria-as-two-suspected-cases-in-north-east-test-negative.html",
+   "zone": "afrique",
+   "id": "ebola-nigeria-cas-suspects-adamawa-negatifs"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
