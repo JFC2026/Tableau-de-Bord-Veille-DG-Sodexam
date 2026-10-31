@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-30T23:56:25Z",
+ "exporte": "2026-10-31T00:56:26Z",
  "briefing": {
-  "date": "2026-10-30",
-  "derniereCollecte": "2026-10-30T23:43:44Z",
-  "genereLe": "2026-10-30T17:43:13Z",
+  "date": "2026-10-31",
+  "derniereCollecte": "2026-10-31T00:44:08Z",
+  "genereLe": "2026-10-31T00:44:08Z",
   "points": [
    {
     "ids": [
@@ -16,7 +16,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le sujet numéro un. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC, qui comptait 10 193 cas et 4 960 décès au 27 octobre, et les deux patients index sont passés par Entebbe le 3 octobre. Le risque vient donc des hubs de transit : avec l'INHP et AERIA, il faut faire le point sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
+    "texte": "Ebola reste le premier sujet. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC, et les deux patients index sont passés par Entebbe le 3 octobre. Le risque passe par les hubs de transit : il faut faire le point avec l'INHP et AERIA sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
    },
    {
     "ids": [
@@ -28,7 +28,7 @@
      "ebola-ghana-expert-limites-controle-temperature",
      "ebola-nigeria-interdiction-vol-46-contacts"
     ],
-    "texte": "Tout le golfe de Guinée relève ses contrôles. Le Togo a annoncé le 27 octobre un dépistage thermique systématique à Lomé, après le Ghana, le Bénin et le Nigeria, qui a voté le 28 octobre 45,08 milliards de nairas pour cinq aéroports. Lomé et Accra étant des correspondances fréquentes vers Abidjan, il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur sont au même niveau, sans se limiter à la température."
+    "texte": "Les voisins du golfe de Guinée relèvent leurs contrôles : dépistage thermique à Lomé annoncé le 27 octobre, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Lomé et Accra alimentent beaucoup de correspondances vers Abidjan. Il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur suivent, sans s'en tenir à la prise de température."
    },
    {
     "ids": [
@@ -38,7 +38,7 @@
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc"
     ],
-    "texte": "Les ministres africains de la Santé n'ont retenu le 28 octobre aucune restriction de voyage, en ligne avec l'OMS. Mais le Rwanda, l'Arabie saoudite, le Canada et plusieurs pays du Golfe ferment déjà l'entrée aux provenances récentes d'Afrique de l'Est, et l'attestation américaine s'applique dès le 3 novembre. L'information des passagers au départ de FHB doit suivre ces règles pour éviter des refus d'embarquement."
+    "texte": "Le 28 octobre, les ministres africains de la Santé n'ont retenu aucune restriction de voyage, comme l'OMS. Le Rwanda, l'Arabie saoudite, le Canada et plusieurs pays du Golfe filtrent pourtant déjà les provenances récentes d'Afrique de l'Est, et l'attestation américaine entre en vigueur le 3 novembre. L'information des passagers au départ de FHB doit en tenir compte pour éviter des refus d'embarquement."
    },
    {
     "ids": [
@@ -46,7 +46,7 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "Côté climat, l'OMM évoque un El Niño qui pourrait battre les records et un CO2 à 426,8 ppm en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à évaluer en janvier, et ces éléments servent nos messages avant la COP31 du 9 novembre."
+    "texte": "Climat : l'OMM n'exclut pas un El Niño record et mesure 426,8 ppm de CO2 en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à confronter aux relevés en janvier. Ces éléments nourrissent nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -55,10 +55,10 @@
      "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre ; le sujet doit entrer dans le suivi qualité avec AERIA. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, un point de comparaison pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
+    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre, un point à suivre avec AERIA dans le cadre qualité. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, utile comme repère pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-31T00:42:00Z"
+  "prochaineCollecte": "2026-10-31T01:42:00Z"
  },
  "items": [
   {
