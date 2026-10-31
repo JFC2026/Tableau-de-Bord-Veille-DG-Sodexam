@@ -1,12 +1,13 @@
 {
- "exporte": "2026-10-31T06:55:42Z",
+ "exporte": "2026-10-31T07:56:33Z",
  "briefing": {
   "date": "2026-10-31",
-  "derniereCollecte": "2026-10-31T06:44:00Z",
-  "genereLe": "2026-10-31T06:44:00Z",
+  "derniereCollecte": "2026-10-31T07:43:50Z",
+  "genereLe": "2026-10-31T07:43:50Z",
   "points": [
    {
     "ids": [
+     "ebola-rdc-plus-5000-deces",
      "ebola-ecdc-bilan-10274-cas-62-contacts",
      "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete",
@@ -17,7 +18,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Au 30 octobre, l'ECDC compte 10 274 cas en RDC et 62 contacts suivis au Nigeria, sans nouveau cas au Kenya depuis le 20 octobre. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC via Entebbe : il faut faire le point avec l'INHP et AERIA sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
+    "texte": "Ebola reste le premier sujet. Le 30 octobre, la RDC a franchi les 5 000 décès pour plus de 10 000 infections, et l'ECDC suit 62 contacts au Nigeria, sans nouveau cas au Kenya depuis le 20 octobre. La génomique rattache les cas du Nigeria et du Kenya à la souche de RDC via Entebbe : il faut faire le point avec l'INHP et AERIA sur les provenances d'Entebbe et de Nairobi, correspondances comprises, et sur les personnels exposés à FHB."
    },
    {
     "ids": [
@@ -59,7 +60,7 @@
     "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre, un point à suivre avec AERIA dans le cadre qualité. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-31T07:42:00Z"
+  "prochaineCollecte": "2026-10-31T08:42:00Z"
  },
  "items": [
   {
@@ -680,6 +681,25 @@
    "url": "https://www.natureworldnews.com/articles/73649/20261026/bundibugyo-ebola-cases-near-10000-congo-starts-first-vaccine-trial-us-adds-travel-attestation.htm",
    "zone": "afrique",
    "id": "ebola-rdc-essai-vaccinal-bunia"
+  },
+  {
+   "ajoute": "2026-10-31T07:43:39Z",
+   "date": "2026-10-31",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "bilan",
+    "épidémie"
+   ],
+   "priorite": "veille",
+   "resume": "Selon les données du gouvernement congolais publiées le 30 octobre, l'épidémie a fait plus de 5 000 morts en RDC et plus de 10 000 personnes ont été infectées depuis mai. Huit des 26 provinces sont touchées. C'est désormais la deuxième plus grande épidémie d'Ebola connue, après celle de 2014-2016 en Afrique de l'Ouest. Le bilan actualise celui de 4 803 décès au 25 octobre déjà suivi.",
+   "secteur": "medecine",
+   "sodexam": "Pas d'effet direct nouveau sur les aéroports ivoiriens, mais le chiffre pèse sur les décisions de restriction prises par d'autres États. À garder en tête pour les messages aux passagers et aux personnels de FHB et de l'intérieur.",
+   "source": "Al Jazeera",
+   "titre": "Ebola : le bilan des décès en RDC dépasse 5 000",
+   "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000",
+   "zone": "afrique",
+   "id": "ebola-rdc-plus-5000-deces"
   },
   {
    "ajoute": "2026-10-30T17:42:59Z",
