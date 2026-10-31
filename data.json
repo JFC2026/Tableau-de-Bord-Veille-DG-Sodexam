@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-31T12:55:51Z",
+ "exporte": "2026-10-31T13:55:51Z",
  "briefing": {
   "date": "2026-10-31",
-  "derniereCollecte": "2026-10-31T12:43:56Z",
-  "genereLe": "2026-10-31T07:43:50Z",
+  "derniereCollecte": "2026-10-31T13:43:34Z",
+  "genereLe": "2026-10-31T13:43:34Z",
   "points": [
    {
     "ids": [
@@ -52,15 +52,16 @@
    },
    {
     "ids": [
+     "air-cote-divoire-a320-bamako-collision-animal",
+     "air-cote-divoire-avions-immobilises",
      "fhb-sanctions-mendicite-agents",
      "conakry-aeroport-croissance-nouveau-terminal",
-     "ci-saf-manioc-2029",
-     "air-cote-divoire-avions-immobilises"
+     "ci-saf-manioc-2029"
     ],
-    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre, un point à suivre avec AERIA dans le cadre qualité. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
+    "texte": "Air Côte d'Ivoire : un A320 a heurté un animal au décollage à Bamako le 23 octobre et restait au sol le 28, alors que la compagnie ajuste déjà ses vols régionaux. Bon moment pour revoir le péril animalier sur nos aéroports de l'intérieur. À FHB, sanctions annoncées le 28 octobre contre la mendicité de certains agents ; Conakry prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-10-31T13:42:00Z"
+  "prochaineCollecte": "2026-10-31T14:42:00Z"
  },
  "items": [
   {
@@ -117,6 +118,25 @@
    "url": "https://www.dakarposte.com/JOJ-Dakar-2026-Washington-dote-l-AIBD-de-scanners-de-derniere-generation-pour-renforcer-la-securite-aeroportuaire_a87941.html",
    "zone": "afrique",
    "id": "aibd-scanners-tsa"
+  },
+  {
+   "ajoute": "2026-10-31T13:43:23Z",
+   "date": "2026-10-28",
+   "motscles": [
+    "Air Côte d'Ivoire",
+    "péril animalier",
+    "décollage interrompu",
+    "Bamako"
+   ],
+   "priorite": "haute",
+   "resume": "Le 23 octobre 2026, l'A320 TU-TSW d'Air Côte d'Ivoire, vol HF-724 Bamako–Conakry, a heurté un animal sur la piste 24 pendant sa course au décollage. L'équipage a interrompu le décollage à environ 115 nœuds et l'avion a regagné l'aire de stationnement. Au 28 octobre, l'appareil était toujours au sol à Bamako. La source ne fait état ni de blessés ni de l'étendue des dommages.",
+   "secteur": "aeronautique",
+   "sodexam": "Effet indirect : un avion de la flotte régionale reste bloqué, alors qu'Air Côte d'Ivoire ajuste déjà ses vols. C'est l'occasion de vérifier l'état des clôtures et du suivi du péril animalier sur les aéroports de l'intérieur.",
+   "source": "Aeroinside",
+   "titre": "Bamako : un A320 d'Air Côte d'Ivoire interrompt son décollage après une collision animalière",
+   "url": "https://www.aeroinside.com/22304/cote-ivory-a320-at-bamako-on-oct-23rd-2026-rejected-takeoff-due-to-animal-strike",
+   "zone": "afrique",
+   "id": "air-cote-divoire-a320-bamako-collision-animal"
   },
   {
    "ajoute": "2026-10-26T20:43:43Z",
