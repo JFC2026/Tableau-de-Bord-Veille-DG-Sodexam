@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-31T05:56:20Z",
+ "exporte": "2026-10-31T06:55:42Z",
  "briefing": {
   "date": "2026-10-31",
-  "derniereCollecte": "2026-10-31T05:43:07Z",
-  "genereLe": "2026-10-31T03:43:58Z",
+  "derniereCollecte": "2026-10-31T06:44:00Z",
+  "genereLe": "2026-10-31T06:44:00Z",
   "points": [
    {
     "ids": [
@@ -21,25 +21,25 @@
    },
    {
     "ids": [
+     "ebola-arabie-saoudite-interdit-provenances-kenya",
+     "ebola-restrictions-entree-rwanda-arabie-saoudite",
+     "ebola-usa-declaration",
+     "ebola-iata-a4a-contestent-attestation-cdc",
+     "ebola-reunion-ministres-points-entree",
+     "ebola-oms-don622-pas-restriction-voyages"
+    ],
+    "texte": "Les restrictions d'entrée s'étendent malgré l'avis de l'OMS. Le 30 octobre, l'Arabie saoudite a fermé son territoire aux voyageurs venant du Kenya, même en transit par un pays tiers, et l'attestation américaine entre en vigueur le 3 novembre. L'information des passagers au départ de FHB, surtout vers le Golfe et les États-Unis, doit être mise à jour avec AERIA et les compagnies."
+   },
+   {
+    "ids": [
      "ebola-togo-depistage-thermique-lome",
      "ebola-ghana-kotoka-declaration-electronique",
      "ebola-benin-cameroun-alerte-aeroports",
      "nigeria-45-milliards-biosurveillance-aeroports",
      "ebola-ghana-filtrage-aeroports",
-     "ebola-ghana-expert-limites-controle-temperature",
-     "ebola-nigeria-interdiction-vol-46-contacts"
+     "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Les voisins du golfe de Guinée relèvent leurs contrôles : dépistage thermique à Lomé annoncé le 27 octobre, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Lomé et Accra alimentent beaucoup de correspondances vers Abidjan. Il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur suivent, sans s'en tenir à la prise de température."
-   },
-   {
-    "ids": [
-     "ebola-restrictions-entree-rwanda-arabie-saoudite",
-     "ebola-reunion-ministres-points-entree",
-     "ebola-oms-don622-pas-restriction-voyages",
-     "ebola-usa-declaration",
-     "ebola-iata-a4a-contestent-attestation-cdc"
-    ],
-    "texte": "Le 28 octobre, les ministres africains de la Santé n'ont retenu aucune restriction de voyage, comme l'OMS. Le Rwanda, l'Arabie saoudite, le Canada et plusieurs pays du Golfe filtrent pourtant déjà les provenances récentes d'Afrique de l'Est, et l'attestation américaine entre en vigueur le 3 novembre. L'information des passagers au départ de FHB doit en tenir compte pour éviter des refus d'embarquement."
+    "texte": "Les voisins du golfe de Guinée relèvent leurs contrôles : dépistage thermique à Lomé annoncé le 27 octobre, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur suivent, sans s'en tenir à la prise de température."
    },
    {
     "ids": [
@@ -56,10 +56,10 @@
      "ci-saf-manioc-2029",
      "air-cote-divoire-avions-immobilises"
     ],
-    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre, un point à suivre avec AERIA dans le cadre qualité. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, utile comme repère pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
+    "texte": "À FHB, des sanctions contre la mendicité de certains agents ont été annoncées le 28 octobre, un point à suivre avec AERIA dans le cadre qualité. Conakry a gagné 22,2 % de passagers au premier semestre 2026 et prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro. L'ANAC vise un carburant d'aviation durable à base de manioc vers 2028-2029."
    }
   ],
-  "prochaineCollecte": "2026-10-31T06:42:00Z"
+  "prochaineCollecte": "2026-10-31T07:42:00Z"
  },
  "items": [
   {
@@ -213,6 +213,25 @@
    "url": "https://www.gbcghanaonline.com/news/ebola-spreads/2026/",
    "zone": "afrique",
    "id": "ebola-africa-cdc-reunion-ministres"
+  },
+  {
+   "ajoute": "2026-10-31T06:43:48Z",
+   "date": "2026-10-31",
+   "motscles": [
+    "Ebola",
+    "Arabie saoudite",
+    "Kenya",
+    "restrictions de voyage"
+   ],
+   "priorite": "haute",
+   "resume": "Le 30 octobre, Riyad a suspendu les voyages de ses ressortissants vers le Kenya, gelé tous les visas pour les voyageurs venant de ce pays et fermé son territoire à toute personne arrivant du Kenya, y compris après un passage par un pays tiers. La mesure s'ajoute à celles prises en juin contre la RDC, l'Ouganda et le Soudan du Sud. Le Kenya compte 9 cas confirmés et 2 décès, sans nouveau cas depuis dix jours au 30 octobre.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect : la liste des provenances filtrées s'allonge et inclut désormais Nairobi, hub de correspondance vers Abidjan. Il faut que l'information passagers à FHB, avec AERIA et les compagnies desservant le Golfe, intègre cette règle pour limiter les refus d'embarquement.",
+   "source": "Kenyans.co.ke",
+   "titre": "Ebola : l'Arabie saoudite interdit l'entrée aux voyageurs venant du Kenya",
+   "url": "https://kenyans.co.ke/news/129019-saudi-arabia-imposes-travel-ban-kenya-amid-ebola-fears",
+   "zone": "monde",
+   "id": "ebola-arabie-saoudite-interdit-provenances-kenya"
   },
   {
    "ajoute": "2026-10-27T00:43:48Z",
