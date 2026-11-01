@@ -1,12 +1,13 @@
 {
- "exporte": "2026-11-01T17:56:51Z",
+ "exporte": "2026-11-01T18:56:19Z",
  "briefing": {
   "date": "2026-11-01",
-  "derniereCollecte": "2026-11-01T17:43:09Z",
-  "genereLe": "2026-11-01T12:44:02Z",
+  "derniereCollecte": "2026-11-01T18:43:41Z",
+  "genereLe": "2026-11-01T18:43:41Z",
   "points": [
    {
     "ids": [
+     "ebola-nigeria-six-contacts-sortie-quarantaine",
      "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-nigeria-cas-suspects-adamawa-negatifs",
      "ebola-rdc-plus-5000-deces",
@@ -20,7 +21,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Le Nigeria n'a toujours qu'un cas confirmé, à Abuja. Le cas suspect de Yola, négatif, était un pilote de 34 ans parti au Kenya le 14 octobre alors qu'il avait déjà de la fièvre. Le point avec l'INHP, AERIA et les compagnies sur les provenances d'Entebbe, de Nairobi et du Nigeria doit maintenant couvrir aussi les équipages."
+    "texte": "Ebola reste le premier sujet. Le Nigeria n'a toujours qu'un cas confirmé, à Abuja, et six de ses contacts sortent de quarantaine le 1er novembre sans symptôme. Le cas suspect de Yola, négatif, était un pilote parti au Kenya le 14 octobre avec de la fièvre. Le point avec l'INHP, AERIA et les compagnies sur les provenances d'Entebbe, de Nairobi et du Nigeria doit couvrir aussi les équipages."
    },
    {
     "ids": [
@@ -64,7 +65,7 @@
     "texte": "Un A320 d'Air Côte d'Ivoire a heurté un animal au décollage à Bamako le 23 octobre, alors que la compagnie réduit déjà ses vols régionaux pour maintenance. Occasion de revoir le péril animalier sur nos aéroports de l'intérieur. Conakry prépare un terminal de 3 millions de passagers, repère utile pour le dossier Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-01T18:42:00Z"
+  "prochaineCollecte": "2026-11-01T19:42:00Z"
  },
  "items": [
   {
@@ -667,6 +668,25 @@
    "url": "https://globetv.app/news/nigeria-flies-its-only-ebola-patient-to-switzerland-as-53-contacts-are-traced-6adfb682b85a6",
    "zone": "afrique",
    "id": "ebola-nigeria-patiente-suisse-53-contacts"
+  },
+  {
+   "ajoute": "2026-11-01T18:43:28Z",
+   "date": "2026-10-31",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "quarantaine",
+    "NCDC"
+   ],
+   "priorite": "veille",
+   "resume": "Le NCDC a indiqué le 31 octobre que six contacts du seul cas confirmé au Nigeria quittent la quarantaine le 1er novembre. Ils ont passé les 21 jours de suivi sans symptôme. Il s'agit de deux employés de maison et du chauffeur du cas index, entre autres. L'article ne mentionne aucun lien avec le transport aérien.",
+   "secteur": "medecine",
+   "sodexam": "Signal plutôt rassurant sur la chaîne de transmission au Nigeria, sans changer le dispositif aux frontières. Les mesures en vigueur à FHB restent à maintenir tant que les autres contacts sont suivis.",
+   "source": "Platform Times",
+   "titre": "Nigeria : six contacts du cas d'Ebola sortent de quarantaine après 21 jours",
+   "url": "https://platformtimes.com.ng/six-ebola-contacts-to-leave-quarantine-sunday-after-21-days-without-symptoms-ncdc/",
+   "zone": "afrique",
+   "id": "ebola-nigeria-six-contacts-sortie-quarantaine"
   },
   {
    "ajoute": "2026-10-28T13:49:04Z",
