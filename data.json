@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-01T00:56:04Z",
+ "exporte": "2026-11-01T01:56:06Z",
  "briefing": {
   "date": "2026-11-01",
-  "derniereCollecte": "2026-11-01T00:43:35Z",
-  "genereLe": "2026-11-01T00:43:35Z",
+  "derniereCollecte": "2026-11-01T01:44:09Z",
+  "genereLe": "2026-11-01T01:44:09Z",
   "points": [
    {
     "ids": [
@@ -28,10 +28,11 @@
      "ebola-iata-a4a-contestent-attestation-cdc",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
+     "ebola-madagascar-quarantaine-kenya-nigeria",
      "ebola-reunion-ministres-points-entree",
      "ebola-oms-don622-pas-restriction-voyages"
     ],
-    "texte": "L'attestation exigée par les États-Unis s'applique à partir du 3 novembre, et l'Arabie saoudite ferme depuis le 30 octobre son territoire aux voyageurs venant du Kenya, transit compris. L'OMS déconseille pourtant ces restrictions. L'information des passagers au départ de FHB, vers le Golfe et les États-Unis surtout, est à caler avec AERIA et les compagnies avant le 3 novembre."
+    "texte": "Les restrictions s'étendent malgré l'avis de l'OMS. L'attestation américaine s'applique dès le 3 novembre, l'Arabie saoudite ferme son territoire aux voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine, selon un article du 31 octobre, les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies avant le 3 novembre."
    },
    {
     "ids": [
@@ -63,7 +64,7 @@
     "texte": "Un A320 d'Air Côte d'Ivoire a heurté un animal au décollage à Bamako le 23 octobre, alors que la compagnie réduit déjà ses vols régionaux pour maintenance. Occasion de revoir le péril animalier sur nos aéroports de l'intérieur. Conakry prépare un terminal de 3 millions de passagers, repère utile pour le dossier Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-01T01:42:00Z"
+  "prochaineCollecte": "2026-11-01T02:42:00Z"
  },
  "items": [
   {
@@ -509,6 +510,26 @@
    "url": "https://thesun.ng/ebola-contacts-rise-to-53-lagos-tightens-airport-surveillance/",
    "zone": "afrique",
    "id": "ebola-lagos-surveillance-aeroport"
+  },
+  {
+   "ajoute": "2026-11-01T01:43:57Z",
+   "date": "2026-10-31",
+   "motscles": [
+    "Ebola",
+    "Madagascar",
+    "quarantaine",
+    "Nigeria",
+    "Kenya"
+   ],
+   "priorite": "veille",
+   "resume": "Madagascar applique désormais aux passagers arrivant du Kenya et du Nigeria la quarantaine déjà imposée aux provenances de RDC. Les voyageurs concernés sont identifiés et examinés à l'aéroport d'Ivato, puis placés dans des sites dédiés sous suivi médical, sans durée précisée. Le pays ne compte à ce jour aucun cas suspect ni confirmé.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect : un pays de plus qui cible le Nigeria, alors que l'OMS déconseille ces restrictions. Utile pour informer les passagers en correspondance au départ de FHB et pour suivre la pression sur les liaisons avec Lagos et Abuja.",
+   "source": "Midi Madagasikara / AllAfrica",
+   "titre": "Ebola : Madagascar étend la quarantaine aux voyageurs venant du Kenya et du Nigeria",
+   "url": "https://fr.allafrica.com/stories/202610310061.html",
+   "zone": "afrique",
+   "id": "ebola-madagascar-quarantaine-kenya-nigeria"
   },
   {
    "ajoute": "2026-10-31T23:43:24Z",
