@@ -1,9 +1,9 @@
 {
- "exporte": "2026-10-31T23:56:35Z",
+ "exporte": "2026-11-01T00:56:04Z",
  "briefing": {
-  "date": "2026-10-31",
-  "derniereCollecte": "2026-10-31T23:43:36Z",
-  "genereLe": "2026-10-31T23:43:36Z",
+  "date": "2026-11-01",
+  "derniereCollecte": "2026-11-01T00:43:35Z",
+  "genereLe": "2026-11-01T00:43:35Z",
   "points": [
    {
     "ids": [
@@ -20,18 +20,18 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Les deux cas suspects signalés le 30 octobre à Yola (Adamawa) sont négatifs, selon le NCDC le 31 octobre au soir : le Nigeria n'a toujours qu'un cas confirmé, à Abuja. La RDC a passé les 5 000 décès le 30 octobre et la génomique rattache les cas du Nigeria et du Kenya à la souche de RDC via Entebbe : le point avec l'INHP et AERIA sur les provenances d'Entebbe, de Nairobi et du Nigeria, correspondances comprises, reste à faire."
+    "texte": "Ebola reste le premier sujet. Le Nigeria n'a qu'un cas confirmé, à Abuja : les deux cas suspects de Yola (Adamawa) sont revenus négatifs le 31 octobre. La RDC a passé les 5 000 décès le 30 octobre et la génomique relie les cas du Nigeria et du Kenya à la souche de RDC via Entebbe. Le point avec l'INHP et AERIA sur les provenances d'Entebbe, de Nairobi et du Nigeria, correspondances comprises, reste à faire."
    },
    {
     "ids": [
-     "ebola-arabie-saoudite-interdit-provenances-kenya",
-     "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
+     "ebola-arabie-saoudite-interdit-provenances-kenya",
+     "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-reunion-ministres-points-entree",
      "ebola-oms-don622-pas-restriction-voyages"
     ],
-    "texte": "Les restrictions d'entrée s'étendent malgré l'avis de l'OMS. Le 30 octobre, l'Arabie saoudite a fermé son territoire aux voyageurs venant du Kenya, même en transit par un pays tiers, et l'attestation américaine entre en vigueur le 3 novembre. L'information des passagers au départ de FHB, surtout vers le Golfe et les États-Unis, doit être mise à jour avec AERIA et les compagnies."
+    "texte": "L'attestation exigée par les États-Unis s'applique à partir du 3 novembre, et l'Arabie saoudite ferme depuis le 30 octobre son territoire aux voyageurs venant du Kenya, transit compris. L'OMS déconseille pourtant ces restrictions. L'information des passagers au départ de FHB, vers le Golfe et les États-Unis surtout, est à caler avec AERIA et les compagnies avant le 3 novembre."
    },
    {
     "ids": [
@@ -42,7 +42,7 @@
      "ebola-ghana-filtrage-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Les voisins du golfe de Guinée relèvent leurs contrôles : dépistage thermique à Lomé annoncé le 27 octobre, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Il faut vérifier avec l'INHP que FHB et les aéroports de l'intérieur suivent, sans s'en tenir à la prise de température."
+    "texte": "Les voisins renforcent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. À vérifier avec l'INHP que FHB et les aéroports de l'intérieur suivent le mouvement, sans s'en tenir à la prise de température."
    },
    {
     "ids": [
@@ -50,7 +50,7 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "Climat : l'OMM n'exclut pas un El Niño record et mesure 426,8 ppm de CO2 en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à confronter aux relevés en janvier. Ces éléments nourrissent nos messages avant la COP31 du 9 novembre."
+    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à confronter aux relevés en janvier. Matière utile pour nos messages avant la COP31 du 9 novembre."
    },
    {
     "ids": [
@@ -60,10 +60,10 @@
      "conakry-aeroport-croissance-nouveau-terminal",
      "ci-saf-manioc-2029"
     ],
-    "texte": "Air Côte d'Ivoire : un A320 a heurté un animal au décollage à Bamako le 23 octobre et restait au sol le 28, alors que la compagnie ajuste déjà ses vols régionaux. Bon moment pour revoir le péril animalier sur nos aéroports de l'intérieur. À FHB, sanctions annoncées le 28 octobre contre la mendicité de certains agents ; Conakry prépare un terminal de 3 millions de passagers, repère utile pour Yamoussoukro."
+    "texte": "Un A320 d'Air Côte d'Ivoire a heurté un animal au décollage à Bamako le 23 octobre, alors que la compagnie réduit déjà ses vols régionaux pour maintenance. Occasion de revoir le péril animalier sur nos aéroports de l'intérieur. Conakry prépare un terminal de 3 millions de passagers, repère utile pour le dossier Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-01T00:42:00Z"
+  "prochaineCollecte": "2026-11-01T01:42:00Z"
  },
  "items": [
   {
