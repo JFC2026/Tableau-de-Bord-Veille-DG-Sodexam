@@ -1,14 +1,14 @@
 {
- "exporte": "2026-11-01T11:56:38Z",
+ "exporte": "2026-11-01T12:56:28Z",
  "briefing": {
   "date": "2026-11-01",
-  "derniereCollecte": "2026-11-01T11:43:18Z",
-  "genereLe": "2026-11-01T01:44:09Z",
+  "derniereCollecte": "2026-11-01T12:44:02Z",
+  "genereLe": "2026-11-01T12:44:02Z",
   "points": [
    {
     "ids": [
+     "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-nigeria-cas-suspects-adamawa-negatifs",
-     "ebola-nigeria-deux-cas-suspects-nord-est",
      "ebola-rdc-plus-5000-deces",
      "ebola-ecdc-bilan-10274-cas-62-contacts",
      "ebola-genomique-lien-entebbe-confirme",
@@ -20,7 +20,7 @@
      "ebola-ci-vigilance",
      "uganda-airlines-entebbe-lagos-accra"
     ],
-    "texte": "Ebola reste le premier sujet. Le Nigeria n'a qu'un cas confirmé, à Abuja : les deux cas suspects de Yola (Adamawa) sont revenus négatifs le 31 octobre. La RDC a passé les 5 000 décès le 30 octobre et la génomique relie les cas du Nigeria et du Kenya à la souche de RDC via Entebbe. Le point avec l'INHP et AERIA sur les provenances d'Entebbe, de Nairobi et du Nigeria, correspondances comprises, reste à faire."
+    "texte": "Ebola reste le premier sujet. Le Nigeria n'a toujours qu'un cas confirmé, à Abuja. Le cas suspect de Yola, négatif, était un pilote de 34 ans parti au Kenya le 14 octobre alors qu'il avait déjà de la fièvre. Le point avec l'INHP, AERIA et les compagnies sur les provenances d'Entebbe, de Nairobi et du Nigeria doit maintenant couvrir aussi les équipages."
    },
    {
     "ids": [
@@ -32,7 +32,7 @@
      "ebola-reunion-ministres-points-entree",
      "ebola-oms-don622-pas-restriction-voyages"
     ],
-    "texte": "Les restrictions s'étendent malgré l'avis de l'OMS. L'attestation américaine s'applique dès le 3 novembre, l'Arabie saoudite ferme son territoire aux voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine, selon un article du 31 octobre, les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies avant le 3 novembre."
+    "texte": "Les restrictions s'étendent malgré l'avis de l'OMS. L'attestation américaine s'applique dès le 3 novembre, l'Arabie saoudite ferme son territoire aux voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies avant le 3 novembre."
    },
    {
     "ids": [
@@ -51,7 +51,7 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025"
     ],
-    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à confronter aux relevés en janvier. Matière utile pour nos messages avant la COP31 du 9 novembre."
+    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025. Notre prévision d'une petite saison des pluies déficitaire sera à confronter aux relevés en janvier. Matière utile pour nos messages avant la COP31 qui s'ouvre le 9 novembre à Antalya."
    },
    {
     "ids": [
@@ -64,7 +64,7 @@
     "texte": "Un A320 d'Air Côte d'Ivoire a heurté un animal au décollage à Bamako le 23 octobre, alors que la compagnie réduit déjà ses vols régionaux pour maintenance. Occasion de revoir le péril animalier sur nos aéroports de l'intérieur. Conakry prépare un terminal de 3 millions de passagers, repère utile pour le dossier Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-01T12:42:00Z"
+  "prochaineCollecte": "2026-11-01T13:42:00Z"
  },
  "items": [
   {
@@ -530,6 +530,26 @@
    "url": "https://fr.allafrica.com/stories/202610310061.html",
    "zone": "afrique",
    "id": "ebola-madagascar-quarantaine-kenya-nigeria"
+  },
+  {
+   "ajoute": "2026-11-01T12:43:46Z",
+   "date": "2026-11-01",
+   "motscles": [
+    "Ebola",
+    "pilote",
+    "aptitude médicale",
+    "Nigeria",
+    "Kenya"
+   ],
+   "priorite": "haute",
+   "resume": "Premium Times précise le profil des deux cas suspects de Yola déclarés négatifs : un pilote de 34 ans et son épouse, médecin. Le pilote avait de la fièvre le 13 octobre, traitée comme un paludisme, avant de partir au Kenya le 14 octobre. Revenu le 25 octobre, il a présenté fièvre et saignements. Deux séries de tests sont revenues négatives et 17 à 18 contacts ont été suivis. Cet article complète celui du 31 octobre sur les résultats négatifs.",
+   "secteur": "medecine",
+   "sodexam": "Un navigant fébrile a pu voyager vers une zone touchée sans signalement. Utile pour revoir avec l'INHP et les compagnies basées à FHB la conduite à tenir pour les équipages qui reviennent du Kenya, du Nigeria ou d'Entebbe.",
+   "source": "Premium Times",
+   "titre": "Ebola : le cas suspect d'Adamawa était un pilote revenu du Kenya",
+   "url": "https://www.premiumtimesng.com/health/health-news/921850-exclusive-ebola-34-year-old-pilot-wife-identified-as-suspected-cases-who-tested-negative-in-north-east-nigeria.html",
+   "zone": "afrique",
+   "id": "ebola-nigeria-cas-suspect-pilote-retour-kenya"
   },
   {
    "ajoute": "2026-10-31T23:43:24Z",
