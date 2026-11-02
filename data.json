@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-02T17:57:19Z",
+ "exporte": "2026-11-02T18:56:10Z",
  "briefing": {
   "date": "2026-11-02",
-  "derniereCollecte": "2026-11-02T16:49:21Z",
-  "genereLe": "2026-11-02T00:43:49Z",
+  "derniereCollecte": "2026-11-02T18:43:04Z",
+  "genereLe": "2026-11-02T17:57:13Z",
   "points": [
    {
     "ids": [
@@ -18,6 +18,7 @@
    },
    {
     "ids": [
+     "ebola-africa-cdc-5376-deces",
      "ebola-nigeria-six-contacts-sortie-quarantaine",
      "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-nigeria-cas-suspects-adamawa-negatifs",
@@ -26,10 +27,9 @@
      "ebola-entebbe-enquete",
      "ebola-kenya-deuxieme-deces",
      "ebola-kenya-20-contacts-leves-equipages-traces",
-     "ebola-rdc-plus-5000-deces",
      "ebola-ecdc-bilan-10274-cas-62-contacts"
     ],
-    "texte": "Au Nigeria, un seul cas confirmé à Abuja. Six contacts sont sortis de quarantaine le 1er novembre sans symptôme et les cas suspects de l'Adamawa, dont un pilote revenu du Kenya, sont négatifs. Le lien génomique avec Entebbe reste la piste principale : le point avec l'INHP, AERIA et les compagnies sur ces provenances doit couvrir les équipages."
+    "texte": "L'Africa CDC compte 5 376 décès au 2 novembre, dont 5 372 en RDC, 2 au Kenya et 2 en Ouganda. Le Nigeria reste à un cas confirmé : six contacts sont sortis de quarantaine le 1er novembre et les cas suspects de l'Adamawa sont négatifs. Le point avec l'INHP, AERIA et les compagnies sur ces provenances doit couvrir les équipages."
    },
    {
     "ids": [
@@ -58,7 +58,7 @@
     "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025, de quoi nourrir la position de la SODEXAM avant la COP31 qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière d'un A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-02T17:42:00Z"
+  "prochaineCollecte": "2026-11-02T19:42:00Z"
  },
  "items": [
   {
@@ -212,6 +212,25 @@
    "url": "https://atta.travel/resource/conakry-airport-eyes-air-algerie-and-egyptair-routes-as-passenger-numbers-surge-22.html",
    "zone": "afrique",
    "id": "conakry-aeroport-croissance-nouveau-terminal"
+  },
+  {
+   "ajoute": "2026-11-02T17:56:58Z",
+   "date": "2026-11-02",
+   "motscles": [
+    "Ebola",
+    "Africa CDC",
+    "bilan",
+    "RDC"
+   ],
+   "priorite": "veille",
+   "resume": "L'Africa CDC a communiqué le 2 novembre un bilan de 5 376 décès : 5 372 en RDC, 2 au Kenya et 2 en Ouganda. Plus de 10 000 personnes ont été infectées selon les données congolaises du 31 octobre, avec une létalité supérieure à 50 %. Le Kenya compte 9 infections en octobre, l'Ouganda 20 cas, le Nigeria un seul. Ce bilan actualise celui de plus de 5 000 décès publié le 31 octobre.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le Nigeria reste à un cas, mais la progression rapide en RDC justifie de garder les mesures de contrôle sanitaire à FHB et dans les aéroports de l'intérieur.",
+   "source": "Euronews",
+   "titre": "Ebola : 5 376 décès selon l'Africa CDC, dont deux au Kenya et deux en Ouganda",
+   "url": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record",
+   "zone": "afrique",
+   "id": "ebola-africa-cdc-5376-deces"
   },
   {
    "ajoute": "2026-10-27T07:43:56Z",
