@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-02T18:56:10Z",
+ "exporte": "2026-11-02T19:56:29Z",
  "briefing": {
   "date": "2026-11-02",
-  "derniereCollecte": "2026-11-02T18:43:04Z",
-  "genereLe": "2026-11-02T17:57:13Z",
+  "derniereCollecte": "2026-11-02T19:44:13Z",
+  "genereLe": "2026-11-02T19:44:13Z",
   "points": [
    {
     "ids": [
@@ -40,13 +40,14 @@
    },
    {
     "ids": [
+     "ebola-cameroun-inspection-poste-sante-douala",
      "ebola-togo-depistage-thermique-lome",
      "ebola-ghana-kotoka-declaration-electronique",
      "ebola-benin-cameroun-alerte-aeroports",
      "nigeria-45-milliards-biosurveillance-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. FHB et les aéroports de l'intérieur doivent suivre, sans se limiter à la prise de température."
+    "texte": "Les voisins durcissent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Le 2 novembre, le ministre camerounais de la Santé a inspecté le poste sanitaire de Douala, équipé de caméras thermiques et d'analyseurs de laboratoire. FHB et les aéroports de l'intérieur doivent suivre, sans se limiter à la prise de température."
    },
    {
     "ids": [
@@ -58,7 +59,7 @@
     "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025, de quoi nourrir la position de la SODEXAM avant la COP31 qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière d'un A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-02T19:42:00Z"
+  "prochaineCollecte": "2026-11-02T20:42:00Z"
  },
  "items": [
   {
@@ -289,6 +290,25 @@
    "url": "https://riotimesonline.com/ebola-nigeria-cameroon-madagascar-response-2026",
    "zone": "afrique",
    "id": "ebola-benin-cameroun-alerte-aeroports"
+  },
+  {
+   "ajoute": "2026-11-02T19:44:01Z",
+   "date": "2026-11-02",
+   "motscles": [
+    "Ebola",
+    "Douala",
+    "contrôle sanitaire",
+    "points d'entrée"
+   ],
+   "priorite": "veille",
+   "resume": "Le 2 novembre 2026, le ministre de la Santé du Cameroun, Manaouda Malachie, a visité le poste de santé aux frontières de l'aéroport international de Douala pour vérifier le dispositif prévu en cas d'importation d'Ebola. Le poste dispose d'une dizaine de types d'appareils : reconnaissance faciale avec mesure de température, caméras thermiques, analyseurs d'hématologie et de biochimie, microscopes, défibrillateurs, brancards. Le média relève qu'aucune enveloppe spéciale Ebola n'est confirmée à ce stade.",
+   "secteur": "medecine",
+   "sodexam": "Douala sert de point de comparaison pour l'équipement du poste sanitaire de FHB et des aéroports de l'intérieur. Utile pour l'inventaire à demander à l'INHP et à AERIA, y compris la capacité d'analyse sur place.",
+   "source": "237online",
+   "titre": "Ebola : le ministre camerounais de la Santé inspecte le poste sanitaire de l'aéroport de Douala",
+   "url": "https://www.237online.com/ebola-aeroport-douala-riposte/",
+   "zone": "afrique",
+   "id": "ebola-cameroun-inspection-poste-sante-douala"
   },
   {
    "ajoute": "2026-11-01T22:43:47Z",
