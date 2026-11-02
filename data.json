@@ -1,35 +1,10 @@
 {
- "exporte": "2026-11-01T23:56:14Z",
+ "exporte": "2026-11-02T00:56:21Z",
  "briefing": {
-  "date": "2026-11-01",
-  "derniereCollecte": "2026-11-01T23:43:43Z",
-  "genereLe": "2026-11-01T22:44:03Z",
+  "date": "2026-11-02",
+  "derniereCollecte": "2026-11-02T00:43:49Z",
+  "genereLe": "2026-11-02T00:43:49Z",
   "points": [
-   {
-    "ids": [
-     "ebola-nigeria-six-contacts-sortie-quarantaine",
-     "ebola-nigeria-cas-suspect-pilote-retour-kenya",
-     "ebola-nigeria-cas-suspects-adamawa-negatifs",
-     "ebola-rdc-plus-5000-deces",
-     "ebola-ecdc-bilan-10274-cas-62-contacts",
-     "ebola-genomique-lien-entebbe-confirme",
-     "ebola-entebbe-enquete",
-     "ebola-nigeria-declaration",
-     "ebola-ouganda-entebbe-formulaire-localisation",
-     "ebola-kenya-deuxieme-deces",
-     "ebola-kenya-20-contacts-leves-equipages-traces",
-     "ebola-ci-vigilance",
-     "uganda-airlines-entebbe-lagos-accra"
-    ],
-    "texte": "Ebola reste le premier sujet. Le Nigeria n'a toujours qu'un cas confirmé, à Abuja, et six de ses contacts sortent de quarantaine le 1er novembre sans symptôme. Le cas suspect de Yola, négatif, était un pilote parti au Kenya le 14 octobre avec de la fièvre. Le point avec l'INHP, AERIA et les compagnies sur les provenances d'Entebbe, de Nairobi et du Nigeria doit couvrir aussi les équipages."
-   },
-   {
-    "ids": [
-     "ebola-ci-don-6-milliards-psp-equipements",
-     "ebola-ci-vigilance"
-    ],
-    "texte": "Côté ivoirien, le ministère de la Santé a remis le 29 octobre 6 milliards FCFA d'équipements de protection et de dépistage aux districts sanitaires, et associe les Transports au plan de riposte. C'est le moment de demander à l'INHP ce qui revient à FHB et aux aéroports de l'intérieur."
-   },
    {
     "ids": [
      "ebola-usa-declaration",
@@ -37,10 +12,31 @@
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-madagascar-quarantaine-kenya-nigeria",
-     "ebola-reunion-ministres-points-entree",
      "ebola-oms-don622-pas-restriction-voyages"
     ],
-    "texte": "Les restrictions s'étendent malgré l'avis de l'OMS. L'attestation américaine s'applique dès le 3 novembre, l'Arabie saoudite ferme son territoire aux voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies avant le 3 novembre."
+    "texte": "L'attestation sanitaire exigée par les États-Unis entre en vigueur le 3 novembre, alors que l'OMS déconseille toujours les restrictions de voyage. L'Arabie saoudite refuse les voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies d'ici le 3 novembre."
+   },
+   {
+    "ids": [
+     "ebola-nigeria-six-contacts-sortie-quarantaine",
+     "ebola-nigeria-cas-suspect-pilote-retour-kenya",
+     "ebola-nigeria-cas-suspects-adamawa-negatifs",
+     "ebola-nigeria-declaration",
+     "ebola-genomique-lien-entebbe-confirme",
+     "ebola-entebbe-enquete",
+     "ebola-kenya-deuxieme-deces",
+     "ebola-kenya-20-contacts-leves-equipages-traces",
+     "ebola-rdc-plus-5000-deces",
+     "ebola-ecdc-bilan-10274-cas-62-contacts"
+    ],
+    "texte": "Au Nigeria, un seul cas confirmé à Abuja. Six contacts sont sortis de quarantaine le 1er novembre sans symptôme et les cas suspects de l'Adamawa, dont un pilote revenu du Kenya, sont négatifs. Le lien génomique avec Entebbe reste la piste principale : le point avec l'INHP, AERIA et les compagnies sur ces provenances doit couvrir les équipages."
+   },
+   {
+    "ids": [
+     "ebola-ci-don-6-milliards-psp-equipements",
+     "ebola-ci-vigilance"
+    ],
+    "texte": "En Côte d'Ivoire, le ministère de la Santé a remis le 29 octobre 6 milliards FCFA d'équipements de protection et de dépistage aux districts sanitaires et associe les Transports au plan de riposte. Il faut demander à l'INHP ce qui revient à FHB et aux aéroports de l'intérieur."
    },
    {
     "ids": [
@@ -48,23 +44,21 @@
      "ebola-ghana-kotoka-declaration-electronique",
      "ebola-benin-cameroun-alerte-aeroports",
      "nigeria-45-milliards-biosurveillance-aeroports",
-     "ebola-ghana-filtrage-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Les voisins renforcent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. À vérifier que FHB et les aéroports de l'intérieur suivent le mouvement, sans s'en tenir à la prise de température."
+    "texte": "Les voisins durcissent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. FHB et les aéroports de l'intérieur doivent suivre, sans se limiter à la prise de température."
    },
    {
     "ids": [
-     "sodexam-saison-deficitaire",
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025",
-     "air-cote-divoire-a320-bamako-collision-animal",
-     "conakry-aeroport-croissance-nouveau-terminal"
+     "sodexam-saison-deficitaire",
+     "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025, matière utile avant la COP31 qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière d'un A320 d'Air Côte d'Ivoire à Bamako le 23 octobre invite à revoir le péril animalier sur nos aéroports de l'intérieur."
+    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025, de quoi nourrir la position de la SODEXAM avant la COP31 qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière d'un A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-02T00:42:00Z"
+  "prochaineCollecte": "2026-11-02T01:42:00Z"
  },
  "items": [
   {
