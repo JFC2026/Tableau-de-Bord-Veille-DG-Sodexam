@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-03T16:56:27Z",
+ "exporte": "2026-11-03T17:57:20Z",
  "briefing": {
   "date": "2026-11-03",
-  "derniereCollecte": "2026-11-03T16:43:48Z",
-  "genereLe": "2026-11-03T16:43:48Z",
+  "derniereCollecte": "2026-11-03T17:43:44Z",
+  "genereLe": "2026-11-03T17:43:44Z",
   "points": [
    {
     "ids": [
@@ -28,13 +28,13 @@
     "ids": [
      "ebola-africa-cdc-5376-deces",
      "ebola-rdc-plus-5000-deces",
-     "ebola-nigeria-six-contacts-sortie-quarantaine",
+     "ebola-israel-deux-cas-suspects-retour-rdc",
      "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-nigeria-cas-suspects-adamawa-negatifs",
      "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete"
     ],
-    "texte": "Au 2 novembre 2026, l'Africa CDC compte 5 376 décès, dont 5 372 en RDC. Le Nigeria en reste à un cas confirmé et les suspects de l'Adamawa, dont un pilote revenu du Kenya, sont négatifs. Le point avec l'INHP, AERIA et les compagnies doit inclure le suivi des équipages."
+    "texte": "Au 2 novembre 2026, l'Africa CDC compte 5 376 décès, dont 5 372 en RDC. Le Nigeria en reste à un cas confirmé, et Israël a isolé le 3 novembre deux voyageurs fébriles revenus de RDC, en attente de résultats. Ces alertes se déclenchent souvent après l'arrivée : le point avec l'INHP, AERIA et les compagnies doit couvrir la recherche des passagers et le suivi des équipages."
    },
    {
     "ids": [
@@ -58,7 +58,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : matière pour la position de la SODEXAM à la COP31, ouverte le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-03T17:42:00Z"
+  "prochaineCollecte": "2026-11-03T18:42:00Z"
  },
  "items": [
   {
@@ -523,6 +523,26 @@
    "url": "https://www.yahoo.com/news/us/articles/airline-groups-urge-us-cdc-015328258.html",
    "zone": "monde",
    "id": "ebola-iata-a4a-contestent-attestation-cdc"
+  },
+  {
+   "ajoute": "2026-11-03T17:43:32Z",
+   "date": "2026-11-03",
+   "motscles": [
+    "Ebola",
+    "Israël",
+    "RDC",
+    "cas suspects",
+    "voyageurs"
+   ],
+   "priorite": "veille",
+   "resume": "Le ministère israélien de la Santé a annoncé le 3 novembre 2026 l'hospitalisation et l'isolement de deux personnes revenues de RDC avec de la fièvre. Leurs analyses sont en cours aux centres médicaux Sheba et Ichilov. Aucun cas n'est confirmé en Israël à ce stade. L'article ne précise ni le vol ni l'aéroport d'arrivée.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le cas montre que la détection se fait souvent après l'arrivée, d'où l'intérêt de garder à FHB un circuit clair entre le poste sanitaire, l'INHP et les compagnies pour retrouver les passagers d'un vol.",
+   "source": "Jerusalem Post",
+   "titre": "Ebola : Israël isole deux voyageurs fébriles revenus de RDC",
+   "url": "https://www.jpost.com/health-and-wellness/article-913710",
+   "zone": "monde",
+   "id": "ebola-israel-deux-cas-suspects-retour-rdc"
   },
   {
    "ajoute": "2026-10-29T10:44:00Z",
