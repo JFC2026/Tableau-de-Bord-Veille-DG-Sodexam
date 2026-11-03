@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-03T17:57:20Z",
+ "exporte": "2026-11-03T18:58:37Z",
  "briefing": {
   "date": "2026-11-03",
-  "derniereCollecte": "2026-11-03T17:43:44Z",
-  "genereLe": "2026-11-03T17:43:44Z",
+  "derniereCollecte": "2026-11-03T18:44:43Z",
+  "genereLe": "2026-11-03T18:44:43Z",
   "points": [
    {
     "ids": [
@@ -18,11 +18,12 @@
    },
    {
     "ids": [
+     "ebola-kenya-cinq-patients-gueris-52-contacts",
      "ebola-africa-cdc-demande-levee-restrictions-kenya",
      "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-kenya-deuxieme-deces"
     ],
-    "texte": "Le 3 novembre 2026, l'Africa CDC a demandé à l'Arabie saoudite de lever ses restrictions contre le Kenya, qui n'a plus de nouveau cas depuis le 19 octobre et a libéré 46 contacts. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, conformément au RSI."
+    "texte": "Le Kenya a laissé sortir le 3 novembre 2026 cinq patients guéris et n'a plus de nouvelle infection depuis deux semaines ; 52 contacts sortent de quarantaine la semaine prochaine. L'Africa CDC demande à l'Arabie saoudite de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, conformément au RSI."
    },
    {
     "ids": [
@@ -58,7 +59,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : matière pour la position de la SODEXAM à la COP31, ouverte le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-03T18:42:00Z"
+  "prochaineCollecte": "2026-11-03T19:42:00Z"
  },
  "items": [
   {
@@ -562,6 +563,25 @@
    "url": "https://news.un.org/en/story/2026/10/1168676",
    "zone": "afrique",
    "id": "ebola-kenya-20-contacts-leves-equipages-traces"
+  },
+  {
+   "ajoute": "2026-11-03T18:44:26Z",
+   "date": "2026-11-03",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "quarantaine",
+    "contacts"
+   ],
+   "priorite": "veille",
+   "resume": "Le ministère kényan de la Santé a laissé sortir le 3 novembre 2026 cinq patients d'Ebola testés négatifs et sans symptômes. Deux restent hospitalisés. Sur 135 contacts du premier patient, huit ont été testés positifs et un est mort, ce qui porte à deux les décès au Kenya. Un dernier groupe de 52 contacts doit sortir de quarantaine la semaine suivante, sans nouvelle infection depuis deux semaines.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. La situation au Kenya se stabilise, ce qui renforce l'idée de mesures ciblées plutôt que de restrictions générales sur les provenances d'Afrique de l'Est.",
+   "source": "ABC News (AP)",
+   "titre": "Ebola : le Kenya libère cinq patients guéris, 52 contacts encore en quarantaine",
+   "url": "https://abcnews.com/Health/wireStory/kenya-releases-5-ebola-patients-after-negative-tests-137813664",
+   "zone": "afrique",
+   "id": "ebola-kenya-cinq-patients-gueris-52-contacts"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
