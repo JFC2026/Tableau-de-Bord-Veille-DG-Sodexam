@@ -1,53 +1,50 @@
 {
- "exporte": "2026-11-02T23:55:53Z",
+ "exporte": "2026-11-03T00:56:15Z",
  "briefing": {
-  "date": "2026-11-02",
-  "derniereCollecte": "2026-11-02T23:43:37Z",
-  "genereLe": "2026-11-02T19:44:13Z",
+  "date": "2026-11-03",
+  "derniereCollecte": "2026-11-03T00:43:07Z",
+  "genereLe": "2026-11-03T00:43:07Z",
   "points": [
    {
     "ids": [
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
+     "ebola-oms-don622-pas-restriction-voyages",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
-     "ebola-madagascar-quarantaine-kenya-nigeria",
-     "ebola-oms-don622-pas-restriction-voyages"
+     "ebola-madagascar-quarantaine-kenya-nigeria"
     ],
-    "texte": "L'attestation sanitaire exigée par les États-Unis entre en vigueur le 3 novembre, alors que l'OMS déconseille toujours les restrictions de voyage. L'Arabie saoudite refuse les voyageurs venant du Kenya depuis le 30 octobre et Madagascar met en quarantaine les arrivées du Kenya et du Nigeria. L'information des passagers au départ de FHB est à caler avec AERIA et les compagnies d'ici le 3 novembre."
+    "texte": "L'attestation sanitaire Ebola exigée par les États-Unis pour tout passager international s'applique à partir du 3 novembre 2026, malgré l'avis de l'OMS contre les restrictions de voyage. L'Arabie saoudite refuse les voyageurs venant du Kenya et Madagascar met en quarantaine ceux du Kenya et du Nigeria. Il faut vérifier avec AERIA et les compagnies que les passagers au départ de FHB sont bien informés."
    },
    {
     "ids": [
      "ebola-africa-cdc-5376-deces",
+     "ebola-rdc-plus-5000-deces",
      "ebola-nigeria-six-contacts-sortie-quarantaine",
      "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-nigeria-cas-suspects-adamawa-negatifs",
-     "ebola-nigeria-declaration",
      "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete",
-     "ebola-kenya-deuxieme-deces",
-     "ebola-kenya-20-contacts-leves-equipages-traces",
-     "ebola-ecdc-bilan-10274-cas-62-contacts"
+     "ebola-kenya-20-contacts-leves-equipages-traces"
     ],
-    "texte": "L'Africa CDC compte 5 376 décès au 2 novembre, dont 5 372 en RDC, 2 au Kenya et 2 en Ouganda. Le Nigeria reste à un cas confirmé : six contacts sont sortis de quarantaine le 1er novembre et les cas suspects de l'Adamawa sont négatifs. Le point avec l'INHP, AERIA et les compagnies sur ces provenances doit couvrir les équipages."
+    "texte": "Au 2 novembre 2026, l'Africa CDC compte 5 376 décès, dont 5 372 en RDC, 2 au Kenya et 2 en Ouganda. Le Nigeria en reste à un cas confirmé et les suspects de l'Adamawa, dont un pilote revenu du Kenya, sont négatifs. Le point avec l'INHP, AERIA et les compagnies doit inclure le suivi des équipages."
    },
    {
     "ids": [
      "ebola-ci-don-6-milliards-psp-equipements",
      "ebola-ci-vigilance"
     ],
-    "texte": "En Côte d'Ivoire, le ministère de la Santé a remis le 29 octobre 6 milliards FCFA d'équipements de protection et de dépistage aux districts sanitaires et associe les Transports au plan de riposte. Il faut demander à l'INHP ce qui revient à FHB et aux aéroports de l'intérieur."
+    "texte": "Le ministère de la Santé a remis le 29 octobre 2026 pour 6 milliards FCFA d'équipements de protection et de dépistage aux districts sanitaires, avec les Transports associés à la riposte. Reste à savoir auprès de l'INHP ce qui revient à FHB et aux aéroports de l'intérieur."
    },
    {
     "ids": [
      "ebola-cameroun-inspection-poste-sante-douala",
      "ebola-togo-depistage-thermique-lome",
      "ebola-ghana-kotoka-declaration-electronique",
-     "ebola-benin-cameroun-alerte-aeroports",
      "nigeria-45-milliards-biosurveillance-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Les voisins durcissent leurs contrôles : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas votés le 28 octobre par le Nigeria pour cinq aéroports. Le 2 novembre, le ministre camerounais de la Santé a inspecté le poste sanitaire de Douala, équipé de caméras thermiques et d'analyseurs de laboratoire. FHB et les aéroports de l'intérieur doivent suivre, sans se limiter à la prise de température."
+    "texte": "Les pays voisins renforcent leurs postes sanitaires : dépistage thermique à Lomé, déclaration électronique à Kotoka, 45,08 milliards de nairas au Nigeria pour cinq aéroports, poste de Douala inspecté le 2 novembre 2026. FHB et l'intérieur doivent s'aligner, sans s'en tenir à la seule prise de température."
    },
    {
     "ids": [
@@ -56,10 +53,10 @@
      "sodexam-saison-deficitaire",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "Climat : l'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025, de quoi nourrir la position de la SODEXAM avant la COP31 qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière d'un A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : matière pour la position de la SODEXAM à la COP31, ouverte le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-03T00:42:00Z"
+  "prochaineCollecte": "2026-11-03T01:42:00Z"
  },
  "items": [
   {
