@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-03T19:57:36Z",
+ "exporte": "2026-11-03T20:56:20Z",
  "briefing": {
   "date": "2026-11-03",
-  "derniereCollecte": "2026-11-03T19:42:55Z",
-  "genereLe": "2026-11-03T18:44:43Z",
+  "derniereCollecte": "2026-11-03T20:44:11Z",
+  "genereLe": "2026-11-03T20:44:11Z",
   "points": [
    {
     "ids": [
@@ -15,6 +15,19 @@
      "ebola-madagascar-quarantaine-kenya-nigeria"
     ],
     "texte": "L'attestation sanitaire Ebola exigée par les États-Unis pour tout passager international s'applique à partir du 3 novembre 2026, malgré l'avis de l'OMS contre les restrictions de voyage. L'Arabie saoudite refuse les voyageurs venant du Kenya et Madagascar met en quarantaine ceux du Kenya et du Nigeria. Il faut vérifier avec AERIA et les compagnies que les passagers au départ de FHB sont bien informés."
+   },
+   {
+    "ids": [
+     "ebola-ghana-regles-voyage-hotels-signalement",
+     "ebola-ci-don-6-milliards-psp-equipements",
+     "ebola-ci-vigilance",
+     "ebola-ghana-kotoka-declaration-electronique",
+     "ebola-togo-depistage-thermique-lome",
+     "ebola-cameroun-inspection-poste-sante-douala",
+     "nigeria-45-milliards-biosurveillance-aeroports",
+     "ebola-ghana-expert-limites-controle-temperature"
+    ],
+    "texte": "Le Ghana a publié le 3 novembre 2026 des règles d'arrivée complètes : déclaration des séjours sur 21 jours, suivi des arrivants à risque et signalement obligatoire par les hôtels. Lomé, Douala et le Nigeria renforcent aussi leurs postes sanitaires, et le ministère ivoirien de la Santé a remis le 29 octobre 6 milliards FCFA d'équipements. Il reste à fixer avec l'INHP ce qui revient à FHB et à l'intérieur, au-delà de la prise de température."
    },
    {
     "ids": [
@@ -39,18 +52,6 @@
    },
    {
     "ids": [
-     "ebola-ci-don-6-milliards-psp-equipements",
-     "ebola-ci-vigilance",
-     "ebola-cameroun-inspection-poste-sante-douala",
-     "ebola-togo-depistage-thermique-lome",
-     "ebola-ghana-kotoka-declaration-electronique",
-     "nigeria-45-milliards-biosurveillance-aeroports",
-     "ebola-ghana-expert-limites-controle-temperature"
-    ],
-    "texte": "Le ministère de la Santé a remis le 29 octobre 2026 pour 6 milliards FCFA d'équipements aux districts sanitaires, pendant que Lomé, Kotoka, Douala et le Nigeria renforcent leurs postes sanitaires. Reste à savoir auprès de l'INHP ce qui revient à FHB et à l'intérieur, sans s'en tenir à la prise de température."
-   },
-   {
-    "ids": [
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025",
      "sodexam-saison-deficitaire",
@@ -59,7 +60,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : matière pour la position de la SODEXAM à la COP31, ouverte le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-03T20:42:00Z"
+  "prochaineCollecte": "2026-11-03T21:42:00Z"
  },
  "items": [
   {
@@ -504,6 +505,26 @@
    "url": "https://www.ghanamma.com/2026/10/28/ghana-ready-to-respond-to-possible-ebola-outbreak-akandoh/",
    "zone": "afrique",
    "id": "ebola-ghana-kotoka-declaration-electronique"
+  },
+  {
+   "ajoute": "2026-11-03T20:43:56Z",
+   "date": "2026-11-03",
+   "motscles": [
+    "Ebola",
+    "Ghana",
+    "déclaration sanitaire",
+    "suivi 21 jours",
+    "points d'entrée"
+   ],
+   "priorite": "haute",
+   "resume": "Le ministère ghanéen de la Santé a publié le 3 novembre 2026 des règles complètes pour les arrivées dans tous ses aéroports internationaux, qui complètent les mesures annoncées fin octobre à Kotoka. Chaque passager déclare un séjour ou un transit dans un pays touché sur les 21 derniers jours, ainsi que tout contact avec un malade, des funérailles ou des fluides corporels. Les arrivants des pays où le virus circule sont suivis jusqu'à 21 jours par le Ghana Health Service. Les hôtels doivent signaler ces clients au district sanitaire, et les fausses déclarations exposent à des mesures prévues par la loi.",
+   "secteur": "medecine",
+   "sodexam": "C'est le dispositif le plus complet de la sous-région à ce jour, et il couvre ce qui se passe après l'aéroport. Utile comme référence pour le point avec l'INHP sur la déclaration sanitaire et le suivi des arrivants à FHB.",
+   "source": "Pulse Ghana",
+   "titre": "Ebola : le Ghana formalise ses règles d'arrivée et oblige les hôtels à signaler",
+   "url": "https://www.pulse.com.gh/story/ghana-ebola-travel-rules-21-day-monitoring-2026110309490859444",
+   "zone": "afrique",
+   "id": "ebola-ghana-regles-voyage-hotels-signalement"
   },
   {
    "ajoute": "2026-10-29T05:43:41Z",
