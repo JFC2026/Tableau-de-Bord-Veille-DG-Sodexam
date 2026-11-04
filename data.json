@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-03T23:56:29Z",
+ "exporte": "2026-11-04T00:56:23Z",
  "briefing": {
-  "date": "2026-11-03",
-  "derniereCollecte": "2026-11-03T23:42:58Z",
-  "genereLe": "2026-11-03T20:44:11Z",
+  "date": "2026-11-04",
+  "derniereCollecte": "2026-11-04T00:42:51Z",
+  "genereLe": "2026-11-04T00:42:51Z",
   "points": [
    {
     "ids": [
@@ -14,7 +14,7 @@
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-madagascar-quarantaine-kenya-nigeria"
     ],
-    "texte": "L'attestation sanitaire Ebola exigée par les États-Unis pour tout passager international s'applique à partir du 3 novembre 2026, malgré l'avis de l'OMS contre les restrictions de voyage. L'Arabie saoudite refuse les voyageurs venant du Kenya et Madagascar met en quarantaine ceux du Kenya et du Nigeria. Il faut vérifier avec AERIA et les compagnies que les passagers au départ de FHB sont bien informés."
+    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite ferme son entrée aux voyageurs venant du Kenya et Madagascar place en quarantaine ceux du Kenya et du Nigeria. À vérifier avec AERIA et les compagnies : l'information des passagers au départ de FHB."
    },
    {
     "ids": [
@@ -27,7 +27,7 @@
      "nigeria-45-milliards-biosurveillance-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Le Ghana a publié le 3 novembre 2026 des règles d'arrivée complètes : déclaration des séjours sur 21 jours, suivi des arrivants à risque et signalement obligatoire par les hôtels. Lomé, Douala et le Nigeria renforcent aussi leurs postes sanitaires, et le ministère ivoirien de la Santé a remis le 29 octobre 6 milliards FCFA d'équipements. Il reste à fixer avec l'INHP ce qui revient à FHB et à l'intérieur, au-delà de la prise de température."
+    "texte": "Le Ghana a fixé le 3 novembre 2026 ses règles d'arrivée : séjours des 21 derniers jours déclarés, suivi des arrivants à risque, signalement obligatoire par les hôtels. Lomé, Douala et le Nigeria renforcent leurs postes sanitaires, et la Santé ivoirienne a remis le 29 octobre 6 milliards FCFA d'équipements. Reste à arrêter avec l'INHP le rôle de FHB et des aéroports de l'intérieur, au-delà de la prise de température."
    },
    {
     "ids": [
@@ -36,7 +36,7 @@
      "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-kenya-deuxieme-deces"
     ],
-    "texte": "Le Kenya a laissé sortir le 3 novembre 2026 cinq patients guéris et n'a plus de nouvelle infection depuis deux semaines ; 52 contacts sortent de quarantaine la semaine prochaine. L'Africa CDC demande à l'Arabie saoudite de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, conformément au RSI."
+    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026 et ne compte plus de nouvelle infection depuis deux semaines ; 52 contacts doivent sortir de quarantaine la semaine prochaine. L'Africa CDC demande à Riyad de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, comme le prévoit le RSI."
    },
    {
     "ids": [
@@ -48,7 +48,7 @@
      "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete"
     ],
-    "texte": "Au 2 novembre 2026, l'Africa CDC compte 5 376 décès, dont 5 372 en RDC. Le Nigeria en reste à un cas confirmé, et Israël a isolé le 3 novembre deux voyageurs fébriles revenus de RDC, en attente de résultats. Ces alertes se déclenchent souvent après l'arrivée : le point avec l'INHP, AERIA et les compagnies doit couvrir la recherche des passagers et le suivi des équipages."
+    "texte": "L'Africa CDC recensait 5 376 décès au 2 novembre 2026, dont 5 372 en RDC. Le Nigeria en reste à un seul cas confirmé et Israël a isolé le 3 novembre deux voyageurs fébriles revenus de RDC. Ces alertes surviennent souvent après l'arrivée : le point avec l'INHP, AERIA et les compagnies doit couvrir la recherche des passagers et le suivi des équipages."
    },
    {
     "ids": [
@@ -57,10 +57,10 @@
      "sodexam-saison-deficitaire",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : matière pour la position de la SODEXAM à la COP31, ouverte le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-04T00:42:00Z"
+  "prochaineCollecte": "2026-11-04T01:42:00Z"
  },
  "items": [
   {
