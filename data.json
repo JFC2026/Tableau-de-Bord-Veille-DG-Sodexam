@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-04T16:56:10Z",
+ "exporte": "2026-11-04T17:56:42Z",
  "briefing": {
   "date": "2026-11-04",
-  "derniereCollecte": "2026-11-04T16:44:14Z",
-  "genereLe": "2026-11-04T16:44:14Z",
+  "derniereCollecte": "2026-11-04T17:43:46Z",
+  "genereLe": "2026-11-04T17:43:46Z",
   "points": [
    {
     "ids": [
@@ -32,12 +32,13 @@
    },
    {
     "ids": [
+     "ebola-kenya-deputes-lacunes-controle-aeroports",
      "ebola-kenya-cinq-patients-gueris-52-contacts",
      "ebola-africa-cdc-demande-levee-restrictions-kenya",
      "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-kenya-deuxieme-deces"
     ],
-    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026 et ne signale plus de nouveau cas depuis le 20 octobre ; 52 contacts doivent sortir de quarantaine la semaine prochaine. L'Africa CDC demande à Riyad de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, comme le prévoit le RSI."
+    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026, mais le 4 novembre des députés ont dit n'avoir vu aucun contrôle sanitaire à l'aéroport lors d'un vol récent. Un dispositif sur le papier ne suffit pas : un passage inopiné à FHB et dans les aéroports de l'intérieur permettrait de vérifier que les équipes sanitaires sont bien en poste."
    },
    {
     "ids": [
@@ -62,7 +63,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et la mort d'un policier happé par une hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-04T17:42:00Z"
+  "prochaineCollecte": "2026-11-04T18:42:00Z"
  },
  "items": [
   {
@@ -605,6 +606,26 @@
    "url": "https://abcnews.com/Health/wireStory/kenya-releases-5-ebola-patients-after-negative-tests-137813664",
    "zone": "afrique",
    "id": "ebola-kenya-cinq-patients-gueris-52-contacts"
+  },
+  {
+   "ajoute": "2026-11-04T17:43:35Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "points d'entrée",
+    "contrôle sanitaire",
+    "RSI"
+   ],
+   "priorite": "veille",
+   "resume": "Le 4 novembre 2026, la commission parlementaire kényane chargée des textes d'application a examiné les règles Ebola 2026 avec le ministre de la Santé, Aden Duale. Un député dit avoir pris un vol sans voir de contrôle sanitaire à l'aéroport ; un autre juge que les règles négligent les passages frontaliers informels. Le ministre annonce 135 contacts du patient index suivis à 100 % et le maintien du dépistage aux points d'entrée. La commission attend une réponse écrite avant d'approuver les textes.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le cas kényan montre qu'un dispositif annoncé peut ne pas être visible sur le terrain : une vérification inopinée de la présence des équipes sanitaires à FHB et dans les aéroports de l'intérieur serait utile.",
+   "source": "Kenya Today",
+   "titre": "Ebola : des députés kényans pointent des failles du contrôle sanitaire aux aéroports",
+   "url": "https://kenya-today.com/report-mps-flag-gaps-in-ebola-screening-at-kenyan-airports-and-informal-borders-21507/",
+   "zone": "afrique",
+   "id": "ebola-kenya-deputes-lacunes-controle-aeroports"
   },
   {
    "ajoute": "2026-10-27T01:43:30Z",
