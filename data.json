@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-04T14:56:23Z",
+ "exporte": "2026-11-04T15:56:32Z",
  "briefing": {
   "date": "2026-11-04",
-  "derniereCollecte": "2026-11-04T14:43:19Z",
-  "genereLe": "2026-11-04T00:42:51Z",
+  "derniereCollecte": "2026-11-04T15:43:32Z",
+  "genereLe": "2026-11-04T15:43:32Z",
   "points": [
    {
     "ids": [
@@ -55,12 +55,13 @@
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025",
      "sodexam-saison-deficitaire",
-     "air-cote-divoire-a320-bamako-collision-animal"
+     "air-cote-divoire-a320-bamako-collision-animal",
+     "somalie-dhusamareb-helice-mort-tarmac"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre justifie une revue du péril animalier sur nos aéroports de l'intérieur."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et la mort d'un policier happé par une hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-04T15:42:00Z"
+  "prochaineCollecte": "2026-11-04T16:42:00Z"
  },
  "items": [
   {
@@ -1275,6 +1276,25 @@
    "url": "https://www.fratmat.info/article/2645376/societe/cote-divoire-el-nino-fait-craindre-un-deficit-pluviometrique-au-sud-du-pays",
    "zone": "ci",
    "id": "sodexam-saison-deficitaire"
+  },
+  {
+   "ajoute": "2026-11-04T15:43:20Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "sécurité au sol",
+    "hélice",
+    "tarmac",
+    "Somalie"
+   ],
+   "priorite": "veille",
+   "resume": "Dans la nuit du 3 novembre 2026, à l'aéroport de Dhusamareb, au centre de la Somalie, un garde du corps du chef de la police de Mogadiscio a été mortellement heurté par l'hélice d'un avion de STAR Airlines. Il venait de descendre de l'appareil, arrêté sur le tarmac moteurs tournants, pendant le débarquement par escalier mobile. L'article ne fait état d'aucune enquête.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Impact indirect. Bon rappel pour nos aéroports de l'intérieur, où les turbopropulseurs dominent : vérifier les consignes de débarquement moteurs tournants et le balisage des zones d'hélice, surtout pour les vols officiels avec escortes.",
+   "source": "KOACI",
+   "titre": "Somalie : un policier tué par une hélice en rotation à l'aéroport de Dhusamareb",
+   "url": "https://www.koaci.com/article/2026/11/04/somalie/societe/somalie-un-garde-du-corps-tue-par-lhelice-dun-avion-a-laeroport_202261.html",
+   "zone": "afrique",
+   "id": "somalie-dhusamareb-helice-mort-tarmac"
   },
   {
    "ajoute": "2026-10-28T12:55:07Z",
