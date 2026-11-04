@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-04T15:56:32Z",
+ "exporte": "2026-11-04T16:56:10Z",
  "briefing": {
   "date": "2026-11-04",
-  "derniereCollecte": "2026-11-04T15:43:32Z",
-  "genereLe": "2026-11-04T15:43:32Z",
+  "derniereCollecte": "2026-11-04T16:44:14Z",
+  "genereLe": "2026-11-04T16:44:14Z",
   "points": [
    {
     "ids": [
@@ -12,9 +12,10 @@
      "ebola-oms-don622-pas-restriction-voyages",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
-     "ebola-madagascar-quarantaine-kenya-nigeria"
+     "ebola-madagascar-quarantaine-kenya-nigeria",
+     "ebola-koweit-salvador-restrictions-kenya"
     ],
-    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite ferme son entrée aux voyageurs venant du Kenya et Madagascar place en quarantaine ceux du Kenya et du Nigeria. À vérifier avec AERIA et les compagnies : l'information des passagers au départ de FHB."
+    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar et le Salvador filtrent ou ferment l'entrée aux provenances du Kenya. À vérifier avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
    },
    {
     "ids": [
@@ -36,7 +37,7 @@
      "ebola-kenya-20-contacts-leves-equipages-traces",
      "ebola-kenya-deuxieme-deces"
     ],
-    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026 et ne compte plus de nouvelle infection depuis deux semaines ; 52 contacts doivent sortir de quarantaine la semaine prochaine. L'Africa CDC demande à Riyad de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, comme le prévoit le RSI."
+    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026 et ne signale plus de nouveau cas depuis le 20 octobre ; 52 contacts doivent sortir de quarantaine la semaine prochaine. L'Africa CDC demande à Riyad de lever ses restrictions. Nos mesures aux aéroports doivent rester ciblées sur les cas et les contacts, comme le prévoit le RSI."
    },
    {
     "ids": [
@@ -61,7 +62,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et la mort d'un policier happé par une hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-04T16:42:00Z"
+  "prochaineCollecte": "2026-11-04T17:42:00Z"
  },
  "items": [
   {
@@ -624,6 +625,25 @@
    "url": "https://www.medicaldaily.com/kenya-second-ebola-death-entebbe-airport-nigeria-link-480441",
    "zone": "afrique",
    "id": "ebola-kenya-deuxieme-deces"
+  },
+  {
+   "ajoute": "2026-11-04T16:43:59Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "restrictions de voyage",
+    "Kenya",
+    "RSI"
+   ],
+   "priorite": "veille",
+   "resume": "Zawya fait le point le 4 novembre 2026 sur les mesures visant le Kenya et l'Ouganda. Le Koweït a pris des restrictions aériennes contre les voyageurs venant du Kenya, le Salvador déclare inadmissibles les arrivants de huit pays africains dont le Kenya et l'Ouganda, et la Corée du Sud renforce le contrôle sanitaire des arrivées du Kenya. Le Kenya compte 9 cas et 2 décès, sans nouveau cas depuis le 20 octobre ; l'OMS et l'Africa CDC rappellent que les restrictions générales ne sont pas justifiées.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect pour la SODEXAM. La liste des pays qui filtrent les provenances africaines s'allonge : les passagers en correspondance via Abidjan doivent être informés par AERIA et les compagnies avant l'embarquement.",
+   "source": "Zawya",
+   "titre": "Ebola : le Koweït et le Salvador s'ajoutent aux pays qui restreignent les voyageurs du Kenya",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-04:newsml_Zaw3MgnTW:0-zawya-ebola-kenya-uganda-pay-the-price-for-doing-the-right-thing/",
+   "zone": "monde",
+   "id": "ebola-koweit-salvador-restrictions-kenya"
   },
   {
    "ajoute": "2026-10-26T22:44:00Z",
