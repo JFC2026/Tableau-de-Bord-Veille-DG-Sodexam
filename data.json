@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-04T18:55:37Z",
+ "exporte": "2026-11-04T19:55:43Z",
  "briefing": {
   "date": "2026-11-04",
-  "derniereCollecte": "2026-11-04T18:43:26Z",
-  "genereLe": "2026-11-04T17:43:46Z",
+  "derniereCollecte": "2026-11-04T19:43:28Z",
+  "genereLe": "2026-11-04T19:43:28Z",
   "points": [
    {
     "ids": [
@@ -58,12 +58,13 @@
      "omm-bulletin-ges-record-2025",
      "sodexam-saison-deficitaire",
      "air-cote-divoire-a320-bamako-collision-animal",
-     "somalie-dhusamareb-helice-mort-tarmac"
+     "somalie-dhusamareb-helice-mort-tarmac",
+     "paris-greve-dgac-aeroports-5-novembre"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et la mort d'un policier happé par une hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur. La grève DGAC du 5 novembre à Paris peut perturber les rotations vers FHB ce jour-là."
    }
   ],
-  "prochaineCollecte": "2026-11-04T19:42:00Z"
+  "prochaineCollecte": "2026-11-04T20:42:00Z"
  },
  "items": [
   {
@@ -1262,6 +1263,26 @@
    "url": "https://von.gov.ng/uganda-tightens-ebola-control-introduces-21-day-quarantine",
    "zone": "afrique",
    "id": "ouganda-quarantaine-21-jours"
+  },
+  {
+   "ajoute": "2026-11-04T19:43:17Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "grève",
+    "DGAC",
+    "Roissy",
+    "Orly",
+    "Abidjan–Paris"
+   ],
+   "priorite": "veille",
+   "resume": "FO a déposé un préavis pour l'ensemble des personnels de la DGAC, de l'ENAC et du BEA à partir du jeudi 5 novembre 2026, rejoint par d'autres syndicats d'aviation civile et de personnels aéroportuaires de Roissy et d'Orly. Le SNCTA, majoritaire chez les contrôleurs aériens, ne s'y associe pas. La DGAC devait dire le 4 novembre si elle demande aux compagnies de réduire leurs programmes. Lors de la grève du 29 septembre, la réduction demandée avait été de 5 % à Roissy.",
+   "secteur": "aeronautique",
+   "sodexam": "Impact indirect : des retards ou annulations sont possibles sur les rotations Abidjan–Paris du 5 novembre. Il suffit de demander à AERIA de suivre l'information des passagers au départ de FHB.",
+   "source": "Sortiraparis",
+   "titre": "Paris : grève à la DGAC et dans les aéroports le 5 novembre 2026",
+   "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357220-november-5-airport-strike-flights-canceled-at-orly-and-roissy",
+   "zone": "monde",
+   "id": "paris-greve-dgac-aeroports-5-novembre"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
