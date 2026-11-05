@@ -1,22 +1,23 @@
 {
- "exporte": "2026-11-05T03:56:14Z",
+ "exporte": "2026-11-05T04:55:55Z",
  "briefing": {
   "date": "2026-11-05",
-  "derniereCollecte": "2026-11-05T03:42:55Z",
-  "genereLe": "2026-11-05T01:43:55Z",
+  "derniereCollecte": "2026-11-05T04:43:39Z",
+  "genereLe": "2026-11-05T04:43:39Z",
   "points": [
    {
     "ids": [
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
      "ebola-oms-don622-pas-restriction-voyages",
+     "ebola-restrictions-kenya-rsi-article-43-coree-sud",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-madagascar-quarantaine-kenya-nigeria",
      "ebola-koweit-salvador-restrictions-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar et le Salvador filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris, même après une simple escale. À voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
+    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar, le Salvador et désormais la Corée du Sud filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris. Toute mesure ivoirienne devra rester justifiée et notifiée à l'OMS au titre de l'article 43 du RSI ; à voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
    },
    {
     "ids": [
@@ -63,7 +64,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-05T04:42:00Z"
+  "prochaineCollecte": "2026-11-05T05:42:00Z"
  },
  "items": [
   {
@@ -1055,6 +1056,26 @@
    "url": "https://travelmole.com/news/ebola-outbreak-triggers-further-travel-restrictions-across-africa-and-worldwide",
    "zone": "monde",
    "id": "ebola-restrictions-entree-rwanda-arabie-saoudite"
+  },
+  {
+   "ajoute": "2026-11-05T04:43:26Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "RSI article 43",
+    "restrictions de voyage",
+    "Corée du Sud"
+   ],
+   "priorite": "veille",
+   "resume": "Le Kenya compte 9 cas confirmés et 2 décès, tous liés au premier cas importé de RDC, sans nouveau cas depuis le 20 octobre 2026. La Corée du Sud s'ajoute à la liste des pays qui durcissent les contrôles sur les voyageurs venant du Kenya, après l'Arabie saoudite, Madagascar, le Koweït et le Salvador. L'article rappelle que l'article 43 du RSI impose une justification scientifique et une notification à l'OMS pour toute mesure gênant fortement le trafic international ; l'OMS peut contester ces mesures mais pas les faire lever.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Si les autorités ivoiriennes envisagent des mesures aux frontières aériennes, la SODEXAM et AERIA devront appliquer un dispositif conforme au RSI plutôt qu'une restriction générale, et s'assurer qu'il est notifié à l'OMS.",
+   "source": "Zawya",
+   "titre": "Ebola : la Corée du Sud filtre les voyageurs du Kenya, restrictions contestées au regard du RSI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-04:newsml_Zaw3MgnTW:0-zawya-ebola-kenya-uganda-pay-the-price-for-doing-the-right-thing/",
+   "zone": "monde",
+   "id": "ebola-restrictions-kenya-rsi-article-43-coree-sud"
   },
   {
    "ajoute": "2026-10-28T23:43:31Z",
