@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-05T00:56:00Z",
+ "exporte": "2026-11-05T01:55:44Z",
  "briefing": {
   "date": "2026-11-05",
-  "derniereCollecte": "2026-11-05T00:43:36Z",
-  "genereLe": "2026-11-05T00:43:36Z",
+  "derniereCollecte": "2026-11-05T01:43:55Z",
+  "genereLe": "2026-11-05T01:43:55Z",
   "points": [
    {
     "ids": [
@@ -13,9 +13,10 @@
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-restrictions-entree-rwanda-arabie-saoudite",
      "ebola-madagascar-quarantaine-kenya-nigeria",
-     "ebola-koweit-salvador-restrictions-kenya"
+     "ebola-koweit-salvador-restrictions-kenya",
+     "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar et le Salvador filtrent ou ferment l'entrée aux provenances du Kenya. À vérifier avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
+    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar et le Salvador filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris, même après une simple escale. À voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
    },
    {
     "ids": [
@@ -62,7 +63,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-05T01:42:00Z"
+  "prochaineCollecte": "2026-11-05T02:42:00Z"
  },
  "items": [
   {
@@ -1073,6 +1074,25 @@
    "url": "https://infobae.com/america/agencias/2026/10/28/la-ua-y-la-oms-urgen-a-actuar-ante-un-brote-de-ebola-que-supera-los-10000-casos-en-la-rdc",
    "zone": "afrique",
    "id": "ebola-reunion-ministres-points-entree"
+  },
+  {
+   "ajoute": "2026-11-05T01:43:38Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "restrictions de voyage",
+    "escale",
+    "Nigeria"
+   ],
+   "priorite": "veille",
+   "resume": "Le gouvernement de Saint-Kitts-et-Nevis a publié le 4 novembre 2026 son troisième avis Ebola. Les étrangers ayant séjourné dans les 21 jours en RDC, Ouganda, Soudan du Sud, Rwanda, Kenya, Burundi, Nigeria ou Centrafrique ne peuvent plus entrer, y compris après une simple escale dans l'un de ces pays, qu'ils aient quitté l'avion ou non. Les nationaux de retour passent un contrôle renforcé et 21 jours d'auto-quarantaine.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect, mais la règle sur les escales est à retenir : un passager en correspondance à Lagos ou Abuja peut se voir refuser l'entrée ailleurs. À partager avec AERIA et les compagnies pour l'information des passagers à FHB.",
+   "source": "Buckie Got It",
+   "titre": "Ebola : Saint-Kitts-et-Nevis ferme son entrée aux voyageurs passés par huit pays, dont le Nigeria",
+   "url": "https://buckiegotit.com/2026/11/04/government-of-st-kitts-and-nevis-issues-updated-ebola-travel-advisory/",
+   "zone": "monde",
+   "id": "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
   },
   {
    "ajoute": "2026-10-30T10:43:43Z",
