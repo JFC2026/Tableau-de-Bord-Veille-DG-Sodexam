@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-04T23:56:10Z",
+ "exporte": "2026-11-05T00:56:00Z",
  "briefing": {
-  "date": "2026-11-04",
-  "derniereCollecte": "2026-11-04T23:43:21Z",
-  "genereLe": "2026-11-04T21:44:03Z",
+  "date": "2026-11-05",
+  "derniereCollecte": "2026-11-05T00:43:36Z",
+  "genereLe": "2026-11-05T00:43:36Z",
   "points": [
    {
     "ids": [
@@ -35,22 +35,20 @@
      "ebola-kenya-deputes-lacunes-controle-aeroports",
      "ebola-kenya-cinq-patients-gueris-52-contacts",
      "ebola-africa-cdc-demande-levee-restrictions-kenya",
-     "ebola-kenya-20-contacts-leves-equipages-traces",
-     "ebola-kenya-deuxieme-deces"
+     "ebola-kenya-20-contacts-leves-equipages-traces"
     ],
     "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026, mais le 4 novembre des députés ont dit n'avoir vu aucun contrôle sanitaire à l'aéroport lors d'un vol récent. Un dispositif sur le papier ne suffit pas : un passage inopiné à FHB et dans les aéroports de l'intérieur permettrait de vérifier que les équipes sanitaires sont bien en poste."
    },
    {
     "ids": [
+     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-oms-deux-vaccins-bundibugyo-essais",
      "ebola-africa-cdc-5376-deces",
-     "ebola-rdc-plus-5000-deces",
      "ebola-israel-deux-cas-suspects-retour-rdc",
-     "ebola-nigeria-cas-suspect-pilote-retour-kenya",
      "ebola-genomique-lien-entebbe-confirme",
      "ebola-entebbe-enquete"
     ],
-    "texte": "Le 4 novembre 2026, l'OMS a fait entrer deux candidats vaccins contre la souche Bundibugyo dans les essais, sans calendrier de disponibilité. La RDC compte 5 103 décès et plus de 10 000 cas. Faute de vaccin à court terme, la recherche des passagers et le suivi des équipages restent le sujet à traiter avec l'INHP, AERIA et les compagnies."
+    "texte": "Le 4 novembre 2026, l'ECDC a acté la fin de l'épidémie en Ouganda et compté 10 532 cas et 5 126 décès en RDC au 2 novembre ; l'Africa CDC avance 5 376 décès. Le même jour, l'OMS a fait entrer deux candidats vaccins contre la souche Bundibugyo dans les essais, sans calendrier. Avec l'INHP, il faut retenir une source de référence unique et garder le suivi des passagers et des équipages venant de RDC, du Kenya et du Nigeria."
    },
    {
     "ids": [
@@ -61,10 +59,10 @@
      "somalie-dhusamareb-helice-mort-tarmac",
      "paris-greve-dgac-aeroports-5-novembre"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. Côté exploitation, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur. La grève DGAC du 5 novembre à Paris peut perturber les rotations vers FHB ce jour-là."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-05T00:42:00Z"
+  "prochaineCollecte": "2026-11-05T01:42:00Z"
  },
  "items": [
   {
@@ -410,6 +408,26 @@
    "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria",
    "zone": "monde",
    "id": "ebola-ecdc-equipe-nigeria"
+  },
+  {
+   "ajoute": "2026-11-05T00:43:24Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "ECDC",
+    "Ouganda",
+    "RDC",
+    "bilan"
+   ],
+   "priorite": "veille",
+   "resume": "Dans sa mise à jour du 4 novembre 2026, l'ECDC considère l'épidémie terminée en Ouganda. La RDC compte 10 532 cas confirmés et 5 126 décès au 2 novembre, avec une transmission active dans huit provinces. Le Kenya en reste à neuf cas et deux décès, le dernier cas datant du 20 octobre, et le Nigeria à un cas unique. Ces chiffres diffèrent du bilan Africa CDC de 5 376 décès, qui ne repose pas sur le même décompte.",
+   "secteur": "medecine",
+   "sodexam": "La fin de l'épidémie en Ouganda ne change rien pour les provenances de RDC, du Kenya et du Nigeria, qui restent les points à suivre à FHB. Pour les échanges avec l'INHP, mieux vaut citer une seule source de référence afin d'éviter des chiffres contradictoires.",
+   "source": "ECDC",
+   "titre": "Ebola : l'ECDC acte la fin de l'épidémie en Ouganda, 10 532 cas en RDC",
+   "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
+   "zone": "afrique",
+   "id": "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
