@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-05T13:56:57Z",
+ "exporte": "2026-11-05T14:55:53Z",
  "briefing": {
   "date": "2026-11-05",
-  "derniereCollecte": "2026-11-05T13:43:23Z",
-  "genereLe": "2026-11-05T04:43:39Z",
+  "derniereCollecte": "2026-11-05T14:44:45Z",
+  "genereLe": "2026-11-05T14:44:45Z",
   "points": [
    {
     "ids": [
@@ -17,7 +17,7 @@
      "ebola-koweit-salvador-restrictions-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar, le Salvador et désormais la Corée du Sud filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris. Toute mesure ivoirienne devra rester justifiée et notifiée à l'OMS au titre de l'article 43 du RSI ; à voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
+    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar, le Salvador et la Corée du Sud filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris. Toute mesure ivoirienne devra rester justifiée et notifiée à l'OMS au titre de l'article 43 du RSI ; à voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
    },
    {
     "ids": [
@@ -59,12 +59,13 @@
      "sodexam-saison-deficitaire",
      "air-cote-divoire-a320-bamako-collision-animal",
      "somalie-dhusamareb-helice-mort-tarmac",
-     "paris-greve-dgac-aeroports-5-novembre"
+     "paris-greve-dgac-aeroports-5-novembre",
+     "espoir-handicap-panel-transport-aerien-pmr"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre et l'accident d'hélice à Dhusamareb le 3 novembre plaident pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur."
+    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB, et la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre plaide pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur. Le panel d'Espoir Handicap du 18 novembre à Abidjan sur l'accès des personnes handicapées à l'avion mérite une présence SODEXAM, avec un point préalable sur l'assistance PMR dans nos plateformes."
    }
   ],
-  "prochaineCollecte": "2026-11-05T14:42:00Z"
+  "prochaineCollecte": "2026-11-05T15:42:00Z"
  },
  "items": [
   {
@@ -1171,6 +1172,25 @@
    "url": "https://allafrica.com/stories/202610280127.html",
    "zone": "afrique",
    "id": "ebola-zamfara-depistage-aeroport-gusau"
+  },
+  {
+   "ajoute": "2026-11-05T14:44:32Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "PMR",
+    "accessibilité",
+    "handicap",
+    "passagers"
+   ],
+   "priorite": "veille",
+   "resume": "L'ONG Espoir Handicap réunit les acteurs du transport aérien le 18 novembre 2026 à la Bibliothèque nationale, au Plateau, autour de l'accessibilité des personnes handicapées. L'annonce a été faite le 4 novembre 2026. Aucun chiffre ni mesure concrète n'est encore avancé.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Occasion de présenter ce qui existe pour l'assistance aux passagers à mobilité réduite à FHB et dans les aéroports de l'intérieur. À vérifier avant le panel : l'état réel des équipements et procédures PMR sur nos plateformes.",
+   "source": "AIP",
+   "titre": "Abidjan : un panel sur l'accès des personnes handicapées au transport aérien le 18 novembre",
+   "url": "https://www.aip.ci/cote-divoire-aip-long-espoir-handicap-mobilise-les-acteurs-du-transport-aerien-pour-une-meilleure-prise-en-compte-des-personnes-a-mobilite-reduite/",
+   "zone": "ci",
+   "id": "espoir-handicap-panel-transport-aerien-pmr"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
