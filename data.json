@@ -1,21 +1,21 @@
 {
- "exporte": "2026-11-06T04:56:15Z",
+ "exporte": "2026-11-06T05:55:47Z",
  "briefing": {
   "date": "2026-11-06",
-  "derniereCollecte": "2026-11-06T04:43:02Z",
-  "genereLe": "2026-11-06T00:44:12Z",
+  "derniereCollecte": "2026-11-06T05:43:47Z",
+  "genereLe": "2026-11-06T05:43:47Z",
   "points": [
    {
     "ids": [
+     "ebola-oms-tedros-levee-restrictions-voyage",
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
-     "ebola-oms-don622-pas-restriction-voyages",
      "ebola-restrictions-kenya-rsi-article-43-coree-sud",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-koweit-salvador-restrictions-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Les restrictions d'entrée se multiplient malgré l'avis de l'OMS : attestation Ebola exigée par les États-Unis depuis le 3 novembre 2026, filtrage des provenances du Kenya par l'Arabie saoudite, le Koweït et la Corée du Sud, fermeture de Saint-Kitts-et-Nevis aux voyageurs passés par huit pays dont le Nigeria. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43). Avec AERIA et les compagnies, il faut caler l'information des passagers au départ et en correspondance à FHB."
+    "texte": "Le 4 novembre 2026, le directeur général de l'OMS a demandé la levée des restrictions de voyage liées à Ebola. Elles continuent pourtant de s'étendre : attestation exigée par les États-Unis depuis le 3 novembre, filtrage des provenances du Kenya par l'Arabie saoudite, le Koweït et la Corée du Sud, fermeture de Saint-Kitts-et-Nevis. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43) ; avec AERIA et les compagnies, il faut caler l'information des passagers en départ et en correspondance à FHB."
    },
    {
     "ids": [
@@ -31,10 +31,10 @@
     "ids": [
      "ebola-medecin-britannique-evacue-londres",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-africa-cdc-5376-deces",
+     "ebola-oms-tedros-levee-restrictions-voyage",
      "ebola-oms-deux-vaccins-bundibugyo-essais"
     ],
-    "texte": "Le 5 novembre 2026, un médecin britannique contaminé en RDC a été évacué vers Londres. L'ECDC compte 10 532 cas en RDC au 2 novembre et l'épidémie est close en Ouganda. Il serait utile de fixer avec AERIA et l'INHP la procédure à suivre si une évacuation sanitaire à haut risque demande une escale à FHB."
+    "texte": "Le Kenya n'a plus de nouveau cas depuis le 19 octobre et 52 contacts finissent leur suivi d'ici le 11 novembre 2026 ; la RDC dépasse 10 000 cas et l'épidémie est close en Ouganda. Le 5 novembre, un médecin britannique contaminé en RDC a été évacué vers Londres : il serait utile de fixer avec AERIA et l'INHP la procédure si une évacuation sanitaire à haut risque demande une escale à FHB."
    },
    {
     "ids": [
@@ -52,7 +52,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et la SODEXAM annonce une petite saison des pluies déficitaire jusqu'en décembre : deux arguments pour la COP31, qui s'ouvre le 9 novembre 2026 à Antalya. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre plaide pour une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-06T05:42:00Z"
+  "prochaineCollecte": "2026-11-06T06:42:00Z"
  },
  "items": [
   {
@@ -928,6 +928,26 @@
    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
    "zone": "monde",
    "id": "ebola-oms-don622-pas-restriction-voyages"
+  },
+  {
+   "ajoute": "2026-11-06T05:43:33Z",
+   "date": "2026-11-06",
+   "motscles": [
+    "Ebola",
+    "OMS",
+    "RSI",
+    "restrictions de voyage",
+    "Kenya"
+   ],
+   "priorite": "haute",
+   "resume": "Le 4 novembre 2026, Tedros Adhanom Ghebreyesus a demandé aux États de lever les restrictions de voyage liées à Ebola, qui pénalisent selon lui les pays transparents. Au Kenya, neuf cas sont confirmés, aucun nouveau cas depuis le 19 octobre, 46 contacts sont sortis de quarantaine et 52 autres doivent finir leur suivi d'ici le 11 novembre. La RDC dépasse 10 000 cas et 5 000 décès. L'OMS veut ajouter deux candidats vaccins contre la souche Bundibugyo à l'essai en cours.",
+   "secteur": "medecine",
+   "sodexam": "L'OMS reste sur sa ligne : contrôle aux points d'entrée, pas de fermeture. C'est la base à retenir avec l'INHP pour FHB et les aéroports de l'intérieur, et l'argument à opposer à toute pression pour des mesures d'interdiction.",
+   "source": "The Independent (Ouganda)",
+   "titre": "Ebola : le directeur général de l'OMS demande la levée des restrictions de voyage",
+   "url": "https://www.independent.co.ug/who-calls-for-lifting-of-ebola-travel-restrictions/",
+   "zone": "monde",
+   "id": "ebola-oms-tedros-levee-restrictions-voyage"
   },
   {
    "ajoute": "2026-10-27T06:44:30Z",
