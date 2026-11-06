@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-05T23:55:41Z",
+ "exporte": "2026-11-06T00:56:06Z",
  "briefing": {
-  "date": "2026-11-05",
-  "derniereCollecte": "2026-11-05T23:43:10Z",
-  "genereLe": "2026-11-05T14:44:45Z",
+  "date": "2026-11-06",
+  "derniereCollecte": "2026-11-06T00:44:12Z",
+  "genereLe": "2026-11-06T00:44:12Z",
   "points": [
    {
     "ids": [
@@ -12,60 +12,47 @@
      "ebola-oms-don622-pas-restriction-voyages",
      "ebola-restrictions-kenya-rsi-article-43-coree-sud",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
-     "ebola-restrictions-entree-rwanda-arabie-saoudite",
-     "ebola-madagascar-quarantaine-kenya-nigeria",
      "ebola-koweit-salvador-restrictions-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 3 novembre 2026, les États-Unis exigent une attestation sanitaire Ebola de tout passager international, alors que l'OMS déconseille les restrictions de voyage. L'Arabie saoudite, le Koweït, Madagascar, le Salvador et la Corée du Sud filtrent les provenances du Kenya, et Saint-Kitts-et-Nevis refuse depuis le 4 novembre les étrangers passés par huit pays, Nigeria compris. Toute mesure ivoirienne devra rester justifiée et notifiée à l'OMS au titre de l'article 43 du RSI ; à voir avec AERIA et les compagnies : l'information des passagers au départ et en correspondance à FHB."
+    "texte": "Les restrictions d'entrée se multiplient malgré l'avis de l'OMS : attestation Ebola exigée par les États-Unis depuis le 3 novembre 2026, filtrage des provenances du Kenya par l'Arabie saoudite, le Koweït et la Corée du Sud, fermeture de Saint-Kitts-et-Nevis aux voyageurs passés par huit pays dont le Nigeria. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43). Avec AERIA et les compagnies, il faut caler l'information des passagers au départ et en correspondance à FHB."
    },
    {
     "ids": [
      "ebola-ghana-regles-voyage-hotels-signalement",
      "ebola-ci-don-6-milliards-psp-equipements",
-     "ebola-ci-vigilance",
-     "ebola-ghana-kotoka-declaration-electronique",
      "ebola-togo-depistage-thermique-lome",
-     "ebola-cameroun-inspection-poste-sante-douala",
-     "nigeria-45-milliards-biosurveillance-aeroports",
+     "ebola-kenya-deputes-lacunes-controle-aeroports",
      "ebola-ghana-expert-limites-controle-temperature"
     ],
-    "texte": "Le Ghana a fixé le 3 novembre 2026 ses règles d'arrivée : séjours des 21 derniers jours déclarés, suivi des arrivants à risque, signalement obligatoire par les hôtels. Lomé, Douala et le Nigeria renforcent leurs postes sanitaires, et la Santé ivoirienne a remis le 29 octobre 6 milliards FCFA d'équipements. Reste à arrêter avec l'INHP le rôle de FHB et des aéroports de l'intérieur, au-delà de la prise de température."
+    "texte": "Le Ghana, le Togo, le Cameroun et le Nigeria ont durci leurs contrôles aux aéroports, et des députés kényans ont constaté le 4 novembre 2026 l'absence de contrôle sanitaire sur un vol. Reste à arrêter avec l'INHP le rôle de FHB et des aéroports de l'intérieur au-delà de la prise de température, et à vérifier sur place que les équipes sont en poste."
    },
    {
     "ids": [
-     "ebola-kenya-deputes-lacunes-controle-aeroports",
-     "ebola-kenya-cinq-patients-gueris-52-contacts",
-     "ebola-africa-cdc-demande-levee-restrictions-kenya",
-     "ebola-kenya-20-contacts-leves-equipages-traces"
-    ],
-    "texte": "Le Kenya a laissé sortir cinq patients guéris le 3 novembre 2026, mais le 4 novembre des députés ont dit n'avoir vu aucun contrôle sanitaire à l'aéroport lors d'un vol récent. Un dispositif sur le papier ne suffit pas : un passage inopiné à FHB et dans les aéroports de l'intérieur permettrait de vérifier que les équipes sanitaires sont bien en poste."
-   },
-   {
-    "ids": [
+     "ebola-medecin-britannique-evacue-londres",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-oms-deux-vaccins-bundibugyo-essais",
      "ebola-africa-cdc-5376-deces",
-     "ebola-israel-deux-cas-suspects-retour-rdc",
-     "ebola-genomique-lien-entebbe-confirme",
-     "ebola-entebbe-enquete"
+     "ebola-oms-deux-vaccins-bundibugyo-essais"
     ],
-    "texte": "Le 4 novembre 2026, l'ECDC a acté la fin de l'épidémie en Ouganda et compté 10 532 cas et 5 126 décès en RDC au 2 novembre ; l'Africa CDC avance 5 376 décès. Le même jour, l'OMS a fait entrer deux candidats vaccins contre la souche Bundibugyo dans les essais, sans calendrier. Avec l'INHP, il faut retenir une source de référence unique et garder le suivi des passagers et des équipages venant de RDC, du Kenya et du Nigeria."
+    "texte": "Le 5 novembre 2026, un médecin britannique contaminé en RDC a été évacué vers Londres. L'ECDC compte 10 532 cas en RDC au 2 novembre et l'épidémie est close en Ouganda. Il serait utile de fixer avec AERIA et l'INHP la procédure à suivre si une évacuation sanitaire à haut risque demande une escale à FHB."
+   },
+   {
+    "ids": [
+     "europe-alertes-bombe-16-vols-5-novembre"
+    ],
+    "texte": "Au moins 16 vols européens ont reçu de fausses alertes à la bombe le 5 novembre 2026, après une première vague le 3 novembre ; déroutements et piste fermée à Varsovie, sans explosif trouvé. Bon moment pour vérifier que le PARSA couvre le traitement des menaces par canular sur nos plateformes."
    },
    {
     "ids": [
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025",
      "sodexam-saison-deficitaire",
-     "air-cote-divoire-a320-bamako-collision-animal",
-     "somalie-dhusamareb-helice-mort-tarmac",
-     "paris-greve-dgac-aeroports-5-novembre",
-     "espoir-handicap-panel-transport-aerien-pmr"
+     "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et relève 426,8 ppm de CO2 en 2025 : de quoi nourrir la position de la SODEXAM à la COP31, qui s'ouvre le 9 novembre à Antalya. La grève DGAC du 5 novembre 2026 à Paris peut perturber les rotations vers FHB, et la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre plaide pour une revue de la sécurité côté piste sur nos aéroports de l'intérieur. Le panel d'Espoir Handicap du 18 novembre à Abidjan sur l'accès des personnes handicapées à l'avion mérite une présence SODEXAM, avec un point préalable sur l'assistance PMR dans nos plateformes."
+    "texte": "L'OMM n'exclut pas un El Niño record et la SODEXAM annonce une petite saison des pluies déficitaire jusqu'en décembre : deux arguments pour la COP31, qui s'ouvre le 9 novembre 2026 à Antalya. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre plaide pour une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-06T00:42:00Z"
+  "prochaineCollecte": "2026-11-06T01:42:00Z"
  },
  "items": [
   {
@@ -728,6 +715,25 @@
    "id": "ebola-madagascar-quarantaine-kenya-nigeria"
   },
   {
+   "ajoute": "2026-11-06T00:43:56Z",
+   "date": "2026-11-05",
+   "motscles": [
+    "Ebola",
+    "évacuation sanitaire",
+    "RDC",
+    "Royaume-Uni"
+   ],
+   "priorite": "veille",
+   "resume": "Un médecin britannique qui travaillait sur l'épidémie en RDC a été testé positif à Ebola. Il a été rapatrié le 5 novembre 2026 par évacuation sanitaire et placé en unité d'isolement au Royal Free Hospital de Londres, sous escorte policière à l'arrivée. La dépêche ne donne ni le trajet aérien ni de bilan de l'épidémie.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le cas rappelle que FHB peut recevoir une demande d'escale ou de transit pour une évacuation sanitaire à haut risque : il faut savoir qui l'autorise et où l'appareil est stationné, à voir avec AERIA et l'INHP.",
+   "source": "Reuters",
+   "titre": "Ebola : un médecin britannique contaminé en RDC évacué vers Londres",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/05/uk-doctor-with-ebola-evacuated-from-congo-to-london-for-treatment",
+   "zone": "monde",
+   "id": "ebola-medecin-britannique-evacue-londres"
+  },
+  {
    "ajoute": "2026-11-01T12:43:46Z",
    "date": "2026-11-01",
    "motscles": [
@@ -1191,6 +1197,25 @@
    "url": "https://www.aip.ci/cote-divoire-aip-long-espoir-handicap-mobilise-les-acteurs-du-transport-aerien-pour-une-meilleure-prise-en-compte-des-personnes-a-mobilite-reduite/",
    "zone": "ci",
    "id": "espoir-handicap-panel-transport-aerien-pmr"
+  },
+  {
+   "ajoute": "2026-11-06T00:43:56Z",
+   "date": "2026-11-05",
+   "motscles": [
+    "sûreté",
+    "alerte à la bombe",
+    "Annexe 17",
+    "Europe"
+   ],
+   "priorite": "veille",
+   "resume": "Le 5 novembre 2026, au moins 16 vols européens ont reçu des menaces à la bombe, dont des appareils d'Aer Lingus, Finnair, Ryanair, Wizz Air, LOT et Aegean. Plusieurs ont été déroutés, dont un A320 d'Aer Lingus posé à Évreux avec 157 personnes à bord, et une piste a été fermée un temps à Varsovie. Aucun explosif n'a été trouvé à la mi-journée et aucun auteur n'était identifié. Une première vague avait visé au moins sept vols le 3 novembre.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Pas de lien direct avec nos plateformes. C'est l'occasion de vérifier que le PARSA traite bien la menace par canular : évaluation rapide de la crédibilité, zone isolée pour l'avion suspect, coordination avec la Gendarmerie et les démineurs.",
+   "source": "Armees.com",
+   "titre": "Europe : au moins 16 vols visés par de fausses alertes à la bombe",
+   "url": "https://armees.com/alertes-bombe-europe-16-vols-perturbes-5-novembre-2026/",
+   "zone": "monde",
+   "id": "europe-alertes-bombe-16-vols-5-novembre"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
