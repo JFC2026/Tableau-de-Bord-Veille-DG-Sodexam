@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-06T16:55:52Z",
+ "exporte": "2026-11-06T17:56:15Z",
  "briefing": {
   "date": "2026-11-06",
-  "derniereCollecte": "2026-11-06T16:43:14Z",
-  "genereLe": "2026-11-06T05:43:47Z",
+  "derniereCollecte": "2026-11-06T17:44:13Z",
+  "genereLe": "2026-11-06T17:44:13Z",
   "points": [
    {
     "ids": [
@@ -29,18 +29,18 @@
    },
    {
     "ids": [
-     "ebola-medecin-britannique-evacue-londres",
-     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-oms-tedros-levee-restrictions-voyage",
-     "ebola-oms-deux-vaccins-bundibugyo-essais"
+     "sodexam-exercice-crise-san-pedro",
+     "europe-alertes-bombe-16-vols-5-novembre"
     ],
-    "texte": "Le Kenya n'a plus de nouveau cas depuis le 19 octobre et 52 contacts finissent leur suivi d'ici le 11 novembre 2026 ; la RDC dépasse 10 000 cas et l'épidémie est close en Ouganda. Le 5 novembre, un médecin britannique contaminé en RDC a été évacué vers Londres : il serait utile de fixer avec AERIA et l'INHP la procédure si une évacuation sanitaire à haut risque demande une escale à FHB."
+    "texte": "La SODEXAM a mené le 5 novembre 2026 à San Pedro un exercice de crise complet, dont une alerte à la bombe et un sabotage d'aide à la navigation, le jour même où au moins 16 vols européens recevaient de fausses alertes. Il faut maintenant un retour d'expérience écrit avec un plan d'actions daté, puis le même exercice à Bouaké, Korhogo et Yamoussoukro."
    },
    {
     "ids": [
-     "europe-alertes-bombe-16-vols-5-novembre"
+     "ebola-medecin-britannique-evacue-londres",
+     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
+     "ebola-oms-deux-vaccins-bundibugyo-essais"
     ],
-    "texte": "Au moins 16 vols européens ont reçu de fausses alertes à la bombe le 5 novembre 2026, après une première vague le 3 novembre ; déroutements et piste fermée à Varsovie, sans explosif trouvé. Bon moment pour vérifier que le PARSA couvre le traitement des menaces par canular sur nos plateformes."
+    "texte": "Le Kenya n'a plus de nouveau cas depuis le 19 octobre et 52 contacts finissent leur suivi d'ici le 11 novembre 2026 ; la RDC dépasse 10 000 cas et l'épidémie est close en Ouganda. Le 5 novembre, un médecin britannique contaminé en RDC a été évacué vers Londres : il serait utile de fixer avec AERIA et l'INHP la procédure si une évacuation sanitaire à haut risque demande une escale à FHB."
    },
    {
     "ids": [
@@ -52,7 +52,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et la SODEXAM annonce une petite saison des pluies déficitaire jusqu'en décembre : deux arguments pour la COP31, qui s'ouvre le 9 novembre 2026 à Antalya. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre plaide pour une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-06T17:42:00Z"
+  "prochaineCollecte": "2026-11-06T18:42:00Z"
  },
  "items": [
   {
@@ -1463,6 +1463,26 @@
    "url": "https://faso7.com/2026/10/22/aeroport-international-de-ouagadougou-la-safa-renforce-la-preparation-aux-situations-durgence/",
    "zone": "afrique",
    "id": "safa-plan-urgence"
+  },
+  {
+   "ajoute": "2026-11-06T17:43:57Z",
+   "date": "2026-11-06",
+   "motscles": [
+    "exercice de crise",
+    "San Pedro",
+    "sûreté",
+    "PARSA",
+    "plan d'urgence"
+   ],
+   "priorite": "haute",
+   "resume": "Le 5 novembre 2026, la SODEXAM a conduit à San Pedro un exercice général de gestion de crise baptisé « Bah Dihonké ». Cinq scénarios ont été joués : accident d'avion avec incendie, sabotage terroriste d'une aide à la navigation, rassemblement de riverains, accueil de journalistes et d'officiels, alerte à la bombe sur le parking. Le centre de direction des opérations d'urgence a été activé, avec l'ONPC parmi les intervenants. Le directeur de la sûreté et de la sécurité aéroportuaires juge le dispositif satisfaisant.",
+   "secteur": "aeroportuaire",
+   "sodexam": "Exercice utile au regard des fausses alertes à la bombe qui touchent l'Europe depuis le 3 novembre. Il reste à formaliser le retour d'expérience, avec un plan d'actions daté, et à programmer le même exercice sur les autres aéroports de l'intérieur.",
+   "source": "AIP",
+   "titre": "La SODEXAM teste son dispositif de gestion de crise à l'aéroport de San Pedro",
+   "url": "https://www.aip.ci/cote-divoire-aip-la-sodexam-teste-son-dispositif-de-gestion-de-crise-a-laeroport-a-san-pedro/",
+   "zone": "ci",
+   "id": "sodexam-exercice-crise-san-pedro"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
