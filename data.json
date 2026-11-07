@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-07T22:56:15Z",
+ "exporte": "2026-11-07T23:56:18Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T22:43:49Z",
-  "genereLe": "2026-11-07T16:43:22Z",
+  "derniereCollecte": "2026-11-07T23:43:28Z",
+  "genereLe": "2026-11-07T23:43:28Z",
   "points": [
    {
     "ids": [
@@ -11,12 +11,12 @@
      "ebola-oms-don625-rdc-10668-cas",
      "ebola-madagascar-leve-quarantaine-kenya-nigeria",
      "ebola-usa-declaration",
-     "ebola-iata-a4a-contestent-attestation-cdc",
+     "ebola-emirates-attestation-cdc-papier-18-decembre",
      "ebola-restrictions-kenya-rsi-article-43-coree-sud",
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "L'OMS a demandé le 4 novembre 2026 la levée des restrictions de voyage liées à Ebola et l'a redit dans son bulletin du 6 novembre. Madagascar a suivi le 6 novembre. Les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts gardent leurs mesures. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43), et l'information des passagers en correspondance à FHB calée avec AERIA et les compagnies."
+    "texte": "L'OMS a demandé le 4 novembre 2026 la levée des restrictions de voyage liées à Ebola et l'a redit le 6 novembre. Madagascar a suivi, mais les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts gardent leurs mesures. L'attestation américaine doit être imprimée chez Emirates et court jusqu'au 18 décembre 2026 : l'information des passagers en correspondance à FHB est à caler avec AERIA et les compagnies. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43)."
    },
    {
     "ids": [
@@ -56,7 +56,7 @@
     "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya, avec trois rapports OMM du 9 au 11 novembre. Avec un El Niño possiblement record et une petite saison des pluies déficitaire annoncée par la SODEXAM, ces données serviront à étayer le programme A et les dossiers FVC et SOFF. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T23:42:00Z"
+  "prochaineCollecte": "2026-11-08T00:42:00Z"
  },
  "items": [
   {
@@ -441,6 +441,26 @@
    "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
    "zone": "afrique",
    "id": "ebola-ecdc-rdc-10741-cas-5230-deces"
+  },
+  {
+   "ajoute": "2026-11-07T23:43:14Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "Ebola",
+    "Emirates",
+    "CDC",
+    "attestation",
+    "correspondance"
+   ],
+   "priorite": "veille",
+   "resume": "Emirates a mis à jour son avis le 4 novembre 2026 : tout passager vers les États-Unis, y compris en correspondance à Dubaï, doit présenter l'attestation du gouvernement américain imprimée, remplie et signée. Une copie numérique ne suffit pas, et le contrôle peut se faire à l'enregistrement ou à la porte. L'attestation porte sur un séjour en RDC dans les 21 jours avant l'embarquement. L'ordre du CDC court jusqu'au 18 décembre 2026, sauf modification. Cet article précise les modalités de la mesure américaine déjà suivie.",
+   "secteur": "aeronautique",
+   "sodexam": "Les passagers partant d'Abidjan vers les États-Unis via Dubaï ou une autre escale risquent un refus d'embarquement s'ils n'ont pas le formulaire papier. À signaler à AERIA pour l'information passagers à FHB, en notant l'échéance du 18 décembre.",
+   "source": "Travel And Tour World",
+   "titre": "Ebola : Emirates exige l'attestation CDC imprimée pour tout passager vers les États-Unis",
+   "url": "https://www.travelandtourworld.com/news/article/jklc9pzil1im/",
+   "zone": "monde",
+   "id": "ebola-emirates-attestation-cdc-papier-18-decembre"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
