@@ -1,13 +1,14 @@
 {
- "exporte": "2026-11-07T14:56:25Z",
+ "exporte": "2026-11-07T15:56:13Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T14:42:54Z",
-  "genereLe": "2026-11-07T11:43:45Z",
+  "derniereCollecte": "2026-11-07T15:43:40Z",
+  "genereLe": "2026-11-07T15:43:40Z",
   "points": [
    {
     "ids": [
      "ebola-oms-tedros-levee-restrictions-voyage",
+     "ebola-oms-don625-rdc-10668-cas",
      "ebola-madagascar-leve-quarantaine-kenya-nigeria",
      "ebola-usa-declaration",
      "ebola-iata-a4a-contestent-attestation-cdc",
@@ -15,7 +16,16 @@
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "L'OMS a demandé le 4 novembre 2026 la levée des restrictions de voyage liées à Ebola. Madagascar a suivi le 6 novembre en remplaçant la quarantaine des voyageurs du Kenya et du Nigeria par un engagement écrit et un suivi téléphonique. Les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts gardent leurs mesures. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43), et l'information des passagers en correspondance à FHB calée avec AERIA et les compagnies."
+    "texte": "L'OMS a demandé le 4 novembre 2026 la levée des restrictions de voyage liées à Ebola et l'a redit dans son bulletin du 6 novembre. Madagascar a suivi le 6 novembre. Les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts gardent leurs mesures. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43), et l'information des passagers en correspondance à FHB calée avec AERIA et les compagnies."
+   },
+   {
+    "ids": [
+     "ebola-oms-don625-rdc-10668-cas",
+     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
+     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
+     "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
+    ],
+    "texte": "Au 3 novembre 2026, l'OMS compte 10 668 cas et 5 198 décès en RDC, dont 1 463 cas sur 21 jours. Le Kenya n'a plus de nouveau cas depuis le 19 octobre et l'Ouganda est sorti de l'épidémie, mais la RDC reste très active : le dispositif sanitaire de FHB est à maintenir."
    },
    {
     "ids": [
@@ -39,22 +49,13 @@
      "omm-cop31-programme-alerte-precoce",
      "omm-el-nino-record",
      "omm-bulletin-ges-record-2025",
-     "sodexam-saison-deficitaire"
-    ],
-    "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya. L'OMM y publiera l'état du climat mondial (9 novembre), l'état de l'observation du climat (10 novembre) et le rapport sur l'alerte précoce (11 novembre). Avec un El Niño possiblement record et une petite saison des pluies déficitaire annoncée par la SODEXAM, ces données serviront à étayer le programme A et les dossiers FVC et SOFF."
-   },
-   {
-    "ids": [
-     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
-     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-kenya-sixieme-guerison-760000-voyageurs-controles",
-     "ebola-medecin-britannique-evacue-londres",
+     "sodexam-saison-deficitaire",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "En RDC, la revue de riposte de Kisangani constate le 7 novembre 2026 une baisse des cas, avec une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda. Le Kenya compte six guérisons au 6 novembre, mais le compte à rebours de 42 jours n'a pas commencé : le dispositif sanitaire de FHB reste à maintenir. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
+    "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya, avec trois rapports OMM du 9 au 11 novembre. Avec un El Niño possiblement record et une petite saison des pluies déficitaire annoncée par la SODEXAM, ces données serviront à étayer le programme A et les dossiers FVC et SOFF. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T15:42:00Z"
+  "prochaineCollecte": "2026-11-07T16:42:00Z"
  },
  "items": [
   {
@@ -969,6 +970,26 @@
    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
    "zone": "monde",
    "id": "ebola-oms-don622-pas-restriction-voyages"
+  },
+  {
+   "ajoute": "2026-11-07T15:43:25Z",
+   "date": "2026-11-06",
+   "motscles": [
+    "Ebola",
+    "OMS",
+    "RDC",
+    "points d'entrée",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "Dans son bulletin du 6 novembre, l'OMS compte au 3 novembre 10 668 cas confirmés et 5 198 décès en RDC, dont 1 463 nouveaux cas sur les 21 derniers jours, avec une transmission active dans 51 zones de santé. Le Kenya reste à 9 cas et 2 décès, sans nouveau cas depuis le 19 octobre, et le Nigeria à un cas importé avec 62 contacts. Aucun nouveau pays n'est touché depuis le bulletin du 23 octobre. L'OMS déconseille toujours de restreindre les voyages et demande une surveillance aux points d'entrée. Ces chiffres actualisent ceux du bulletin précédent et du relevé ECDC.",
+   "secteur": "medecine",
+   "sodexam": "L'épidémie ralentit hors de RDC mais reste très active en RDC : pas de raison d'alléger le dispositif sanitaire de FHB. Toute mesure au-delà du contrôle aux points d'entrée devra rester conforme au RSI.",
+   "source": "OMS",
+   "titre": "Ebola : l'OMS recense 10 668 cas en RDC et maintient sa position sur les voyages",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+   "zone": "monde",
+   "id": "ebola-oms-don625-rdc-10668-cas"
   },
   {
    "ajoute": "2026-11-06T05:43:33Z",
