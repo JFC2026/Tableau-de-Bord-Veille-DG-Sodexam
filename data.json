@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-07T10:55:55Z",
+ "exporte": "2026-11-07T11:56:22Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T10:43:57Z",
-  "genereLe": "2026-11-07T07:43:51Z",
+  "derniereCollecte": "2026-11-07T11:43:45Z",
+  "genereLe": "2026-11-07T11:43:45Z",
   "points": [
    {
     "ids": [
@@ -47,13 +47,14 @@
     "ids": [
      "ebola-rdc-kisangani-revue-riposte-baisse-cas",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
+     "ebola-kenya-sixieme-guerison-760000-voyageurs-controles",
      "ebola-medecin-britannique-evacue-londres",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "En RDC, la revue de riposte de Kisangani constate le 7 novembre 2026 une baisse des cas, avec une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda. Le dispositif sanitaire de FHB reste à maintenir. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
+    "texte": "En RDC, la revue de riposte de Kisangani constate le 7 novembre 2026 une baisse des cas, avec une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda. Le Kenya compte six guérisons au 6 novembre, mais le compte à rebours de 42 jours n'a pas commencé : le dispositif sanitaire de FHB reste à maintenir. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T11:42:00Z"
+  "prochaineCollecte": "2026-11-07T12:42:00Z"
  },
  "items": [
   {
@@ -656,6 +657,25 @@
    "url": "https://www.medicaldaily.com/kenya-second-ebola-death-entebbe-airport-nigeria-link-480441",
    "zone": "afrique",
    "id": "ebola-kenya-deuxieme-deces"
+  },
+  {
+   "ajoute": "2026-11-07T11:43:33Z",
+   "date": "2026-11-06",
+   "motscles": [
+    "Ebola",
+    "Kenya",
+    "points d'entrée",
+    "quarantaine"
+   ],
+   "priorite": "veille",
+   "resume": "Le ministère kényan de la Santé a annoncé le 6 novembre 2026 une sixième guérison. Le pays compte 9 cas confirmés, dont 2 décès, tous rattachés à une seule chaîne de transmission, et un patient encore hospitalisé. 66 contacts ont terminé leurs 21 jours de suivi et 52 doivent sortir de quarantaine d'ici le 11 novembre. Plus de 760 000 voyageurs ont été contrôlés sur les 26 points d'entrée. Ce bilan actualise celui du 3 novembre (cinq guérisons).",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. Le compte à rebours de 42 jours avant la fin de l'épidémie n'a pas commencé : les mesures appliquées aux provenances du Kenya à FHB restent à maintenir jusqu'à nouvel avis de l'INHP.",
+   "source": "Kenyans.co.ke",
+   "titre": "Ebola : sixième guérison au Kenya, plus de 760 000 voyageurs contrôlés aux frontières",
+   "url": "https://www.kenyans.co.ke/news/129197-kenya-records-6th-ebola-recovery-ministry-outlines-42-day-countdown-ending-outbreak",
+   "zone": "afrique",
+   "id": "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
   },
   {
    "ajoute": "2026-11-04T16:43:59Z",
