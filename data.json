@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-07T15:56:13Z",
+ "exporte": "2026-11-07T16:56:15Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T15:43:40Z",
-  "genereLe": "2026-11-07T15:43:40Z",
+  "derniereCollecte": "2026-11-07T16:43:22Z",
+  "genereLe": "2026-11-07T16:43:22Z",
   "points": [
    {
     "ids": [
@@ -20,12 +20,13 @@
    },
    {
     "ids": [
+     "ebola-ecdc-rdc-10741-cas-5230-deces",
      "ebola-oms-don625-rdc-10668-cas",
      "ebola-rdc-kisangani-revue-riposte-baisse-cas",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "Au 3 novembre 2026, l'OMS compte 10 668 cas et 5 198 décès en RDC, dont 1 463 cas sur 21 jours. Le Kenya n'a plus de nouveau cas depuis le 19 octobre et l'Ouganda est sorti de l'épidémie, mais la RDC reste très active : le dispositif sanitaire de FHB est à maintenir."
+    "texte": "Selon l'ECDC, la RDC compte 10 741 cas et 5 230 décès au 5 novembre 2026, dans huit provinces. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie, mais la transmission reste active en RDC : le dispositif sanitaire de FHB est à maintenir."
    },
    {
     "ids": [
@@ -55,7 +56,7 @@
     "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya, avec trois rapports OMM du 9 au 11 novembre. Avec un El Niño possiblement record et une petite saison des pluies déficitaire annoncée par la SODEXAM, ces données serviront à étayer le programme A et les dossiers FVC et SOFF. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T16:42:00Z"
+  "prochaineCollecte": "2026-11-07T17:42:00Z"
  },
  "items": [
   {
@@ -421,6 +422,25 @@
    "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
    "zone": "afrique",
    "id": "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas"
+  },
+  {
+   "ajoute": "2026-11-07T16:43:11Z",
+   "date": "2026-11-06",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "ECDC",
+    "bilan"
+   ],
+   "priorite": "veille",
+   "resume": "Dans sa mise à jour du 6 novembre 2026, l'ECDC recense 10 741 cas confirmés et 5 230 décès en RDC au 5 novembre, dans huit provinces, avec une transmission communautaire toujours active. Le Kenya reste à neuf cas et deux décès, sans nouveau cas depuis le 20 octobre. Le cas nigérian évacué en Suisse a 62 contacts suivis au 4 novembre. L'Ouganda est sorti de l'épidémie.",
+   "secteur": "medecine",
+   "sodexam": "Ces chiffres prolongent ceux de l'OMS au 3 novembre : la RDC progresse encore d'environ 70 cas en deux jours. Pas de changement de posture à FHB, mais le dispositif sanitaire reste justifié.",
+   "source": "ECDC",
+   "titre": "Ebola : l'ECDC compte 10 741 cas et 5 230 décès en RDC",
+   "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
+   "zone": "afrique",
+   "id": "ebola-ecdc-rdc-10741-cas-5230-deces"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
