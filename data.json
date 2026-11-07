@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-07T06:56:21Z",
+ "exporte": "2026-11-07T07:55:56Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T06:43:48Z",
-  "genereLe": "2026-11-07T03:43:18Z",
+  "derniereCollecte": "2026-11-07T07:43:51Z",
+  "genereLe": "2026-11-07T07:43:51Z",
   "points": [
    {
     "ids": [
@@ -36,24 +36,24 @@
    },
    {
     "ids": [
-     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
-     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-medecin-britannique-evacue-londres",
-     "ebola-oms-deux-vaccins-bundibugyo-essais"
+     "omm-cop31-programme-alerte-precoce",
+     "omm-el-nino-record",
+     "omm-bulletin-ges-record-2025",
+     "sodexam-saison-deficitaire"
     ],
-    "texte": "En RDC, la revue de riposte tenue à Kisangani constate le 7 novembre 2026 une baisse des cas, mais signale une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda et le Kenya n'a plus de nouveau cas depuis le 20 octobre. Le dispositif sanitaire de FHB reste à maintenir, et la conduite à tenir pour une évacuation sanitaire à haut risque en escale est à fixer avec AERIA et l'INHP."
+    "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya. L'OMM y publiera l'état du climat mondial (9 novembre), l'état de l'observation du climat (10 novembre) et le rapport sur l'alerte précoce (11 novembre). Avec un El Niño possiblement record et une petite saison des pluies déficitaire annoncée par la SODEXAM, ces données serviront à étayer le programme A et les dossiers FVC et SOFF."
    },
    {
     "ids": [
-     "omm-el-nino-record",
-     "omm-bulletin-ges-record-2025",
-     "sodexam-saison-deficitaire",
+     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
+     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
+     "ebola-medecin-britannique-evacue-londres",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "L'OMM n'exclut pas un El Niño record et la SODEXAM annonce une petite saison des pluies déficitaire jusqu'en décembre : deux éléments à porter à la COP31, qui s'ouvre le 9 novembre 2026 à Antalya. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
+    "texte": "En RDC, la revue de riposte de Kisangani constate le 7 novembre 2026 une baisse des cas, avec une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda. Le dispositif sanitaire de FHB reste à maintenir. Par ailleurs, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T07:42:00Z"
+  "prochaineCollecte": "2026-11-07T08:42:00Z"
  },
  "items": [
   {
@@ -1408,6 +1408,26 @@
    "url": "https://news.un.org/en/story/2026/10/1168677",
    "zone": "monde",
    "id": "omm-bulletin-ges-record-2025"
+  },
+  {
+   "ajoute": "2026-11-07T07:43:36Z",
+   "date": "2026-11-04",
+   "motscles": [
+    "OMM",
+    "COP31",
+    "alerte précoce",
+    "observation",
+    "financement climat"
+   ],
+   "priorite": "veille",
+   "resume": "L'OMM a détaillé le 4 novembre 2026 son programme à la COP31, qui se tient à Antalya du 9 au 20 novembre. Elle présentera le 9 novembre la mise à jour 2026 de l'état du climat mondial, le 10 novembre l'état du système mondial d'observation du climat et le 11 novembre, avec l'UNDRR, le rapport sur les systèmes d'alerte précoce multirisques. Une session sur El Niño et les extrêmes est prévue le 10 novembre. L'organisation veut plaider pour un financement durable de l'observation et de l'alerte.",
+   "secteur": "meteorologie",
+   "sodexam": "Ces rapports donneront des chiffres de référence utiles pour argumenter le programme A « observation et alerte » et les dossiers FVC et SOFF. Il faudra vérifier la place faite à l'Afrique de l'Ouest et reprendre les données dans nos notes dès leur sortie.",
+   "source": "Mirage News",
+   "titre": "COP31 : l'OMM publiera trois rapports sur le climat et l'alerte précoce à Antalya",
+   "url": "https://www.miragenews.com/wmo-details-activities-at-cop31-1771940/",
+   "zone": "monde",
+   "id": "omm-cop31-programme-alerte-precoce"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
