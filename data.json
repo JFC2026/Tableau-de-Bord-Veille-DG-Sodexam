@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-07T02:56:21Z",
+ "exporte": "2026-11-07T03:55:52Z",
  "briefing": {
   "date": "2026-11-07",
-  "derniereCollecte": "2026-11-07T02:43:27Z",
-  "genereLe": "2026-11-07T00:43:32Z",
+  "derniereCollecte": "2026-11-07T03:43:18Z",
+  "genereLe": "2026-11-07T03:43:18Z",
   "points": [
    {
     "ids": [
@@ -36,11 +36,12 @@
    },
    {
     "ids": [
-     "ebola-medecin-britannique-evacue-londres",
+     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
+     "ebola-medecin-britannique-evacue-londres",
      "ebola-oms-deux-vaccins-bundibugyo-essais"
     ],
-    "texte": "Le Kenya n'a plus de nouveau cas depuis le 20 octobre et ses derniers contacts terminent leur suivi d'ici le 11 novembre 2026. La RDC dépasse 10 600 cas selon l'ECDC au 4 novembre, et l'épidémie est close en Ouganda. L'évacuation vers Londres, le 5 novembre, d'un médecin britannique contaminé en RDC invite à fixer avec AERIA et l'INHP la conduite à tenir si une évacuation sanitaire à haut risque demande une escale à FHB."
+    "texte": "En RDC, la revue de riposte tenue à Kisangani constate le 7 novembre 2026 une baisse des cas, mais signale une hausse sur trois semaines autour de Beni. L'épidémie est close en Ouganda et le Kenya n'a plus de nouveau cas depuis le 20 octobre. Le dispositif sanitaire de FHB reste à maintenir, et la conduite à tenir pour une évacuation sanitaire à haut risque en escale est à fixer avec AERIA et l'INHP."
    },
    {
     "ids": [
@@ -52,7 +53,7 @@
     "texte": "L'OMM n'exclut pas un El Niño record et la SODEXAM annonce une petite saison des pluies déficitaire jusqu'en décembre : deux éléments à porter à la COP31, qui s'ouvre le 9 novembre 2026 à Antalya. La collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako, le 23 octobre, justifie une revue de la sécurité côté piste dans nos aéroports de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-07T03:42:00Z"
+  "prochaineCollecte": "2026-11-07T04:42:00Z"
  },
  "items": [
   {
@@ -1064,6 +1065,25 @@
    "url": "https://www.natureworldnews.com/articles/73649/20261026/bundibugyo-ebola-cases-near-10000-congo-starts-first-vaccine-trial-us-adds-travel-attestation.htm",
    "zone": "afrique",
    "id": "ebola-rdc-essai-vaccinal-bunia"
+  },
+  {
+   "ajoute": "2026-11-07T03:43:06Z",
+   "date": "2026-11-07",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "Kisangani",
+    "riposte"
+   ],
+   "priorite": "veille",
+   "resume": "Près de 190 acteurs de la riposte se sont réunis trois jours à Kisangani pour évaluer la lutte contre la 17e épidémie d'Ebola en RDC. Le gestionnaire de l'incident fait état d'une baisse globale des cas et des décès : les zones de santé de Kisangani ont passé 42 jours sans nouveau cas et certaines zones de l'Ituri plus de 21 jours. La situation reste fragile, avec plus de 1 000 cas confirmés et une hausse sur trois semaines sur l'axe Beni-Mabalako-Mandima. Le suivi des contacts et l'implication des autorités rurales seront renforcés.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect. La tendance à la baisse va dans le sens de la levée des restrictions demandée par l'OMS, mais la reprise sur l'axe de Beni justifie de garder le dispositif de contrôle sanitaire à FHB en l'état tant que l'INHP ne dit pas le contraire.",
+   "source": "Congo Quotidien",
+   "titre": "Ebola en RDC : la revue de Kisangani constate une baisse des cas",
+   "url": "https://congoquotidien.com/2026/11/07/riposte-ebola-kisangani-ajustements",
+   "zone": "afrique",
+   "id": "ebola-rdc-kisangani-revue-riposte-baisse-cas"
   },
   {
    "ajoute": "2026-10-31T07:43:39Z",
