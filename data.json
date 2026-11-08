@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-08T16:55:58Z",
+ "exporte": "2026-11-08T17:56:52Z",
  "briefing": {
   "date": "2026-11-08",
-  "derniereCollecte": "2026-11-08T16:46:03Z",
-  "genereLe": "2026-11-08T06:43:55Z",
+  "derniereCollecte": "2026-11-08T17:43:22Z",
+  "genereLe": "2026-11-08T17:43:22Z",
   "points": [
    {
     "ids": [
@@ -22,10 +22,11 @@
     "ids": [
      "ebola-ecdc-rdc-10741-cas-5230-deces",
      "ebola-rdc-kisangani-revue-riposte-baisse-cas",
+     "ebola-rdc-attaque-adf-patients-fuient-nord-kivu",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "La RDC compte 10 741 cas et 5 230 décès au 5 novembre 2026 selon l'ECDC, et Kisangani signale une baisse des cas le 7 novembre. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. La transmission reste active en RDC : on garde le dispositif sanitaire de FHB tel quel."
+    "texte": "La RDC compte 10 741 cas et 5 230 décès au 5 novembre 2026 selon l'ECDC. Kisangani signale une baisse le 7 novembre, mais au Nord-Kivu, qui porte la moitié des nouvelles infections, une attaque de l'ADF a fait fuir un malade confirmé et cinq cas suspects. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. On garde le dispositif sanitaire de FHB tel quel."
    },
    {
     "ids": [
@@ -56,7 +57,7 @@
     "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya et l'OMM y présente trois rapports du 9 au 11 novembre. Avec un El Niño possiblement record et une petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres serviront à étayer le programme A et les dossiers FVC et SOFF. À part, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026 justifie une revue du péril animalier sur nos plateformes de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-08T17:42:00Z"
+  "prochaineCollecte": "2026-11-08T18:42:00Z"
  },
  "items": [
   {
@@ -1107,6 +1108,26 @@
    "url": "https://abcnews.com/US/wireStory/congos-fast-moving-ebola-outbreak-tops-10000-confirmed-137595727",
    "zone": "afrique",
    "id": "ebola-rdc-10000-cas"
+  },
+  {
+   "ajoute": "2026-11-08T17:43:10Z",
+   "date": "2026-11-07",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "Nord-Kivu",
+    "insécurité",
+    "riposte"
+   ],
+   "priorite": "veille",
+   "resume": "Une attaque nocturne attribuée aux ADF a tué au moins 33 civils à Cantine-Aloya, à une cinquantaine de kilomètres à l'ouest de Beni. Un poste de santé a été incendié. Six patients d'un hôpital voisin ont fui : un cas d'Ebola confirmé et cinq suspects, dont trois contacts à haut risque. Le Nord-Kivu concentre la moitié des nouvelles infections du pays.",
+   "secteur": "medecine",
+   "sodexam": "Impact indirect : des malades perdus de vue dans une zone d'insécurité rendent la fin de l'épidémie moins proche. Ce n'est pas le moment d'alléger le dispositif sanitaire à FHB.",
+   "source": "Reuters / Citizen Digital",
+   "titre": "Ebola en RDC : une attaque de l'ADF fait fuir six patients au Nord-Kivu",
+   "url": "https://citizen.digital/article/militants-kill-33-in-drc-raid-force-ebola-patients-to-flee-n393500",
+   "zone": "afrique",
+   "id": "ebola-rdc-attaque-adf-patients-fuient-nord-kivu"
   },
   {
    "ajoute": "2026-10-27T04:43:40Z",
