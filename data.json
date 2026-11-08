@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-08T05:56:14Z",
+ "exporte": "2026-11-08T06:56:56Z",
  "briefing": {
   "date": "2026-11-08",
-  "derniereCollecte": "2026-11-08T05:43:14Z",
-  "genereLe": "2026-11-08T00:43:39Z",
+  "derniereCollecte": "2026-11-08T06:43:55Z",
+  "genereLe": "2026-11-08T06:43:55Z",
   "points": [
    {
     "ids": [
@@ -40,9 +40,10 @@
    {
     "ids": [
      "sodexam-exercice-crise-san-pedro",
-     "europe-alertes-bombe-16-vols-5-novembre"
+     "europe-alertes-bombe-16-vols-5-novembre",
+     "ghana-awa-kumasi-dement-evacuation-e190"
     ],
-    "texte": "La SODEXAM a conduit le 5 novembre 2026 à San Pedro un exercice de crise complet (alerte à la bombe, sabotage d'une aide à la navigation), le jour où au moins 16 vols en Europe recevaient de fausses alertes. Suite à donner : un retour d'expérience écrit avec plan d'actions daté, puis le même exercice à Bouaké, Korhogo et Yamoussoukro."
+    "texte": "La SODEXAM a conduit le 5 novembre 2026 à San Pedro un exercice de crise complet (alerte à la bombe, sabotage d'une aide à la navigation), le jour où au moins 16 vols en Europe recevaient de fausses alertes. Le 7 novembre, Africa World Airlines a dû démentir une fausse évacuation à Kumasi relayée sur les réseaux. Suite à donner : un retour d'expérience écrit avec plan d'actions daté, un volet démenti rapide pour la DIRCOM, puis le même exercice à Bouaké, Korhogo et Yamoussoukro."
    },
    {
     "ids": [
@@ -55,7 +56,7 @@
     "texte": "La COP31 s'ouvre le 9 novembre 2026 à Antalya et l'OMM y présente trois rapports du 9 au 11 novembre. Avec un El Niño possiblement record et une petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres serviront à étayer le programme A et les dossiers FVC et SOFF. À part, la collision animalière de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026 justifie une revue du péril animalier sur nos plateformes de l'intérieur."
    }
   ],
-  "prochaineCollecte": "2026-11-08T06:42:00Z"
+  "prochaineCollecte": "2026-11-08T07:42:00Z"
  },
  "items": [
   {
@@ -1431,6 +1432,25 @@
    "url": "https://www.koaci.com/article/2026/10/28/cote-divoire/societe/cote-divoire-a-laeroport-dabidjan-le-micro-monte-au-creneau-contre-la-mendicite-des-agents_202064.html",
    "zone": "ci",
    "id": "fhb-sanctions-mendicite-agents"
+  },
+  {
+   "ajoute": "2026-11-08T06:43:42Z",
+   "date": "2026-11-08",
+   "motscles": [
+    "Africa World Airlines",
+    "Kumasi",
+    "désinformation",
+    "certification"
+   ],
+   "priorite": "veille",
+   "resume": "Africa World Airlines conteste des messages diffusés sur les réseaux sociaux qui faisaient état d'un problème technique et d'une évacuation de passagers à l'aéroport de Kumasi. Selon son communiqué du 7 novembre 2026, son Embraer E190 effectuait des vols de démonstration exigés par l'autorité ghanéenne de l'aviation civile avant sa mise en service commerciale, commencés le 5 novembre. Seuls l'équipage et des inspecteurs de la GCAA étaient à bord.",
+   "secteur": "aeronautique",
+   "sodexam": "Impact indirect. Le cas montre qu'une fausse information sur un incident se répand vite : il serait utile que la DIRCOM dispose d'un circuit de démenti rapide pour les aéroports de l'intérieur.",
+   "source": "GhanaWeb",
+   "titre": "Ghana : Africa World Airlines dément une évacuation de son E190 à Kumasi",
+   "url": "https://www.ghanaweb.com/GhanaHomePage/business/AWA-debunks-Kumasi-Airport-evacuation-reports-says-aircraft-was-on-demonstration-flight-2060308",
+   "zone": "afrique",
+   "id": "ghana-awa-kumasi-dement-evacuation-e190"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
