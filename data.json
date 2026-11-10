@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-09T14:55:57Z",
+ "exporte": "2026-11-10T09:56:15Z",
  "briefing": {
-  "date": "2026-11-09",
-  "derniereCollecte": "2026-11-09T14:44:31Z",
-  "genereLe": "2026-11-09T08:44:37Z",
+  "date": "2026-11-10",
+  "derniereCollecte": "2026-11-10T09:40:20Z",
+  "genereLe": "2026-11-10T09:40:20Z",
   "points": [
    {
     "ids": [
@@ -16,7 +16,7 @@
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 4 novembre 2026, l'OMS demande qu'on lève les restrictions de voyage liées à Ebola. Madagascar a suivi le 6 novembre. Les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts gardent les leurs. Chez Emirates, l'attestation américaine imprimée reste exigée jusqu'au 18 décembre 2026 : l'information des passagers en correspondance à FHB est à caler avec AERIA et les compagnies. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43)."
+    "texte": "Depuis le 4 novembre 2026, l'OMS demande la levée des restrictions de voyage liées à Ebola. Madagascar a suivi le 6 novembre, mais les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts maintiennent les leurs. Emirates exige l'attestation américaine imprimée jusqu'au 18 décembre 2026 : l'information des passagers en correspondance à FHB est à caler avec AERIA et les compagnies. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43)."
    },
    {
     "ids": [
@@ -26,7 +26,7 @@
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "L'ECDC compte en RDC 10 741 cas et 5 230 décès, chiffres arrêtés début novembre 2026. Kisangani note une baisse le 7 novembre. Au Nord-Kivu, qui porte la moitié des nouvelles infections, une attaque de l'ADF a fait fuir un malade confirmé et cinq cas suspects. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Le dispositif sanitaire de FHB reste en l'état."
+    "texte": "En RDC, l'ECDC compte 10 741 cas et 5 230 décès début novembre 2026. Kisangani note une baisse le 7 novembre, mais au Nord-Kivu une attaque de l'ADF a fait fuir un malade confirmé et cinq cas suspects. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade."
    },
    {
     "ids": [
@@ -35,7 +35,7 @@
      "omm-el-nino-record",
      "sodexam-saison-deficitaire"
     ],
-    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre, 2026 parmi les quatre années les plus chaudes, El Niño attendu à un niveau record en décembre avec des effets jusqu'en 2027. Avec la petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres sont à reprendre dans le programme A et les dossiers FVC et SOFF. La DMN peut en tirer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027."
+    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Avec la petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres sont à reprendre dans le programme A et les dossiers FVC et SOFF. La DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable pendant la COP qui court jusqu'au 20 novembre."
    },
    {
     "ids": [
@@ -54,10 +54,10 @@
      "ghana-awa-kumasi-dement-evacuation-e190",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "Le 5 novembre 2026, la SODEXAM a mené à San Pedro un exercice de crise complet. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines a dû démentir une fausse évacuation à Kumasi. À faire : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
+    "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-09T15:42:00Z"
+  "prochaineCollecte": "2026-11-10T10:00:00Z"
  },
  "items": [
   {
