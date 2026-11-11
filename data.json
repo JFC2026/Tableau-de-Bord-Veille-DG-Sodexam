@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-11T15:21:38Z",
+ "exporte": "2026-11-11T18:21:34Z",
  "briefing": {
   "date": "2026-11-11",
-  "derniereCollecte": "2026-11-11T14:03:11Z",
-  "genereLe": "2026-11-11T06:02:30Z",
+  "derniereCollecte": "2026-11-11T18:02:48Z",
+  "genereLe": "2026-11-11T18:02:48Z",
   "points": [
    {
     "ids": [
@@ -43,9 +43,10 @@
      "ebola-ci-don-6-milliards-psp-equipements",
      "ebola-togo-depistage-thermique-lome",
      "ebola-kenya-deputes-lacunes-controle-aeroports",
-     "ebola-ghana-expert-limites-controle-temperature"
+     "ebola-ghana-expert-limites-controle-temperature",
+     "aeria-comite-facilitation-correspondances"
     ],
-    "texte": "Ghana, Togo, Cameroun et Nigeria ont durci les contrôles dans leurs aéroports. Le 4 novembre 2026, des députés kényans ont signalé un vol arrivé sans aucun contrôle sanitaire. À arrêter avec l'INHP : ce qu'on attend de FHB et des aéroports de l'intérieur au-delà de la prise de température, puis une vérification sur place que les équipes sont en poste."
+    "texte": "Ghana, Togo, Cameroun et Nigeria ont durci les contrôles dans leurs aéroports. Le 4 novembre 2026, des députés kényans ont signalé un vol arrivé sans aucun contrôle sanitaire. À arrêter avec l'INHP : ce qu'on attend de FHB et des aéroports de l'intérieur au-delà de la prise de température. Le comité de facilitation d'AERIA du 5 novembre 2026 a inscrit la préparation aux crises sanitaires et le One-Stop Security à son ordre du jour : à rapprocher du dispositif Ebola de FHB."
    },
    {
     "ids": [
@@ -57,7 +58,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-11T18:00:00Z"
+  "prochaineCollecte": "2026-11-11T22:00:00Z"
  },
  "items": [
   {
@@ -77,6 +78,26 @@
    "url": "https://www.riotimesonline.com/african-airport-finances-aci-africa-abuja-2026/",
    "zone": "afrique",
    "id": "aci-africa-rentabilite"
+  },
+  {
+   "ajoute": "2026-11-11T18:02:40Z",
+   "date": "2026-11-10",
+   "motscles": [
+    "AERIA",
+    "facilitation",
+    "One-Stop Security",
+    "correspondances",
+    "FHB"
+   ],
+   "priorite": "veille",
+   "resume": "Le 5 novembre 2026, AERIA, qui exploite l'aéroport Félix-Houphouët-Boigny, a réuni le 5e comité de facilitation aéroportuaire. Les échanges ont porté sur les passagers en correspondance, les bagages et la préparation aux crises sanitaires. Trois priorités ressortent : la digitalisation, l'amélioration du parcours passager et le One-Stop Security, qui éviterait un second contrôle de sûreté aux passagers déjà filtrés au départ.",
+   "secteur": "aeroportuaire",
+   "sodexam": "La SODEXAM, autorité concédante, peut vérifier que le volet sanitaire du comité est cohérent avec le dispositif Ebola de FHB. Le One-Stop Security suppose un accord de reconnaissance mutuelle avec d'autres États, à instruire avec l'ANAC et la direction de la sûreté.",
+   "source": "Yeclo",
+   "titre": "AERIA tient son 5e comité de facilitation à FHB : correspondances, bagages, crises sanitaires",
+   "url": "https://www.yeclo.com/aeroport-dabidjan-aeria-veut-fluidifier-les-correspondances/",
+   "zone": "ci",
+   "id": "aeria-comite-facilitation-correspondances"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
