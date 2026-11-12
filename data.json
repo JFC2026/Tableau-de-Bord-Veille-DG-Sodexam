@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-11T22:21:10Z",
+ "exporte": "2026-11-12T06:21:53Z",
  "briefing": {
-  "date": "2026-11-11",
-  "derniereCollecte": "2026-11-11T22:03:01Z",
-  "genereLe": "2026-11-11T18:02:48Z",
+  "date": "2026-11-12",
+  "derniereCollecte": "2026-11-12T06:02:36Z",
+  "genereLe": "2026-11-12T06:02:36Z",
   "points": [
    {
     "ids": [
@@ -20,6 +20,15 @@
    },
    {
     "ids": [
+     "omm-etat-climat-cop31-147c-el-nino-decembre",
+     "omm-cop31-programme-alerte-precoce",
+     "omm-el-nino-record",
+     "sodexam-saison-deficitaire"
+    ],
+    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Avec la petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres sont à reprendre dans le programme A et les dossiers FVC et SOFF. La DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable pendant la COP qui court jusqu'au 20 novembre."
+   },
+   {
+    "ids": [
      "ebola-ecdc-rdc-10741-cas-5230-deces",
      "ebola-rdc-kisangani-revue-riposte-baisse-cas",
      "ebola-rdc-attaque-adf-patients-fuient-nord-kivu",
@@ -27,15 +36,6 @@
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
     "texte": "En RDC, l'ECDC compte 10 741 cas et 5 230 décès début novembre 2026. Kisangani note une baisse le 7 novembre, mais au Nord-Kivu une attaque de l'ADF a fait fuir un malade confirmé et cinq cas suspects. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade."
-   },
-   {
-    "ids": [
-     "omm-etat-climat-cop31-147c-el-nino-decembre",
-     "omm-cop31-programme-alerte-precoce",
-     "omm-el-nino-record",
-     "sodexam-saison-deficitaire"
-    ],
-    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Avec la petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres sont à reprendre dans le programme A et les dossiers FVC et SOFF. La DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable pendant la COP qui court jusqu'au 20 novembre."
    },
    {
     "ids": [
@@ -58,7 +58,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-12T06:00:00Z"
+  "prochaineCollecte": "2026-11-12T10:00:00Z"
  },
  "items": [
   {
