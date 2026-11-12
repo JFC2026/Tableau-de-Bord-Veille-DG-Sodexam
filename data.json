@@ -1,8 +1,8 @@
 {
- "exporte": "2026-11-12T18:21:29Z",
+ "exporte": "2026-11-12T22:21:18Z",
  "briefing": {
   "date": "2026-11-12",
-  "derniereCollecte": "2026-11-12T18:02:47Z",
+  "derniereCollecte": "2026-11-12T22:02:51Z",
   "genereLe": "2026-11-12T06:02:36Z",
   "points": [
    {
@@ -58,7 +58,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-12T22:00:00Z"
+  "prochaineCollecte": "2026-11-13T06:00:00Z"
  },
  "items": [
   {
@@ -1380,6 +1380,25 @@
    "url": "https://www.aip.ci/cote-divoire-aip-long-espoir-handicap-mobilise-les-acteurs-du-transport-aerien-pour-une-meilleure-prise-en-compte-des-personnes-a-mobilite-reduite/",
    "zone": "ci",
    "id": "espoir-handicap-panel-transport-aerien-pmr"
+  },
+  {
+   "ajoute": "2026-11-12T22:02:44Z",
+   "date": "2026-11-10",
+   "motscles": [
+    "interline",
+    "Ethiopian Airlines",
+    "Air Peace",
+    "connectivité"
+   ],
+   "priorite": "veille",
+   "resume": "Ethiopian Airlines et la compagnie nigériane Air Peace ont annoncé le 10 novembre 2026 un accord interline bilatéral. Les deux transporteurs pourront émettre des billets sur les itinéraires de l'autre, avec un seul billet et l'enregistrement des bagages jusqu'à la destination finale. Aucun chiffre ni route précise n'est communiqué.",
+   "secteur": "aeronautique",
+   "sodexam": "Impact indirect : un accord de ce type peut accroître les correspondances entre l'Afrique de l'Ouest et Addis-Abeba. À suivre côté trafic si des liaisons vers Abidjan sont concernées.",
+   "source": "ATTA",
+   "titre": "Ethiopian Airlines et Air Peace signent un accord interline",
+   "url": "https://atta.travel/resource/ethiopian-airlines-and-air-peace-sign-interline-deal-to-boost-pan-african-connectivity.html",
+   "zone": "afrique",
+   "id": "ethiopian-air-peace-accord-interline"
   },
   {
    "ajoute": "2026-11-06T00:43:56Z",
