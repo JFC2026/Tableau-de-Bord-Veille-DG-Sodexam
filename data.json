@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-13T15:38:18Z",
+ "exporte": "2026-11-13T18:21:23Z",
  "briefing": {
   "date": "2026-11-13",
-  "derniereCollecte": "2026-11-13T15:32:11Z",
-  "genereLe": "2026-11-13T10:02:40Z",
+  "derniereCollecte": "2026-11-13T18:02:59Z",
+  "genereLe": "2026-11-13T18:02:59Z",
   "points": [
    {
     "ids": [
@@ -30,13 +30,13 @@
    },
    {
     "ids": [
+     "ebola-oms-rdc-11114-cas-situation-preoccupante",
      "ebola-ecdc-rdc-10741-cas-5230-deces",
-     "ebola-rdc-kisangani-revue-riposte-baisse-cas",
      "ebola-rdc-attaque-adf-patients-fuient-nord-kivu",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "En RDC, l'ECDC compte 10 741 cas et 5 230 décès début novembre 2026. Kisangani note une baisse le 7 novembre, mais au Nord-Kivu une attaque de l'ADF a fait fuir un malade confirmé et cinq cas suspects. Le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade."
+    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. L'OMS juge la situation préoccupante et signale la perte de suivi de plus de 1 000 contacts après les attaques. Le Kenya n'a plus de nouveau cas depuis le 20 octobre, l'Ouganda est sorti de l'épidémie et le suivi du Nigeria s'achève le 13 novembre. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade, mais la durée de l'épidémie impose de garder le suivi avec l'INHP."
    },
    {
     "ids": [
@@ -59,7 +59,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-13T18:00:00Z"
+  "prochaineCollecte": "2026-11-13T22:00:00Z"
  },
  "items": [
   {
@@ -1073,6 +1073,26 @@
    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
    "zone": "monde",
    "id": "ebola-oms-don625-rdc-10668-cas"
+  },
+  {
+   "ajoute": "2026-11-13T18:02:50Z",
+   "date": "2026-11-12",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "OMS",
+    "Nord-Kivu",
+    "Kenya"
+   ],
+   "priorite": "veille",
+   "resume": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès, dans 67 zones de santé de huit provinces. Les nouveaux cas restent à 400 à 500 par semaine : ils baissent en Ituri mais augmentent de 31 % au Nord-Kivu. L'OMS dénombre 81 attaques contre des structures de santé et a perdu le suivi de plus de 1 000 contacts. Le Kenya compte 9 cas confirmés sans transmission communautaire et le suivi des contacts du Nigeria doit s'achever le 13 novembre. Ces chiffres sont plus élevés que ceux de l'ECDC début novembre déjà en base.",
+   "secteur": "medecine",
+   "sodexam": "Aucun cas hors d'Afrique centrale et orientale ne justifie de changer le dispositif de FHB, mais l'épidémie dure et la transmission reste élevée. À garder dans le suivi avec l'INHP et AERIA, notamment pour les passagers en provenance de la région.",
+   "source": "Ghana Eye Report (Xinhua)",
+   "titre": "Ebola en RDC : 11 114 cas, l'OMS juge la situation préoccupante",
+   "url": "https://www.ghanaeyereport.com/roundup-who-warns-ebola-outbreak-in-dr-congo-remains-concerning-amid-rising-infections-violence/",
+   "zone": "afrique",
+   "id": "ebola-oms-rdc-11114-cas-situation-preoccupante"
   },
   {
    "ajoute": "2026-11-06T05:43:33Z",
