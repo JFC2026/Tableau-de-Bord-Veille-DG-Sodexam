@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-13T06:21:26Z",
+ "exporte": "2026-11-13T10:26:53Z",
  "briefing": {
   "date": "2026-11-13",
-  "derniereCollecte": "2026-11-13T06:03:30Z",
-  "genereLe": "2026-11-13T06:03:30Z",
+  "derniereCollecte": "2026-11-13T10:02:40Z",
+  "genereLe": "2026-11-13T10:02:40Z",
   "points": [
    {
     "ids": [
@@ -23,9 +23,10 @@
      "omm-etat-climat-cop31-147c-el-nino-decembre",
      "omm-cop31-programme-alerte-precoce",
      "omm-el-nino-record",
-     "sodexam-saison-deficitaire"
+     "sodexam-saison-deficitaire",
+     "cop31-afrique-financement-adaptation-differend"
     ],
-    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Avec la petite saison des pluies annoncée déficitaire par la SODEXAM, ces chiffres sont à reprendre dans le programme A et les dossiers FVC et SOFF. La DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable pendant la COP qui court jusqu'au 20 novembre."
+    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Le Groupe africain réclame de tripler le financement de l'adaptation et de reconstituer le FVC, alors que les pays développés n'ont versé que 28,2 milliards de dollars en 2024 selon le PNUE. Ces éléments sont à reprendre dans le programme A et les dossiers FVC et SOFF, et la DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable avant la fin de la COP le 20 novembre."
    },
    {
     "ids": [
@@ -58,7 +59,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-13T10:00:00Z"
+  "prochaineCollecte": "2026-11-13T14:00:00Z"
  },
  "items": [
   {
@@ -232,6 +233,26 @@
    "url": "https://atta.travel/resource/conakry-airport-eyes-air-algerie-and-egyptair-routes-as-passenger-numbers-surge-22.html",
    "zone": "afrique",
    "id": "conakry-aeroport-croissance-nouveau-terminal"
+  },
+  {
+   "ajoute": "2026-11-13T10:02:32Z",
+   "date": "2026-11-10",
+   "motscles": [
+    "COP31",
+    "financement adaptation",
+    "Fonds vert climat",
+    "alerte précoce",
+    "Groupe africain"
+   ],
+   "priorite": "veille",
+   "resume": "La COP31 a ouvert le 9 novembre 2026 à Antalya et dure jusqu'au 20 novembre. Le Groupe africain de négociateurs demande de tripler le financement de l'adaptation et de reconstituer le Fonds vert pour le climat, et doute que les pays développés tiennent leurs engagements. Selon le PNUE, ces pays ont fourni 28,2 milliards de dollars en 2024, moins d'un dixième du besoin annuel estimé à l'horizon 2035, et environ deux tiers de ces fonds sont des prêts. Des sessions de l'Union africaine sur l'alerte précoce sont prévues les 12 et 14 novembre.",
+   "secteur": "meteorologie",
+   "sodexam": "L'issue sur le FVC et l'adaptation conditionne les dossiers climat de la SODEXAM (programme A, observation et alerte). Le Conseiller S&DD peut suivre les sessions alerte précoce de l'UA et en tirer les arguments utiles aux demandes de financement.",
+   "source": "African Sustainability Matters",
+   "titre": "COP31 : le Groupe africain réclame de tripler le financement de l'adaptation",
+   "url": "https://africasustainabilitymatters.com/?p=28244",
+   "zone": "afrique",
+   "id": "cop31-afrique-financement-adaptation-differend"
   },
   {
    "ajoute": "2026-11-02T17:56:58Z",
