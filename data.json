@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-13T22:21:07Z",
+ "exporte": "2026-11-14T06:21:16Z",
  "briefing": {
-  "date": "2026-11-13",
-  "derniereCollecte": "2026-11-13T22:02:24Z",
-  "genereLe": "2026-11-13T18:02:59Z",
+  "date": "2026-11-14",
+  "derniereCollecte": "2026-11-14T06:02:09Z",
+  "genereLe": "2026-11-14T06:02:09Z",
   "points": [
    {
     "ids": [
@@ -36,7 +36,7 @@
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. L'OMS juge la situation préoccupante et signale la perte de suivi de plus de 1 000 contacts après les attaques. Le Kenya n'a plus de nouveau cas depuis le 20 octobre, l'Ouganda est sorti de l'épidémie et le suivi du Nigeria s'achève le 13 novembre. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade, mais la durée de l'épidémie impose de garder le suivi avec l'INHP."
+    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. L'OMS juge la situation préoccupante et signale la perte de suivi de plus de 1 000 contacts après les attaques. Le Kenya n'a plus de nouveau cas depuis le 20 octobre, l'Ouganda est sorti de l'épidémie et le suivi du Nigeria devait s'achever le 13 novembre 2026. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade, mais la durée de l'épidémie impose de garder le suivi avec l'INHP."
    },
    {
     "ids": [
@@ -59,7 +59,7 @@
     "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
    }
   ],
-  "prochaineCollecte": "2026-11-14T06:00:00Z"
+  "prochaineCollecte": "2026-11-14T10:00:00Z"
  },
  "items": [
   {
