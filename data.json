@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-15T10:21:12Z",
+ "exporte": "2026-11-15T14:21:01Z",
  "briefing": {
   "date": "2026-11-15",
-  "derniereCollecte": "2026-11-15T10:02:34Z",
-  "genereLe": "2026-11-15T06:02:50Z",
+  "derniereCollecte": "2026-11-15T14:02:40Z",
+  "genereLe": "2026-11-15T14:02:40Z",
   "points": [
    {
     "ids": [
@@ -30,13 +30,14 @@
    },
    {
     "ids": [
+     "ebola-nigeria-fin-suivi-62-contacts",
      "ebola-oms-rdc-11114-cas-situation-preoccupante",
      "ebola-ecdc-rdc-10741-cas-5230-deces",
      "ebola-rdc-attaque-adf-patients-fuient-nord-kivu",
      "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
      "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
     ],
-    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. L'OMS juge la situation préoccupante et signale la perte de suivi de plus de 1 000 contacts après les attaques. Le Kenya n'a plus de nouveau cas depuis le 20 octobre, l'Ouganda est sorti de l'épidémie et le suivi du Nigeria devait s'achever le 13 novembre 2026. Rien ne justifie de modifier le dispositif sanitaire de FHB à ce stade, mais la durée de l'épidémie impose de garder le suivi avec l'INHP."
+    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. Le Nigeria a clos le 13 novembre 2026 le suivi de ses 62 contacts, sans cas secondaire ; le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Le risque d'importation baisse côté Afrique de l'Ouest, mais l'épidémie congolaise continue : rien ne justifie de modifier le dispositif de FHB sans avis de l'INHP."
    },
    {
     "ids": [
@@ -59,7 +60,7 @@
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a aussi mené un exercice de crise complet à San Pedro, le même jour que de fausses alertes à la bombe sur 16 vols en Europe. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-15T14:00:00Z"
+  "prochaineCollecte": "2026-11-15T18:00:00Z"
  },
  "items": [
   {
@@ -954,6 +955,26 @@
    "url": "https://www.thisdaylive.com/2026/10/26/nigerias-index-ebola-patient-evacuated-abroad-by-air-ambulance/",
    "zone": "afrique",
    "id": "ebola-nigeria-evacuation-patiente"
+  },
+  {
+   "ajoute": "2026-11-15T14:02:29Z",
+   "date": "2026-11-14",
+   "motscles": [
+    "Ebola",
+    "Nigeria",
+    "NCDC",
+    "contacts",
+    "RSI"
+   ],
+   "priorite": "veille",
+   "resume": "Le 13 novembre 2026, le NCDC a annoncé la fin des 21 jours de suivi des 62 contacts du cas confirmé le 20 octobre chez une Suissesse revenue d'Ouganda. Aucun contact n'est tombé malade : 13 ont eu de la fièvre ou des symptômes non spécifiques, tous négatifs. Sept alertes dans cinq États ont été investiguées en trois semaines, toutes négatives. Fin du suivi ne vaut pas fin d'épidémie : l'OMS exige un décompte de 42 jours. Complète les articles précédents sur les contacts en quarantaine.",
+   "secteur": "medecine",
+   "sodexam": "Le risque d'importation par voie aérienne depuis le Nigeria baisse, mais la souche Bundibugyo circule toujours en RDC. Pas de raison d'alléger le dispositif sanitaire de FHB sans avis de l'INHP.",
+   "source": "GhanaWeb (d'après Al Jazeera)",
+   "titre": "Ebola : le Nigeria clôt le suivi de 62 contacts sans cas secondaire",
+   "url": "https://www.ghanaweb.com/GhanaHomePage/africa/Nigeria-ends-21-day-Ebola-contact-monitoring-with-no-secondary-transmission-2061282",
+   "zone": "afrique",
+   "id": "ebola-nigeria-fin-suivi-62-contacts"
   },
   {
    "ajoute": "2026-10-27T13:45:08Z",
