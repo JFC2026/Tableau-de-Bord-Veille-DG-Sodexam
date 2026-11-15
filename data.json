@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-14T22:21:20Z",
+ "exporte": "2026-11-15T06:21:07Z",
  "briefing": {
-  "date": "2026-11-14",
-  "derniereCollecte": "2026-11-14T22:02:45Z",
-  "genereLe": "2026-11-14T06:02:09Z",
+  "date": "2026-11-15",
+  "derniereCollecte": "2026-11-15T06:02:50Z",
+  "genereLe": "2026-11-15T06:02:50Z",
   "points": [
    {
     "ids": [
@@ -51,15 +51,15 @@
    },
    {
     "ids": [
+     "fhb-extension-8-millions-2030",
      "sodexam-exercice-crise-san-pedro",
      "europe-alertes-bombe-16-vols-5-novembre",
-     "ghana-awa-kumasi-dement-evacuation-e190",
      "air-cote-divoire-a320-bamako-collision-animal"
     ],
-    "texte": "Le 5 novembre 2026, la SODEXAM a mené un exercice de crise complet à San Pedro. Le même jour, au moins 16 vols en Europe recevaient de fausses alertes à la bombe, et le 7 novembre Africa World Airlines démentait une fausse évacuation à Kumasi. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM, le même exercice à Bouaké, Korhogo et Yamoussoukro, et une revue du péril animalier après la collision de l'A320 d'Air Côte d'Ivoire à Bamako le 23 octobre 2026."
+    "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a aussi mené un exercice de crise complet à San Pedro, le même jour que de fausses alertes à la bombe sur 16 vols en Europe. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-15T06:00:00Z"
+  "prochaineCollecte": "2026-11-15T10:00:00Z"
  },
  "items": [
   {
@@ -1495,6 +1495,26 @@
    "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-aeroport-dabidjan-les-usagers-et-passagers-invites-a-anticiper-les-departs_201872.html",
    "zone": "ci",
    "id": "fhb-anticiper-departs"
+  },
+  {
+   "ajoute": "2026-11-15T06:02:45Z",
+   "date": "2026-11-13",
+   "motscles": [
+    "FHB",
+    "extension",
+    "8 millions de passagers",
+    "2030",
+    "schéma directeur"
+   ],
+   "priorite": "haute",
+   "resume": "Le 12 novembre 2026, le ministre des Infrastructures, Yacouba Hien Sié, a présenté en ligne les grands projets d'ici 2030. L'aéroport Félix-Houphouët-Boigny doit être étendu pour accueillir 8 millions de passagers, contre 2,4 millions en 2025. L'article ne donne ni coût, ni financement, ni calendrier détaillé pour cette extension. Il cite aussi le métro et le BRT d'Abidjan pour fin 2028.",
+   "secteur": "aeroportuaire",
+   "sodexam": "En tant qu'autorité concédante, la SODEXAM a intérêt à vérifier le périmètre de l'extension et le lien avec le schéma directeur en cours d'élaboration. Les enjeux de sûreté, d'environnement (bruit, énergie) et de foncier sont à cadrer tôt avec AERIA et la tutelle.",
+   "source": "KOACI",
+   "titre": "Le ministre annonce 8 millions de passagers à FHB en 2030",
+   "url": "https://www.koaci.com/article/2026/11/13/cote-divoire/societe/cote-divoire-aeroport-fhb-ports-et-rails-les-grands-projets-prevus-dici-2030_202569.html",
+   "zone": "ci",
+   "id": "fhb-extension-8-millions-2030"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
