@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-17T06:21:16Z",
+ "exporte": "2026-11-17T10:21:21Z",
  "briefing": {
   "date": "2026-11-17",
-  "derniereCollecte": "2026-11-17T06:02:01Z",
-  "genereLe": "2026-11-17T06:02:01Z",
+  "derniereCollecte": "2026-11-17T10:02:49Z",
+  "genereLe": "2026-11-17T10:02:49Z",
   "points": [
    {
     "ids": [
@@ -16,17 +16,18 @@
      "ebola-arabie-saoudite-interdit-provenances-kenya",
      "ebola-saint-kitts-interdit-entree-huit-pays-nigeria"
     ],
-    "texte": "Depuis le 4 novembre 2026, l'OMS demande la levée des restrictions de voyage liées à Ebola. Madagascar a suivi le 6 novembre, mais les États-Unis, l'Arabie saoudite, le Koweït, la Corée du Sud et Saint-Kitts maintiennent les leurs. Emirates exige l'attestation américaine imprimée jusqu'au 18 décembre 2026 : l'information des passagers en correspondance à FHB est à caler avec AERIA et les compagnies. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43)."
+    "texte": "Depuis le 4 novembre 2026, l'OMS demande la levée des restrictions de voyage liées à Ebola. Madagascar a suivi le 6 novembre, mais les États-Unis, l'Arabie saoudite, le Koweit, la Corée du Sud et Saint-Kitts maintiennent les leurs. Emirates exige l'attestation américaine imprimée jusqu'au 18 décembre 2026 : l'information des passagers en correspondance à FHB est à caler avec AERIA et les compagnies. Toute mesure ivoirienne devra être justifiée et notifiée à l'OMS (RSI, article 43)."
    },
    {
     "ids": [
+     "cacao-el-nino-note-sodexam-baisse-25",
      "omm-etat-climat-cop31-147c-el-nino-decembre",
      "omm-cop31-programme-alerte-precoce",
      "omm-el-nino-record",
      "sodexam-saison-deficitaire",
      "cop31-afrique-financement-adaptation-differend"
     ],
-    "texte": "Le 9 novembre 2026, à l'ouverture de la COP31 à Antalya, l'OMM a publié son état du climat : +1,47 °C sur janvier-septembre et un El Niño attendu à un niveau record en décembre, avec des effets jusqu'en 2027. Le Groupe africain réclame de tripler le financement de l'adaptation et de reconstituer le FVC, alors que les pays développés n'ont versé que 28,2 milliards de dollars en 2024 selon le PNUE. Ces éléments sont à reprendre dans le programme A et les dossiers FVC et SOFF, et la DMN peut préparer une note sur les effets attendus en Côte d'Ivoire jusqu'à mi-2027, utilisable avant la fin de la COP le 20 novembre."
+    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 9 novembre 2026, à l'ouverture de la COP31, l'OMM a publié +1,47 °C sur janvier-septembre et un El Niño record attendu en décembre. Le Groupe africain réclame de tripler le financement de l'adaptation : à reprendre dans le programme A et les dossiers FVC et SOFF, avant la fin de la COP le 20 novembre."
    },
    {
     "ids": [
@@ -48,7 +49,7 @@
      "ebola-ghana-expert-limites-controle-temperature",
      "aeria-comite-facilitation-correspondances"
     ],
-    "texte": "Ghana, Togo, Cameroun et Nigeria ont durci les contrôles dans leurs aéroports. Le 4 novembre 2026, des députés kényans ont signalé un vol arrivé sans aucun contrôle sanitaire. À arrêter avec l'INHP : ce qu'on attend de FHB et des aéroports de l'intérieur au-delà de la prise de température. Le comité de facilitation d'AERIA du 5 novembre 2026 a inscrit la préparation aux crises sanitaires et le One-Stop Security à son ordre du jour : à rapprocher du dispositif Ebola de FHB."
+    "texte": "Ghana, Togo, Cameroun et Nigeria ont durçi les contrôles dans leurs aéroports. Le 4 novembre 2026, des députés kényans ont signalé un vol arrivé sans aucun contrôle sanitaire. À arrêter avec l'INHP : ce qu'on attend de FHB et des aéroports de l'intérieur au-delà de la prise de température. Le comité de facilitation d'AERIA du 5 novembre 2026 a inscrit la préparation aux crises sanitaires et le One-Stop Security à son ordre du jour : à rapprocher du dispositif Ebola de FHB."
    },
    {
     "ids": [
@@ -60,7 +61,7 @@
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a aussi mené un exercice de crise complet à San Pedro, le même jour que de fausses alertes à la bombe sur 16 vols en Europe. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-17T10:00:00Z"
+  "prochaineCollecte": "2026-11-17T14:00:00Z"
  },
  "items": [
   {
@@ -194,6 +195,26 @@
    "url": "https://news.fundsforngos.org/2026/10/05/afdb-270-million-financing-morocco-airport-expansion-modernisation-pemia/",
    "zone": "afrique",
    "id": "bad-maroc-pemia"
+  },
+  {
+   "ajoute": "2026-11-17T10:02:45Z",
+   "date": "2026-11-12",
+   "motscles": [
+    "cacao",
+    "El Niño",
+    "pluviométrie",
+    "SODEXAM",
+    "Reuters"
+   ],
+   "priorite": "haute",
+   "resume": "Selon une dépêche Reuters du 11 novembre 2026, une note de la SODEXAM ferait état d'une production de cacao en recul de 21 % à 25 % en 2026-2027 si El Niño est aussi intense que prévu. La direction nationale de la météorologie attend une baisse des pluies annuelles de 10 % à 27 %, une saison des pluies plus courte et une saison sèche plus longue. Des exportateurs disent que les arrivées sont sous leurs prévisions. L'article ne précise pas le lien entre la note citée et la prévision publiée en octobre : il complète l'article du 21 octobre sur la petite saison des pluies.",
+   "secteur": "meteorologie",
+   "sodexam": "Un chiffre de production attribué à la SODEXAM engage sa parole publique sur un sujet de marché. Vérifier ce que la note disait réellement, qui l'a transmise, et préparer une réponse unique de la DIRCOM et de la DMN si la presse ou la filière la reprend.",
+   "source": "Connection Ivoirienne (d'après Reuters)",
+   "titre": "Cacao ivoirien : une note de la SODEXAM, citée par Reuters, évoque une baisse jusqu'à 25 %",
+   "url": "https://connectionivoirienne.net/2026/11/12/cacao-ivoirien-el-nino-pourrait-faire-chuter-la-production-jusqua-25/",
+   "zone": "ci",
+   "id": "cacao-el-nino-note-sodexam-baisse-25"
   },
   {
    "ajoute": "2026-10-27T10:44:37Z",
