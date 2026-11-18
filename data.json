@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-18T10:20:47Z",
+ "exporte": "2026-11-18T14:20:52Z",
  "briefing": {
   "date": "2026-11-18",
-  "derniereCollecte": "2026-11-18T10:02:20Z",
-  "genereLe": "2026-11-18T06:02:32Z",
+  "derniereCollecte": "2026-11-18T14:02:30Z",
+  "genereLe": "2026-11-18T14:02:30Z",
   "points": [
    {
     "ids": [
@@ -34,9 +34,10 @@
      "omm-cop31-programme-alerte-precoce",
      "omm-el-nino-record",
      "sodexam-saison-deficitaire",
-     "cop31-afrique-financement-adaptation-differend"
+     "cop31-afrique-financement-adaptation-differend",
+     "sodexam-alerte-forte-chaleur-35c"
     ],
-    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 9 novembre 2026, à l'ouverture de la COP31, l'OMM a publié +1,47 °C sur janvier-septembre et un El Niño record attendu en décembre. Le Groupe africain réclame de tripler le financement de l'adaptation : à reprendre dans le programme A et les dossiers FVC et SOFF, avant la fin de la COP le 20 novembre."
+    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 9 novembre 2026, à l'ouverture de la COP31, l'OMM a publié +1,47 °C sur janvier-septembre et un El Niño record attendu en décembre. Le Groupe africain réclame de tripler le financement de l'adaptation : à reprendre dans le programme A et les dossiers FVC et SOFF, avant la fin de la COP le 20 novembre. Côté prévision, la SODEXAM a émis un bulletin de forte chaleur (jusqu'à 35 °C) pour les 17 et 18 novembre 2026."
    },
    {
     "ids": [
@@ -48,7 +49,7 @@
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a mené un exercice de crise complet à San Pedro. À prévoir : un retour d'expérience écrit avec plan d'actions daté et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-18T14:00:00Z"
+  "prochaineCollecte": "2026-11-18T18:00:00Z"
  },
  "items": [
   {
@@ -1796,6 +1797,26 @@
    "url": "https://faso7.com/2026/10/22/aeroport-international-de-ouagadougou-la-safa-renforce-la-preparation-aux-situations-durgence/",
    "zone": "afrique",
    "id": "safa-plan-urgence"
+  },
+  {
+   "ajoute": "2026-11-18T14:02:23Z",
+   "date": "2026-11-17",
+   "motscles": [
+    "chaleur",
+    "alerte météo",
+    "SODEXAM",
+    "DMN",
+    "Côte d'Ivoire"
+   ],
+   "priorite": "veille",
+   "resume": "La SODEXAM a diffusé un bulletin d'alerte annonçant un épisode de forte chaleur les mardi 17 et mercredi 18 novembre 2026, avec des températures pouvant atteindre 35 °C. L'alerte concerne l'ensemble des régions du pays. L'extrait consulté ne donne ni seuils par région ni consignes sanitaires.",
+   "secteur": "meteorologie",
+   "sodexam": "Bulletin émis par la SODEXAM elle-même : la DMN et la DIRCOM peuvent vérifier que le message est cohérent avec les derniers bulletins et repris sur les canaux officiels. L'impact sur les opérations aéroportuaires est indirect (chaleur sur les pistes, confort en aérogare), à confirmer avec la Direction des aéroports.",
+   "source": "Linfodrome",
+   "titre": "SODEXAM alerte sur deux jours de forte chaleur jusqu'à 35 °C",
+   "url": "https://www.linfodrome.com/societe/127747-cote-d-ivoire-la-sodexam-alerte-sur-deux-jours-de-forte-chaleur-allant-jusqu-a-35-c",
+   "zone": "ci",
+   "id": "sodexam-alerte-forte-chaleur-35c"
   },
   {
    "ajoute": "2026-11-06T17:43:57Z",
