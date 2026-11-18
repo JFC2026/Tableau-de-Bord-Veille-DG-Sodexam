@@ -1,10 +1,19 @@
 {
- "exporte": "2026-11-17T22:20:31Z",
+ "exporte": "2026-11-18T06:20:41Z",
  "briefing": {
-  "date": "2026-11-17",
-  "derniereCollecte": "2026-11-17T22:02:14Z",
-  "genereLe": "2026-11-17T10:02:49Z",
+  "date": "2026-11-18",
+  "derniereCollecte": "2026-11-18T06:02:32Z",
+  "genereLe": "2026-11-18T06:02:32Z",
   "points": [
+   {
+    "ids": [
+     "ebola-africa-cdc-pas-sous-controle-11200-cas",
+     "ebola-oms-rdc-11114-cas-situation-preoccupante",
+     "ebola-nigeria-fin-suivi-62-contacts",
+     "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
+    ],
+    "texte": "Le 15 novembre 2026, l'Africa CDC juge l'épidémie d'Ebola en RDC non maîtrisée : plus de 11 200 cas, plus de 5 500 décès, et plus de 80 % des nouveaux cas hors des listes de contacts. Le Nigeria a clos le 13 novembre 2026 le suivi de ses 62 contacts sans cas secondaire et le Kenya n'a plus de nouveau cas, donc le risque d'importation en Afrique de l'Ouest recule. Rien ne justifie de changer le dispositif de FHB sans avis de l'INHP, mais il faut le maintenir."
+   },
    {
     "ids": [
      "ebola-oms-tedros-levee-restrictions-voyage",
@@ -31,57 +40,17 @@
    },
    {
     "ids": [
-     "ebola-nigeria-fin-suivi-62-contacts",
-     "ebola-oms-rdc-11114-cas-situation-preoccupante",
-     "ebola-ecdc-rdc-10741-cas-5230-deces",
-     "ebola-rdc-attaque-adf-patients-fuient-nord-kivu",
-     "ebola-ecdc-ouganda-fin-epidemie-rdc-10532-cas",
-     "ebola-kenya-sixieme-guerison-760000-voyageurs-controles"
-    ],
-    "texte": "Au 10 novembre 2026, la RDC compte 11 114 cas confirmés et 5 433 décès selon l'OMS, avec 400 à 500 nouveaux cas par semaine et une hausse de 31 % au Nord-Kivu. Le Nigeria a clos le 13 novembre 2026 le suivi de ses 62 contacts, sans cas secondaire ; le Kenya n'a plus de nouveau cas depuis le 20 octobre et l'Ouganda est sorti de l'épidémie. Le risque d'importation baisse côté Afrique de l'Ouest, mais l'épidémie congolaise continue : rien ne justifie de modifier le dispositif de FHB sans avis de l'INHP."
-   },
-   {
-    "ids": [
-     "ebola-ghana-regles-voyage-hotels-signalement",
-     "ebola-ci-don-6-milliards-psp-equipements",
-     "ebola-togo-depistage-thermique-lome",
-     "ebola-kenya-deputes-lacunes-controle-aeroports",
-     "ebola-ghana-expert-limites-controle-temperature",
-     "aeria-comite-facilitation-correspondances"
-    ],
-    "texte": "Ghana, Togo, Cameroun et Nigeria ont durçi les contrôles dans leurs aéroports. Le 4 novembre 2026, des députés kényans ont signalé un vol arrivé sans aucun contrôle sanitaire. À arrêter avec l'INHP : ce qu'on attend de FHB et des aéroports de l'intérieur au-delà de la prise de température. Le comité de facilitation d'AERIA du 5 novembre 2026 a inscrit la préparation aux crises sanitaires et le One-Stop Security à son ordre du jour : à rapprocher du dispositif Ebola de FHB."
-   },
-   {
-    "ids": [
      "fhb-extension-8-millions-2030",
      "sodexam-exercice-crise-san-pedro",
      "europe-alertes-bombe-16-vols-5-novembre",
-     "air-cote-divoire-a320-bamako-collision-animal"
+     "aeria-comite-facilitation-correspondances"
     ],
-    "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a aussi mené un exercice de crise complet à San Pedro, le même jour que de fausses alertes à la bombe sur 16 vols en Europe. À prévoir : un retour d'expérience écrit avec plan d'actions daté, une procédure de démenti rapide pour la DIRCOM et le même exercice à Bouaké, Korhogo et Yamoussoukro."
+    "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a mené un exercice de crise complet à San Pedro. À prévoir : un retour d'expérience écrit avec plan d'actions daté et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-18T06:00:00Z"
+  "prochaineCollecte": "2026-11-18T10:00:00Z"
  },
  "items": [
-  {
-   "ajoute": "2026-10-26T11:28:00Z",
-   "date": "2026-09-18",
-   "motscles": [
-    "ACI Africa",
-    "rentabilité",
-    "BAD"
-   ],
-   "priorite": "veille",
-   "resume": "Le chiffre a été avancé par Ali Tounsi avant l'assemblée d'ACI Africa à Abuja, du 19 au 25 septembre, sans étude publiée à l'appui. L'article cite aussi le projet de Bishoftu en Éthiopie, à 10 milliards de dollars, dont près de 8 mobilisés avec la BAD.",
-   "secteur": "aeroportuaire",
-   "sodexam": "Le réseau intérieur entre dans cette catégorie. Chiffre à manier avec prudence, mais utile pour défendre devant la tutelle un modèle de recettes mixte : redevances, foncier, services.",
-   "source": "The Rio Times",
-   "titre": "ACI Africa : quatre aéroports africains sur cinq ne seraient pas rentables",
-   "url": "https://www.riotimesonline.com/african-airport-finances-aci-africa-abuja-2026/",
-   "zone": "afrique",
-   "id": "aci-africa-rentabilite"
-  },
   {
    "ajoute": "2026-11-11T18:02:40Z",
    "date": "2026-11-10",
@@ -314,6 +283,26 @@
    "url": "https://africacdc.org/news-item/africa-cdc-stands-with-kenya-calls-for-lifting-of-unjustified-ebola-travel-restrictions/",
    "zone": "afrique",
    "id": "ebola-africa-cdc-demande-levee-restrictions-kenya"
+  },
+  {
+   "ajoute": "2026-11-18T06:02:22Z",
+   "date": "2026-11-15",
+   "motscles": [
+    "Ebola",
+    "RDC",
+    "Africa CDC",
+    "contrôle sanitaire",
+    "RSI"
+   ],
+   "priorite": "haute",
+   "resume": "Selon des données gouvernementales citées le 15 novembre 2026, la RDC dépasse 11 200 cas et 5 500 décès depuis le 15 mai, dans 8 provinces sur 26. Plus de 80 % des nouveaux cas apparaissent hors des listes de contacts et plus de 65 % des décès surviennent dans la communauté. Sur 2,9 milliards de dollars promis, 1,3 milliard ont été débloqués. Le Kenya maintient des mesures de prévention jusqu'au 23 décembre. Les chiffres sont légèrement supérieurs à ceux de l'OMS au 10 novembre déjà publiés ici.",
+   "secteur": "medecine",
+   "sodexam": "Le risque d'importation reste faible mais ne disparaît pas tant que la chaîne de transmission n'est pas tracée. À confirmer avec l'INHP : maintien du dispositif sanitaire de FHB et des aéroports de l'intérieur, et circuit d'alerte vers la DMN et la sûreté en cas de passager suspect.",
+   "source": "Al Jazeera (Reuters)",
+   "titre": "Ebola en RDC : plus de 11 200 cas, l'Africa CDC juge l'épidémie non maîtrisée",
+   "url": "https://www.aljazeera.com/amp/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
+   "zone": "afrique",
+   "id": "ebola-africa-cdc-pas-sous-controle-11200-cas"
   },
   {
    "ajoute": "2026-10-27T07:43:56Z",
