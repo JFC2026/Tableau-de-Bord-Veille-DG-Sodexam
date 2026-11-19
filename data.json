@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-18T22:20:42Z",
+ "exporte": "2026-11-19T06:20:33Z",
  "briefing": {
-  "date": "2026-11-18",
-  "derniereCollecte": "2026-11-18T22:02:26Z",
-  "genereLe": "2026-11-18T14:02:30Z",
+  "date": "2026-11-19",
+  "derniereCollecte": "2026-11-19T06:02:32Z",
+  "genereLe": "2026-11-19T06:02:32Z",
   "points": [
    {
     "ids": [
@@ -32,12 +32,13 @@
      "cacao-el-nino-note-sodexam-baisse-25",
      "omm-etat-climat-cop31-147c-el-nino-decembre",
      "omm-cop31-programme-alerte-precoce",
+     "omm-alerte-precoce-afrique-lacune-ouest-centrale",
      "omm-el-nino-record",
      "sodexam-saison-deficitaire",
      "cop31-afrique-financement-adaptation-differend",
      "sodexam-alerte-forte-chaleur-35c"
     ],
-    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 9 novembre 2026, à l'ouverture de la COP31, l'OMM a publié +1,47 °C sur janvier-septembre et un El Niño record attendu en décembre. Le Groupe africain réclame de tripler le financement de l'adaptation : à reprendre dans le programme A et les dossiers FVC et SOFF, avant la fin de la COP le 20 novembre. Côté prévision, la SODEXAM a émis un bulletin de forte chaleur (jusqu'à 35 °C) pour les 17 et 18 novembre 2026."
+    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 12 novembre 2026, l'OMM a précisé que moins de la moitié des sinistrés d'Afrique de l'Ouest et centrale reçoivent une alerte et que El Niño (+3,8 °C prévus) durera au moins jusqu'en février 2027 : argument à reprendre dans le programme A et les dossiers FVC et SOFF avant la fin de la COP31 le 20 novembre. Le Groupe africain réclame de tripler le financement de l'adaptation."
    },
    {
     "ids": [
@@ -49,7 +50,7 @@
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a mené un exercice de crise complet à San Pedro. À prévoir : un retour d'expérience écrit avec plan d'actions daté et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-19T06:00:00Z"
+  "prochaineCollecte": "2026-11-19T10:00:00Z"
  },
  "items": [
   {
@@ -1643,6 +1644,26 @@
    "url": "https://thewillnews.com/fg-approves-%E2%82%A645bn-to-strengthen-airport-defences-against-ebola-other-pathogens/",
    "zone": "afrique",
    "id": "nigeria-45-milliards-biosurveillance-aeroports"
+  },
+  {
+   "ajoute": "2026-11-19T06:02:22Z",
+   "date": "2026-11-12",
+   "motscles": [
+    "alerte précoce",
+    "OMM",
+    "El Niño",
+    "COP31",
+    "Afrique de l'Ouest"
+   ],
+   "priorite": "haute",
+   "resume": "Lors de l'événement sur les alertes précoces en Afrique à la COP31, la secrétaire générale de l'OMM a indiqué que l'Afrique est la région qui a le plus progressé, au niveau moyen des Amériques selon le rapport OMM-UNDRR du 11 novembre 2026. En Afrique centrale et de l'Ouest, moins de la moitié des personnes touchées par une catastrophe ont reçu une alerte. L'OMM donne El Niño persistant jusqu'en février 2027 au moins, avec une anomalie prévue de 3,8 °C dans le Pacifique, le plus fort depuis 1950. Elle appelle à prolonger les systèmes d'alerte au-delà de 2027.",
+   "secteur": "meteorologie",
+   "sodexam": "L'écart de couverture en Afrique de l'Ouest appuie directement le programme A (observation et alerte) et les dossiers FVC et SOFF. À mobiliser avant la fin de la COP31 le 20 novembre 2026.",
+   "source": "OMM",
+   "titre": "OMM : en Afrique de l'Ouest et centrale, moins de la moitié des sinistrés alertés",
+   "url": "https://wmo.int/ar/node/39238",
+   "zone": "afrique",
+   "id": "omm-alerte-precoce-afrique-lacune-ouest-centrale"
   },
   {
    "ajoute": "2026-10-28T12:55:07Z",
