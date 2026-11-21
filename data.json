@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-21T14:20:54Z",
+ "exporte": "2026-11-21T18:20:54Z",
  "briefing": {
   "date": "2026-11-21",
-  "derniereCollecte": "2026-11-21T14:02:27Z",
-  "genereLe": "2026-11-21T06:03:10Z",
+  "derniereCollecte": "2026-11-21T18:02:32Z",
+  "genereLe": "2026-11-21T18:02:32Z",
   "points": [
    {
     "ids": [
@@ -31,6 +31,7 @@
     "ids": [
      "vigiclimm-cop31-antalya-bilan-23-milliards",
      "cacao-el-nino-note-sodexam-baisse-25",
+     "koaci-super-el-nino-2026-2027-secteurs-vitaux",
      "omm-etat-climat-cop31-147c-el-nino-decembre",
      "omm-cop31-programme-alerte-precoce",
      "omm-alerte-precoce-afrique-lacune-ouest-centrale",
@@ -39,7 +40,7 @@
      "cop31-afrique-financement-adaptation-differend",
      "sodexam-alerte-forte-chaleur-35c"
     ],
-    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. La DIRCOM et la DMN doivent vérifier la source du chiffre et préparer une ligne commune. Le 12 novembre 2026, l'OMM a précisé que moins de la moitié des sinistrés d'Afrique de l'Ouest et centrale reçoivent une alerte et que El Niño (+3,8 °C prévus) durera au moins jusqu'en février 2027. Le 16 novembre 2026, le DG a présenté VIGICLIMM à la COP31 (85 % du prêt AFD décaissé, 27 stations) : à reprendre dans le programme A et les dossiers FVC et SOFF."
+    "texte": "Le 11 novembre 2026, Reuters a cité une note de la SODEXAM : cacao en baisse de 21 % à 25 % en 2026-2027 et pluies annuelles en recul de 10 % à 27 % si El Niño est aussi intense que prévu. Le 19 novembre 2026, KOACI a repris ces chiffres sans citer de document d'origine : la DIRCOM et la DMN doivent publier une ligne commune et vérifier la source. Le 12 novembre 2026, l'OMM a précisé que moins de la moitié des sinistrés d'Afrique de l'Ouest et centrale reçoivent une alerte et que El Niño durera au moins jusqu'en février 2027. Le 16 novembre 2026, le DG a présenté VIGICLIMM à la COP31 (85 % du prêt AFD décaissé, 27 stations) : à reprendre dans le programme A et les dossiers FVC et SOFF."
    },
    {
     "ids": [
@@ -51,7 +52,7 @@
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a mené un exercice de crise complet à San Pedro. À prévoir : un retour d'expérience écrit avec plan d'actions daté et le même exercice à Bouaké, Korhogo et Yamoussoukro."
    }
   ],
-  "prochaineCollecte": "2026-11-21T18:00:00Z"
+  "prochaineCollecte": "2026-11-21T22:00:00Z"
  },
  "items": [
   {
@@ -1607,6 +1608,26 @@
    "url": "https://www.ghanaweb.com/GhanaHomePage/business/AWA-debunks-Kumasi-Airport-evacuation-reports-says-aircraft-was-on-demonstration-flight-2060308",
    "zone": "afrique",
    "id": "ghana-awa-kumasi-dement-evacuation-e190"
+  },
+  {
+   "ajoute": "2026-11-21T18:02:32Z",
+   "date": "2026-11-19",
+   "motscles": [
+    "El Niño",
+    "GEOGLAM",
+    "cacao",
+    "barrages",
+    "communication"
+   ],
+   "priorite": "veille",
+   "resume": "L'article s'appuie sur un rapport Crop Monitor du GEOGLAM daté du 16 octobre 2026 : anomalie de +2,1 °C en zone Niño-3.4 en septembre, pic attendu d'octobre à décembre 2026 et persistance jusqu'en avril-mai 2027. Il reprend, sans citer de document d'origine, des chiffres attribués à la SODEXAM : pluies annuelles en recul de 10 % à 27 %, cacao en baisse de 21 % à 25 %, température moyenne de 27,2 à 27,5 °C en 2026-2027. Il alerte aussi sur les bassins du Bandama, du Sassandra, de la Comoé et du Cavally, donc sur les barrages. Ces chiffres sont ceux de l'article Reuters du 11 novembre déjà suivi, repris ici de seconde main.",
+   "secteur": "meteorologie",
+   "sodexam": "Les chiffres circulent désormais dans la presse ivoirienne sans source officielle identifiée : la DMN et la DIRCOM ont intérêt à publier un communiqué de référence. L'article ne mentionne aucun effet sur les aéroports ni sur l'aviation.",
+   "source": "KOACI",
+   "titre": "KOACI : le super El Niño 2026-2027 menace agriculture, eau et énergie en Côte d'Ivoire",
+   "url": "https://www.koaci.com/article/2026/11/19/cote-divoire/societe/cote-divoire-agriculture-eau-energie-sante-le-super-el-nino-2026-2027-annonce-une-periode-a-haut-risque-et-menace-tous-les-secteurs-vitaux_202796.html",
+   "zone": "ci",
+   "id": "koaci-super-el-nino-2026-2027-secteurs-vitaux"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
