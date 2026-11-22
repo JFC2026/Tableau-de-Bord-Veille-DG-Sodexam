@@ -1,9 +1,9 @@
 {
- "exporte": "2026-11-22T18:20:58Z",
+ "exporte": "2026-11-22T22:20:39Z",
  "briefing": {
   "date": "2026-11-22",
-  "derniereCollecte": "2026-11-22T18:02:16Z",
-  "genereLe": "2026-11-22T06:01:55Z",
+  "derniereCollecte": "2026-11-22T22:02:50Z",
+  "genereLe": "2026-11-22T22:02:50Z",
   "points": [
    {
     "ids": [
@@ -50,9 +50,15 @@
      "aeria-comite-facilitation-correspondances"
     ],
     "texte": "Le 12 novembre 2026, le ministre des Infrastructures a annoncé une extension de FHB pour 8 millions de passagers en 2030, contre 2,4 millions en 2025, sans coût ni calendrier détaillé : la SODEXAM doit cadrer tôt le périmètre avec AERIA et la tutelle. Le 5 novembre 2026, elle a mené un exercice de crise complet à San Pedro. À prévoir : un retour d'expérience écrit avec plan d'actions daté et le même exercice à Bouaké, Korhogo et Yamoussoukro."
+   },
+   {
+    "ids": [
+     "ue-liste-securite-aerienne-12-pays-africains"
+    ],
+    "texte": "Le 17 novembre 2026, OkayAfrica a rapporté que l'UE maintient 12 pays africains sur sa liste de sécurité aérienne, sans la Côte d'Ivoire. Le nombre de compagnies nommées (87 ou 89 selon les passages de l'article) est à vérifier auprès de la Commission avant toute reprise."
    }
   ],
-  "prochaineCollecte": "2026-11-22T22:00:00Z"
+  "prochaineCollecte": "2026-11-23T06:00:00Z"
  },
  "items": [
   {
@@ -1918,6 +1924,25 @@
    "url": "https://www.koaci.com/article/2026/11/04/somalie/societe/somalie-un-garde-du-corps-tue-par-lhelice-dun-avion-a-laeroport_202261.html",
    "zone": "afrique",
    "id": "somalie-dhusamareb-helice-mort-tarmac"
+  },
+  {
+   "ajoute": "2026-11-22T22:02:42Z",
+   "date": "2026-11-17",
+   "motscles": [
+    "liste de sécurité aérienne UE",
+    "sécurité aérienne",
+    "Afrique",
+    "OACI"
+   ],
+   "priorite": "veille",
+   "resume": "Selon OkayAfrica, l'UE garde des restrictions sur 12 pays africains dans la dernière mise à jour de sa liste de sécurité aérienne : Angola, Congo, RD Congo, Djibouti, Guinée équatoriale, Érythrée, Liberia, Libye, Sao Tomé-et-Principe, Sierra Leone, Soudan et Tanzanie. Quatre-vingt-sept compagnies sont nommées dans 10 de ces pays. TAAG et Heli Malongo (Angola) sont autorisées. L'article donne aussi 89 compagnies dans un autre passage : le chiffre est à vérifier dans la source primaire de la Commission.",
+   "secteur": "aeronautique",
+   "sodexam": "La Côte d'Ivoire n'est pas citée. Impact indirect : la liste sert de référence aux audits de sécurité et à l'image du transport aérien africain, utile pour le suivi USOAP de l'ANAC et pour les accords de correspondance au hub d'Abidjan.",
+   "source": "OkayAfrica",
+   "titre": "L'UE maintient 12 pays africains sur sa liste de sécurité aérienne",
+   "url": "https://www.okayafrica.com/today-in-africa-nov-17-2026-eu-keeps-aviation-bans-on-12-african-countries-naming-87-airlines-mo-abudu-launches-50m-afro-film-fund/1442009",
+   "zone": "afrique",
+   "id": "ue-liste-securite-aerienne-12-pays-africains"
   },
   {
    "ajoute": "2026-10-28T12:55:07Z",
