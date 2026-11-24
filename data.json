@@ -1,6 +1,10 @@
 {
- "exporte": "2026-11-24T14:21:16Z",
+ "exporte": "2026-11-24T18:20:45Z",
  "briefing": {
+  "data": {
+   "derniereCollecte": "2026-11-24T18:02:06Z",
+   "prochaineCollecte": "2026-11-24T22:00:00Z"
+  },
   "date": "2026-11-24",
   "derniereCollecte": "2026-11-24T14:02:34Z",
   "genereLe": "2026-11-24T06:02:20Z",
