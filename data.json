@@ -1,13 +1,13 @@
 {
- "exporte": "2026-11-25T10:20:50Z",
+ "exporte": "2026-11-25T14:21:19Z",
  "briefing": {
   "data": {
-   "derniereCollecte": "2026-11-25T10:02:24Z",
-   "prochaineCollecte": "2026-11-25T14:00:00Z"
+   "derniereCollecte": "2026-11-25T14:03:10Z",
+   "prochaineCollecte": "2026-11-25T18:00:00Z"
   },
   "date": "2026-11-25",
-  "derniereCollecte": "2026-11-25T10:02:24Z",
-  "genereLe": "2026-11-25T06:03:10Z",
+  "derniereCollecte": "2026-11-25T14:03:10Z",
+  "genereLe": "2026-11-25T14:03:10Z",
   "points": [
    {
     "ids": [
@@ -57,12 +57,13 @@
    },
    {
     "ids": [
+     "air-cote-divoire-deux-a319-supplementaires",
      "ue-liste-securite-aerienne-12-pays-africains"
     ],
-    "texte": "Le 17 novembre 2026, OkayAfrica a rapporté que l'UE maintient 12 pays africains sur sa liste de sécurité aérienne, sans la Côte d'Ivoire. Le nombre de compagnies nommées (87 ou 89 selon les passages de l'article) est à vérifier auprès de la Commission avant toute reprise."
+    "texte": "Le 21 novembre 2026, KOACI a relayé une information de Gate7 : Air Côte d'Ivoire ajoute deux A319 loués (flotte de 16 avions) et vise 35 destinations en 2031. Sans communiqué de la compagnie à ce stade, à confirmer avant usage officiel ; la hausse des mouvements est à intégrer dans les projections de FHB et des aéroports de l'intérieur. Le 17 novembre 2026, OkayAfrica a rapporté que l'UE maintient 12 pays africains sur sa liste de sécurité aérienne, sans la Côte d'Ivoire ; le nombre de compagnies nommées (87 ou 89) est à vérifier auprès de la Commission."
    }
   ],
-  "prochaineCollecte": "2026-11-25T14:00:00Z"
+  "prochaineCollecte": "2026-11-25T18:00:00Z"
  },
  "items": [
   {
@@ -159,6 +160,25 @@
    "url": "https://www.linfodrome.com/economie/126887-air-cote-d-ivoire-plusieurs-avions-immobilises-les-vols-regionaux-ajustes",
    "zone": "ci",
    "id": "air-cote-divoire-avions-immobilises"
+  },
+  {
+   "ajoute": "2026-11-25T14:03:02Z",
+   "date": "2026-11-21",
+   "motscles": [
+    "Air Côte d'Ivoire",
+    "A319",
+    "flotte",
+    "destinations 2031"
+   ],
+   "priorite": "veille",
+   "resume": "Air Côte d'Ivoire reçoit deux Airbus A319 de huit ans, loués au bailleur allemand AFG et auparavant exploités par la chinoise Air Travel. Chaque appareil compte 144 sièges. La flotte passe à 16 avions, dont 7 A319 et 2 A330neo. La compagnie vise 35 destinations en 2031, contre une vingtaine aujourd'hui. KOACI relaie une information de Gate7, sans communiqué de la compagnie ni date de livraison.",
+   "secteur": "aeronautique",
+   "sodexam": "Plus d'avions et de destinations veut dire plus de mouvements à FHB et dans les aéroports de l'intérieur, donc plus de besoins en assistance météo et en capacité d'accueil. L'information reste à confirmer auprès de la compagnie ou de l'ANAC avant tout usage dans un document officiel.",
+   "source": "KOACI",
+   "titre": "Air Côte d'Ivoire ajoute deux Airbus A319 loués et vise 35 destinations en 2031",
+   "url": "https://www.koaci.com/article/2026/11/21/cote-divoire/economie/cote-divoire-air-cote-divoire-renforce-sa-flotte-avec-deux-airbus-a319-supplementaires_202892.html",
+   "zone": "ci",
+   "id": "air-cote-divoire-deux-a319-supplementaires"
   },
   {
    "ajoute": "2026-10-26T11:28:00Z",
